@@ -4,9 +4,10 @@ from random import randint
 from faker import Faker
 from faker.providers import phone_number, address, date_time
 
-from .config import data_path
+from .config import data_path, to_ppath
 
 import csv
+import configparser
 
 fake = Faker("it_IT")
 
@@ -17,14 +18,24 @@ fake.add_provider(date_time)
 ncells = 0
 people = []
 
-def generate(size: tuple):
+def generate(load: int):
     global ncells
-    ncells = size[1]
 
-    gen_people(size[0])
-    gen_cells(size[1])
-    gen_calls(size[2])
+    config = configparser.ConfigParser()
+    config.read(to_ppath('config.ini'))
 
+    ncells = int((config.getint('load', 'MAX_CELLS') * load) / 100)
+
+    gen_start_time = datetime.now()
+
+    print('[Info] inizio generazione dataset: ', gen_start_time.strftime('%d/%m/%Y %H:%M:%S'))
+
+    gen_people(int((config.getint('load', 'MAX_PEOPLE') * load) / 100))
+    gen_cells(ncells)
+    gen_calls(int((config.getint('load', 'MAX_CALLS') * load) / 100))
+
+    gen_end_time = datetime.now()
+    print('[Info] fine generazione dataset: ', gen_end_time.strftime('%d/%m/%Y %H:%M:%S'), ' - tempo impiegato: ', (gen_end_time - gen_start_time).microseconds, 'ms')
 
 def gen_people(size: int):
     with open(data_path("people.csv"), 'w', newline='') as file:

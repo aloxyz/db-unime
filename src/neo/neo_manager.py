@@ -1,2 +1,2 @@
-def process(clear=0):
+def exec(load: int, refresh: bool):
     pass
