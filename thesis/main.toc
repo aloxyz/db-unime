@@ -9,10 +9,10 @@
 \contentsline {subsection}{\numberline {4.3}Python}{6}{}%
 \contentsline {section}{\numberline {5}Implementazione}{6}{}%
 \contentsline {subsection}{\numberline {5.1}Generazione dei dati}{7}{}%
-\contentsline {subsection}{\numberline {5.2}Importazione dei dati}{8}{}%
-\contentsline {section}{\numberline {6}Risultati degli esperimenti}{9}{}%
-\contentsline {subsection}{\numberline {6.1}2 WHERE 1 JOIN}{10}{}%
-\contentsline {subsection}{\numberline {6.2}2 WHERE 2 JOIN}{11}{}%
-\contentsline {subsection}{\numberline {6.3}3 WHERE 1 GROUP BY}{12}{}%
-\contentsline {subsection}{\numberline {6.4}2 WHERE 2 JOIN 1 GROUP BY}{13}{}%
-\contentsline {section}{\numberline {7}Conclusioni}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Importazione dei dati}{9}{}%
+\contentsline {section}{\numberline {6}Risultati degli esperimenti}{10}{}%
+\contentsline {subsection}{\numberline {6.1}2 WHERE 1 JOIN}{11}{}%
+\contentsline {subsection}{\numberline {6.2}2 WHERE 2 JOIN}{12}{}%
+\contentsline {subsection}{\numberline {6.3}3 WHERE 1 GROUP BY}{13}{}%
+\contentsline {subsection}{\numberline {6.4}2 WHERE 2 JOIN 1 GROUP BY}{14}{}%
+\contentsline {section}{\numberline {7}Conclusioni}{15}{}%

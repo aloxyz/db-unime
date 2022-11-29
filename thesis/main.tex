@@ -44,10 +44,36 @@
 \usepackage{eurosym}
 \usepackage[export]{adjustbox}
 
+\usepackage{listings}
+\usepackage{xcolor}
 
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
 
 \begin{document}
-
 \begin{titlepage}
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
@@ -220,10 +246,57 @@ Da qui desumiamo
     MongoDB e Neo4j. Le dimensioni stabilite sono 100\%, 75\%, 50\%, 25\%, che indicano rispettivamente
     le dimensioni dei dataset in base al dataset con il 100\% del contenuto di informazioni.
     Per popolare il database con dati fittizi, si è scritto un codice Python che utilizza Faker.
-    Un file \textit{ini} contiene un valore fisso che indica il numero di record da generare.
+    Il file \texttt{config.ini} contiene i parametri fissi che indicano il numero di record da generare.
     Al momento dell'avvio dello script viene passato un parametro $L$ che indica la percentuale
     del carico in base a questi valori. 
     Come valori predefiniti si è scelto 50000 persone, 10000 celle e 200000 chiamate.
+    
+    \begin{lstlisting}[caption=config.ini]
+[load]
+MAX_PEOPLE=50000
+MAX_CELLS=10000
+MAX_CALLS=200000
+    \end{lstlisting}
+
+
+    \pagebreak
+    \begin{lstlisting}[language=Python, caption=main.py]
+from src.startup import init_parser, get_args
+import src.datasetgen as generator
+
+import src.mongo.mongo_manager as mongomg
+import src.neo.neo_manager as neomg
+
+DEFAULT_SETSIZE = 100000
+
+def boot():
+    init_parser()
+    args = get_args()
+
+    assert args.load, 'indicare il carico del dataset: '
+
+    load = int(args.load[0])
+    refresh = (args.g or args.r) is not None
+
+    if args.g is True:
+        generator.generate(load)
+        pass
+
+    exec(args.ignore or [], load, refresh)
+
+def exec(ignore: tuple, load: int, refresh: bool):
+    print(refresh)
+
+    if 'mongo' not in ignore:
+        mongomg.exec(load, refresh)
+
+    if 'neo' not in ignore:
+        neomg.exec(load, refresh)
+
+if __name__ == '__main__':
+    boot()
+    \end{lstlisting}
+
 
     \pagebreak
     \subsection{Importazione dei dati}
