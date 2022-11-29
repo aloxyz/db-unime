@@ -192,9 +192,16 @@ una struttura del tipo:
 
 \includegraphics[width=350px, keepaspectratio]{er.png}\\[1cm]
 
-Da qui desumiamo 
-
 \pagebreak
+Da qui desumiamo le seguenti entità:
+\begin{itemize}
+    \item Utente - identificato da un \textit{numero} di telefono univoco, \textit{nome}, \textit{cognome} e \textit{nome completo}
+    \item Chiamata - identificata da un \textit{id}
+    \item Cella - identificata da un \textit{id,} caratterizzata da una \textit{città, indirizzo} e una \textit{regione} 
+\end{itemize}
+
+e le relazioni \textit{localizzata, Chiamante} e \textit{Chiamato}.
+
 \section{Architettura}
 
     \subsection{Neo4j}
@@ -215,8 +222,6 @@ Da qui desumiamo
     nelle ricerche complesse, per esempio basate su confronti matematici e non
     supporta lo \textit{sharding.}
 
-    \vfill
-
     \subsection{MongoDB}
     MongoDB è un DBMS NoSQL \textit{document-oriented.} Si basa sulla memorizzazione
     in base di documenti in formato \textit{BSON,} ispirato al JSON ma con l'aggiunta
@@ -231,7 +236,6 @@ Da qui desumiamo
     esponendo agli sviluppatori delle funzioni per la manipolazione del dato. GridFS divide il file
     in chunks e memorizza ognuno di questi in un documento separato.  
 
-    \pagebreak
     \subsection{Python}
     Python è un linguaggio di programmazione orientato agli oggetti. Si è scelto di utilizzare questo
     linguaggio per la semplicità di utilizzo e la facile disponibilità dei driver per accedere e manipolare
@@ -239,8 +243,87 @@ Da qui desumiamo
     la generazione di grafici. Si utilizza oltre ciò la libreria \textit{Faker} per generare i dati fittizi.
 
 \section{Implementazione}
+    Come visto nella sezione 3, abbiamo esumato delle entità e relazioni. Queste sono state implementate
+    nei due DMBS nel loro rispettivo modo.
 
-    \pagebreak
+    \subsection{Neo4j}
+
+    Sono definiti i seguenti nodi
+    \begin{itemize}
+        \item \textit{cell}:
+            \begin{itemize}
+                \item cell\_site, ID
+                \item state
+                \item city
+                \item address
+            \end{itemize}
+
+        \item \textit{person}:
+            \begin{itemize}
+                \item first\_name
+                \item last\_name
+                \item full\_name
+                \item number
+            \end{itemize}
+
+        \item \textit{call}:
+            \begin{itemize}
+                \item calling\_number
+                \item called\_number
+                \item start\_date
+                \item end\_date
+                \item duration
+                \item cell\_cite, si riferisce al cell\_site di \textit{cell}
+            \end{itemize}
+    \end{itemize}
+
+    E i seguenti archi (\textit{label})
+
+    \begin{itemize}
+        \item \textit{made\_call}: person.number $\rightarrow$ call.calling\_number
+        \item \textit{received\_call}: call.called\_number $\rightarrow$ person.number
+        \item \textit{located\_in}: call.cell\_site $\rightarrow$ cell.cell\_site
+    \end{itemize}
+
+
+
+    \subsection{MongoDB}
+    Sono definite le seguenti collezioni
+    \begin{itemize}
+        \item \textit{cells}:
+            \begin{itemize}
+                \item cell\_site, ID
+                \item state
+                \item city
+                \item address
+            \end{itemize}
+
+        \item \textit{people}:
+            \begin{itemize}
+                \item first\_name
+                \item last\_name
+                \item full\_name
+                \item number
+            \end{itemize}
+
+        \item \textit{calls}:
+            \begin{itemize}
+                \item calling\_number
+                \item called\_number
+                \item start\_date
+                \item end\_date
+                \item duration
+                \item cell\_cite, si riferisce al cell\_site di \textit{cell}
+            \end{itemize}
+    \end{itemize}
+
+    E le relazioni
+    \begin{itemize}
+        \item \textit{made\_call}: person.number $\rightarrow$ call.calling\_number
+        \item \textit{received\_call}: call.called\_number $\rightarrow$ person.number
+        \item \textit{located\_in}: call.cell\_site $\rightarrow$ cell.cell\_site
+    \end{itemize}
+
     \subsection{Generazione dei dati}
     Si generano quattro dataset di dimensioni diverse da inserire successivamente sui database
     MongoDB e Neo4j. Le dimensioni stabilite sono 100\%, 75\%, 50\%, 25\%, che indicano rispettivamente
@@ -336,8 +419,11 @@ def gen_calls(size: int):
 
     \pagebreak
     \subsection{Importazione dei dati}
-    I record vengono letti dai file \texttt{csv} esportati in precedenza tramite
-    la funzione \texttt{load\_data()} in \texttt{mongo\_manager.py}\\ 
+    I record vengono letti dai file \texttt{csv} esportati in precedenza. Tramite
+    la funzione \texttt{load\_data()} in \texttt{mongo\_manager.py} 
+    è possibile caricare i dati su MongoDB, mentre Neo4j importa automaticamente i file \texttt{csv}
+    che sono presenti nella directory \texttt{/relate-data/dbmss/<database id>/import} di Neo4j.
+    \\ 
 
     \begin{lstlisting}[language=Python, caption=load\_data()]
 def load_data(handle: MongoClient):
