@@ -44,7 +44,7 @@ def exec(load: int, refresh: bool):
         load_data(handle)
 
 
-    #run_queries(handle)
+    run_queries(handle, load)
 
 
 

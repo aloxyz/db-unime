@@ -13,7 +13,9 @@ def boot():
     assert args.load, 'per favore, indica il carico del dataset.'
 
     load = int(args.load[0])
-    refresh = (args.g or args.r) is not None
+    refresh = (args.g or args.r) is not False
+
+    print(args.g, args.r)
 
     if args.g is True:
         generator.generate(load)
