@@ -10,6 +10,7 @@ def run_queries(handle: MongoClient, load: int):
 
     gt_start = int(round(datetime.timestamp(datetime(2022, 6, 1))))
     lt_start = int(round(datetime.timestamp(datetime(2022, 7, 1))))
+
     duration = 500
 
     queries = [
@@ -20,9 +21,6 @@ def run_queries(handle: MongoClient, load: int):
                     "start_date": {
                         "$gte": gt_start,
                         "$lt": lt_start
-                    },
-                    "duration": {
-                        "$gte": duration
                     }
                 }
             },
@@ -40,14 +38,6 @@ def run_queries(handle: MongoClient, load: int):
                     }
                 }
             },
-            {
-                "$lookup": {
-                    "from": "people",
-                    "localField": "calling_number",
-                    "foreignField": "number",
-                    "as": "caller"
-                }
-            }
         ],
         #3° query
         [
@@ -69,14 +59,6 @@ def run_queries(handle: MongoClient, load: int):
                     "foreignField": "number",
                     "as": "caller"
                 }
-            },
-            {
-                "$lookup": {
-                    "from": "cells",
-                    "localField": "cell_site",
-                    "foreignField": "cell_site",
-                    "as": "cell"
-                }
             }
         ],
         #4° query
@@ -89,7 +71,7 @@ def run_queries(handle: MongoClient, load: int):
                     },
                     "duration": {
                         "$gte": duration
-                    },
+                    }
                 }
             },
             {
@@ -98,14 +80,6 @@ def run_queries(handle: MongoClient, load: int):
                     "localField": "calling_number",
                     "foreignField": "number",
                     "as": "caller"
-                }
-            },
-            {
-                "$lookup": {
-                    "from": "people",
-                    "localField": "called_number",
-                    "foreignField": "number",
-                    "as": "called"
                 }
             },
             {

@@ -1,2501 +1,2501 @@
 cell_site,city,address,state
-0,Montone,Via Amalia,IT
-1,Tavernelle,Strada Mannoia,IT
-2,Cambiasca,Incrocio Gianfrancesco,IT
-3,Roccaforte Ligure,Borgo Aldobrandi,IT
-4,Preggio,Canale Vittorio,IT
-5,Villamiroglio,Contrada Virginia,IT
-6,Palazzolo Sull'Oglio,Stretto Dino,IT
-7,Mereto Di Capitolo,Strada Pascarella,IT
-8,Cesi,Viale Pierpaolo,IT
-9,Capena,Viale Luisa,IT
-10,Ostiano,Stretto Ornella,IT
-11,Morano Calabro,Strada Toni,IT
-12,Malonno,Rotonda Sante,IT
-13,Maierato,Piazza Martina,IT
-14,Cadenabbia,Via Claudia,IT
-15,Cavallo Pastorio,Via Laureano,IT
-16,Stifone,Incrocio Ivo,IT
-17,Leccio,Vicolo Concetta,IT
-18,Nola,Rotonda Raimondo,IT
-19,Marghera,Contrada Ceschi,IT
-20,Orta Novarese,Canale Margherita,IT
-21,Condofuri Marina,Piazza Riccardo,IT
-22,Castelnuovo Calcea,Canale Pizziol,IT
-23,San Giovanni A Teduccio,Strada Stefani,IT
-24,Mantegazza,Borgo Fantoni,IT
-25,Fano Adriano,Vicolo Rossana,IT
-26,Mozzano Torretta,Strada Favata,IT
-27,Castel Giuliano,Borgo Rembrandt,IT
-28,Foggiano,Vicolo Carfagna,IT
-29,Coronata,Rotonda Marazzi,IT
-30,Vigano San Martino,Rotonda Maria,IT
-31,Furtei,Stretto Ceri,IT
-32,Comun Nuovo,Stretto Toninelli,IT
-33,Frontone,Incrocio Umberto,IT
-34,Badalucco,Canale Lucia,IT
-35,Greci,Via Vidoni,IT
-36,Pracorno,Strada Giovanni,IT
-37,Pittolo,Incrocio Squarcione,IT
-38,Argusto,Strada Germano,IT
-39,Boscone,Contrada Giannini,IT
-40,Sacrofano,Stretto Bonino,IT
-41,Pandola,Strada Flavia,IT
-42,Castelfranco Piandiscò,Canale Barberini,IT
-43,Boscomare,Contrada Antonina,IT
-44,San Marco Argentano,Borgo Saraceno,IT
-45,Lago Averno,Stretto Borromeo,IT
-46,St. Michael/Eppan,Vicolo Nibali,IT
-47,Cascine Maggio,Stretto Giusti,IT
-48,Pacengo,Piazza Livia,IT
-49,Borgo Quinzio,Canale Sagese,IT
-50,Cavi,Borgo Sokolov,IT
-51,Jesi,Rotonda Branciforte,IT
-52,Sorbo San Basile,Strada Caracciolo,IT
-53,Morsasco,Canale Ansaldo,IT
-54,Rovito,Viale Bossi,IT
-55,Grimacco,Rotonda Dalla,IT
-56,Pieve D'Olmi,Strada Lippomano,IT
-57,Ronzone,Strada Pertini,IT
-58,Cutrofiano,Canale Moneta,IT
-59,Boglietto,Piazza Sebastiano,IT
-60,Floridia,Canale Eleanora,IT
-61,Pagliaroli,Incrocio Fausto,IT
-62,Agna,Vicolo Pacillo,IT
-63,San Polo D'Enza,Vicolo Pina,IT
-64,San Giuliano Nuovo,Vicolo Barsanti,IT
-65,Cervaro,Canale Stella,IT
-66,Rivoli,Strada Metella,IT
-67,Santa Venera,Incrocio Gaspare,IT
-68,Mili Superiore,Via Giuliano,IT
-69,Miglierina,Contrada Turati,IT
-70,Paese,Borgo Clelia,IT
-71,Ischitella,Via Annibale,IT
-72,Trevico,Contrada Sauli,IT
-73,Sant'Angelo In Villa,Strada Valeria,IT
-74,Costa Serina,Canale Lanfranchi,IT
-75,Roisan,Borgo Giorgio,IT
-76,Sarmato,Borgo Isa,IT
-77,Rumanedda,Borgo Paride,IT
-78,Stella Cilento,Contrada Colletti,IT
-79,Carrozziere,Stretto Arnulfo,IT
-80,Cercepiccola,Vicolo Annibale,IT
-81,Santa Vittoria Di Gualtieri,Rotonda Rita,IT
-82,Arcade,Vicolo Giulia,IT
-83,Pale,Vicolo Achille,IT
-84,Quarona,Borgo Basadonna,IT
-85,Pero,Rotonda Barbarigo,IT
-86,Rovere,Vicolo Giovanni,IT
-87,Gualtieri Sicamino',Via Nicola,IT
-88,Santa Vittoria,Incrocio Giuseppe,IT
-89,Portomaggiore,Rotonda Porzio,IT
-90,Cimbergo,Stretto Maderno,IT
-91,Pian Camuno,Borgo Rosa,IT
-92,Vallebona,Contrada Rosalia,IT
-93,Compiano,Strada Iannuzzi,IT
-94,Pianella,Piazza Argento,IT
-95,Masanti Di Sotto,Via Cammarata,IT
-96,Mandras,Viale Mondadori,IT
-97,Squille,Incrocio Bartolomeo,IT
-98,Rivalta Scrivia,Piazza Telesio,IT
-99,Colfosco,Borgo Piergiuseppe,IT
-100,Pallanzeno,Vicolo Antonello,IT
-101,Ornago,Contrada Fausto,IT
-102,Celle Enomondo,Piazza Salvi,IT
-103,Losson Della Battaglia,Incrocio Ferrara,IT
-104,Vecchiarello,Incrocio Briccialdi,IT
-105,Kiens,Incrocio Longhena,IT
-106,Noceto,Incrocio Eraldo,IT
-107,Prata Di Principato Ultra,Stretto Ioppi,IT
-108,Ripalta Guerina,Vicolo Isa,IT
-109,Vasanello,Canale Borromini,IT
-110,Triginto,Vicolo Silvestro,IT
-111,Pesaro,Contrada Mauro,IT
-112,Panaia,Via Lamberto,IT
-113,San Marco,Incrocio Marcacci,IT
-114,Vetulonia,Stretto Telemaco,IT
-115,Coccorino,Viale Carolina,IT
-116,Santa Caterina Albanese,Rotonda Michelotto,IT
-117,Barbiano,Strada Trapanese,IT
-118,San Gregorio,Canale Tonia,IT
-119,Valenzano,Via Mazzanti,IT
-120,Vermicino,Contrada Donatella,IT
-121,Crocefieschi,Strada Chiaramonte,IT
-122,Solopaca,Via Durante,IT
-123,Zagarise,Viale Franceschi,IT
-124,Santa Chiara,Incrocio Giulio,IT
-125,Cadeo,Strada Fabrizia,IT
-126,Mapello,Viale Leonardo,IT
-127,Sirta,Borgo Benedetto,IT
-128,Solza,Incrocio Nico,IT
-129,Blavy Nus,Borgo Concetta,IT
-130,Carnello,Via Lazzaro,IT
-131,Cerete Basso,Strada Annunziata,IT
-132,San Zenone Al Lambro,Canale Pulci,IT
-133,Vinco,Canale Luigina,IT
-134,Casabasciana,Viale Giacobbe,IT
-135,Melano Bastia,Stretto Parisi,IT
-136,Castello Molina Di Fiemme,Via Pagnotto,IT
-137,Sant'Orsola In Passiria,Vicolo Nino,IT
-138,Torrecuso,Borgo Notarbartolo,IT
-139,Esporlatu,Strada Vincenzo,IT
-140,Corniglia,Contrada Luigi,IT
-141,Gardola,Incrocio Grassi,IT
-142,San Giacomo Di Laives,Viale Badoglio,IT
-143,Faloppio,Canale Cheda,IT
-144,Recco,Incrocio Biagi,IT
-145,Filiano,Rotonda Maura,IT
-146,Montanera,Strada Tatiana,IT
-147,Ca' Emiliani,Contrada Antonello,IT
-148,Scifelli,Viale Luxardo,IT
-149,Cressa,Incrocio Toso,IT
-150,Bonifati,Viale Antonietta,IT
-151,Moletolo,Canale Mocenigo,IT
-152,Cortina,Stretto Trincavelli,IT
-153,Ponte Nuovo,Viale Filippa,IT
-154,Fonteno,Vicolo Daniele,IT
-155,Ripe,Via Ginesio,IT
-156,Chianocco,Stretto Antonino,IT
-157,Joppolo,Rotonda Nino,IT
-158,Tuili,Piazza Costanzo,IT
-159,Acquappesa Marina,Vicolo Annalisa,IT
-160,San Pellegrino Di Gualdo Tadino,Via Paola,IT
-161,Villaggio Mancuso,Incrocio Casale,IT
-162,Polizzello,Rotonda Simonetta,IT
-163,Poggio Di Otricoli,Rotonda Umberto,IT
-164,Casalecchio Di Reno,Canale Adelasia,IT
-165,Castellammare Di Stabia,Borgo Loredana,IT
-166,San Gregorio Nelle Alpi,Strada Tatiana,IT
-167,Ruzzano,Viale Ligorio,IT
-168,Martinengo,Canale Monica,IT
-169,Roddi,Contrada Ramona,IT
-170,Castion,Incrocio Vincentio,IT
-171,Borgo Priolo,Canale Giustino,IT
-172,San Rocco Cherasca,Incrocio Chiara,IT
-173,Cana,Stretto Traetta,IT
-174,Gardolo,Canale Sorrentino,IT
-175,Badia Pavese,Canale Boccherini,IT
-176,Riola Sardo,Vicolo Rosalia,IT
-177,Quattromiglia,Contrada Filippa,IT
-178,Vologno Di Sotto,Strada Lippomano,IT
-179,Casbeno,Rotonda Renata,IT
-180,Tortoli',Piazza Ottavio,IT
-181,Centenaro Castello,Strada Liberto,IT
-182,Ripalvella,Vicolo Tozzi,IT
-183,Borriana,Vicolo Rensi,IT
-184,Seregno,Canale Enrico,IT
-185,San Pietro Apostolo,Contrada Gagliardi,IT
-186,Manoppello Stazione,Incrocio Calogero,IT
-187,Grezzago,Viale Maurizio,IT
-188,Bacedasco Sotto,Borgo Bernini,IT
-189,Cavenzano,Contrada Gaetano,IT
-190,Caldana,Canale Ceschi,IT
-191,Dolegna Del Collio,Canale Carriera,IT
-192,Ubersetto,Piazza Bandello,IT
-193,Sant'Agata Martesana,Viale Paoletti,IT
-194,Piccarello,Piazza Pizzamano,IT
-195,Palma Campania,Contrada Anita,IT
-196,Narnali,Stretto Guariento,IT
-197,Monte Amiata,Rotonda Lucciano,IT
-198,Sonnino,Strada Bianca,IT
-199,Cerqueto Del Tronto,Viale Adamo,IT
-200,Granarolo Dell'Emilia,Rotonda Luigina,IT
-201,Vadena,Stretto Contarini,IT
-202,Mezzomerico,Stretto Nanni,IT
-203,Villandro,Stretto Casellati,IT
-204,Lavis,Vicolo Donato,IT
-205,Avigliano Umbro,Canale Bramante,IT
-206,Germagnano,Via Claudio,IT
-207,Palagnana,Rotonda Angelina,IT
-208,Bodio,Viale Giovanna,IT
-209,Castiglion Fibocchi,Contrada Piergiorgio,IT
-210,Frassineti,Stretto Loretta,IT
-211,Foligno,Canale Ettore,IT
-212,Vibo Marina,Incrocio Eliana,IT
-213,Pugliano,Contrada Giulietti,IT
-214,Favari,Strada Leopoldo,IT
-215,Cetona,Piazza Riccardi,IT
-216,Campione,Incrocio Zichichi,IT
-217,Olmo Di Martellago,Borgo Nino,IT
-218,Bard,Viale Rienzo,IT
-219,Custoza,Vicolo Ilaria,IT
-220,Ulignano,Via Daniele,IT
-221,Valeggio,Canale Fabrizio,IT
-222,Povegliano Veronese,Piazza Amico,IT
-223,Santa Ninfa,Vicolo Giovanna,IT
-224,Maragnole,Stretto Alessio,IT
-225,Quinto Vercellese,Via Eugenia,IT
-226,Sampierdarena,Contrada Emo,IT
-227,Castelguidone,Contrada Prati,IT
-228,Zangarona,Vicolo Marco,IT
-229,Celso,Borgo Milena,IT
-230,Trezzo Tinella,Vicolo Boccherini,IT
-231,Villascorciosa,Piazza Enzio,IT
-232,Cocquio,Viale Biagiotti,IT
-233,Clodig,Contrada Livia,IT
-234,Montebruno,Piazza Amedeo,IT
-235,Cagnano Varano,Strada Romagnoli,IT
-236,Fosso',Via Armani,IT
-237,Purgessimo,Viale Ugo,IT
-238,Fortezza,Vicolo Sraffa,IT
-239,Pavona,Via Vendetti,IT
-240,Callabiana,Via Lucchesi,IT
-241,Monteroni Di Lecce,Rotonda Columbo,IT
-242,Bardino Nuovo,Strada Bignardi,IT
-243,Sormano,Piazza Lucciano,IT
-244,Valsanzibio,Via Paulina,IT
-245,Lucignano D'Arbia,Stretto Badoglio,IT
-246,Tarnell,Via Dina,IT
-247,Medesano,Piazza Liberto,IT
-248,Fallo,Piazza Franco,IT
-249,Sambuchi,Borgo Beatrice,IT
-250,Colli Del Tronto,Strada Tutino,IT
-251,Montefredane,Borgo Franzese,IT
-252,Naz Sciaves,Rotonda Gasperi,IT
-253,Benestare,Contrada Cammarata,IT
-254,Saline Ioniche,Canale Enrico,IT
-255,Cleto,Incrocio Rosaria,IT
-256,Maratea Porto,Stretto Valeria,IT
-257,Cicagna,Canale Sobrero,IT
-258,Venaus,Borgo Maria,IT
-259,Montalto Delle Marche,Via Vincenza,IT
-260,Ciconicco,Vicolo Emma,IT
-261,Birori,Contrada Filippelli,IT
-262,Moline Di Banale,Stretto Mariano,IT
-263,San Desiderio,Viale Fittipaldi,IT
-264,Tre Croci,Piazza Cibin,IT
-265,Riva Del Garda,Vicolo Lara,IT
-266,Cesaro',Borgo Bignardi,IT
-267,Giovinazzo,Rotonda Daniele,IT
-268,Trasacco,Canale Annamaria,IT
-269,Cepagatti,Stretto Tatiana,IT
-270,Paradigna,Borgo Gregorio,IT
-271,Presinaci,Vicolo Lodovico,IT
-272,Bargone,Borgo Murri,IT
-273,Marti,Canale Bodoni,IT
-274,Madesimo,Contrada Giolitti,IT
-275,Montefoscoli,Stretto Sandro,IT
-276,Mirandola,Incrocio Ermanno,IT
-277,San Martino Di Castrozza,Stretto Bassi,IT
-278,Quincinetto,Canale Fagiani,IT
-279,Dobbiaco,Borgo Giunti,IT
-280,Cappella,Canale Luigi,IT
-281,Centenaro,Incrocio Oscuro,IT
-282,Villetta Sant'Antonio,Viale Loredan,IT
-283,San Vito Dei Lombardi,Strada Schiavo,IT
-284,Isola D'Arbia,Via Ludovico,IT
-285,Airetta,Viale Bacosi,IT
-286,Forone,Rotonda Amadeo,IT
-287,Berruiles,Piazza Romiti,IT
-288,Auletta,Canale Germana,IT
-289,Campodoro,Stretto Togliatti,IT
-290,Pontinia,Incrocio Fanucci,IT
-291,Bellaria Igea Marina,Rotonda Missoni,IT
-292,Terranuova Bracciolini,Stretto Moccia,IT
-293,Vandorno,Viale Stefania,IT
-294,Besenello,Viale Giovanna,IT
-295,Montemagno,Incrocio Antonelli,IT
-296,Valstagna,Stretto Morabito,IT
-297,Almenno San Bartolomeo,Contrada Napoleone,IT
-298,Mamone,Rotonda Amanda,IT
-299,Chieti Stazione,Canale Fabio,IT
-300,Hone,Piazza Busoni,IT
-301,Torregrotta,Stretto Battelli,IT
-302,Torrebruna,Piazza Luciano,IT
-303,Badia Pavese,Vicolo Irma,IT
-304,Colmata,Stretto Nadia,IT
-305,Cenate Sopra,Stretto Etta,IT
-306,Castell'Alfero Stazione,Rotonda Dulbecco,IT
-307,Sopraponte,Rotonda Ferrabosco,IT
-308,Valle San Giovanni,Rotonda Lidia,IT
-309,Pisa,Piazza Teresa,IT
-310,Cona,Viale Samele,IT
-311,Izzalini,Rotonda Monteverdi,IT
-312,Barberino Di Mugello,Rotonda Rembrandt,IT
-313,Baraggia,Canale Polani,IT
-314,Spadafora,Stretto Beatrice,IT
-315,Pieve Caina,Rotonda Ninetta,IT
-316,Molazzana,Incrocio Visconti,IT
-317,Soiana,Incrocio Antonietta,IT
-318,San Lorenzo Peveragno,Rotonda Pacomio,IT
-319,Scandolara Ravara,Incrocio Anguillara,IT
-320,Gadana,Rotonda Cabrini,IT
-321,Novi Ligure,Stretto Virginia,IT
-322,Pontestazzemese,Borgo Greco,IT
-323,Nicastro,Piazza Respighi,IT
-324,Cappelle,Rotonda Lanfranchi,IT
-325,Bodio Lomnago,Viale Gemma,IT
-326,Pesconuovo,Incrocio Matteo,IT
-327,Laureana Di Borrello,Strada Mazzanti,IT
-328,Baiso,Via Alberto,IT
-329,Arischia,Incrocio Arnaldo,IT
-330,Tresigallo,Borgo Bartolomeo,IT
-331,Capranica,Rotonda Telemaco,IT
-332,Roncitelli,Stretto Cerutti,IT
-333,Taccona,Vicolo Silvia,IT
-334,Sarteano,Contrada Melina,IT
-335,Casella,Via Broschi,IT
-336,Turano,Viale Ferragni,IT
-337,Massafra,Vicolo Rosaria,IT
-338,Scannabue,Piazza Alessio,IT
-339,Varisella,Strada Jacopo,IT
-340,Spinadesco,Incrocio Malatesta,IT
-341,San Martino Canavese,Incrocio Luigina,IT
-342,Villa Castelli,Incrocio Marisa,IT
-343,Chef Lieu,Contrada Marini,IT
-344,Montemitro,Strada Giulia,IT
-345,Acquaviva Delle Fonti,Rotonda Victoria,IT
-346,San Nicolo' A Trebbia,Strada Serafina,IT
-347,Rottanova Di Cavarzere,Via Bertoli,IT
-348,Annicco,Borgo Marsili,IT
-349,Vanzone Con San Carlo,Via Tornatore,IT
-350,Campo Di Carne,Borgo Ortolani,IT
-351,Brescia,Borgo Tagliafierro,IT
-352,Scalo Teverina,Via Liana,IT
-353,Ugento,Via Emo,IT
-354,Forte Village,Vicolo Villadicani,IT
-355,Feltre,Strada Mazzi,IT
-356,Cava D'Aliga,Strada Pisano,IT
-357,Casalgrande,Strada Giancarlo,IT
-358,Briga Alta,Contrada Vespa,IT
-359,Agazzano,Piazza Coriolano,IT
-360,Ortona Foro,Canale Panicucci,IT
-361,Tavernola San Felice,Strada Tiziana,IT
-362,Monte Cerignone,Incrocio Gianni,IT
-363,Campanarello,Vicolo Sante,IT
-364,Guardia Sanframondi,Via Coppola,IT
-365,Canosio,Contrada Costantino,IT
-366,Leporano Marina,Borgo Gaito,IT
-367,Assergi,Piazza Sole,IT
-368,Marausa Loco Grande,Viale Scalera,IT
-369,Vigardolo,Stretto Scarpa,IT
-370,Oberbozen,Contrada Ninetta,IT
-371,Perteole,Incrocio Fiorino,IT
-372,Genzano Di Roma,Viale Giannotti,IT
-373,Atina Inferiore,Borgo Versace,IT
-374,Voldomino,Strada Renzo,IT
-375,Ronchi,Rotonda Nico,IT
-376,Loppeglia,Strada Fantoni,IT
-377,San Benedetto,Rotonda Ansaldo,IT
-378,Albagiara,Stretto Marina,IT
-379,Pignola,Strada Giacobbe,IT
-380,Piossasco,Piazza Biagio,IT
-381,Grazzano Badoglio,Canale Sobrero,IT
-382,Selargius,Strada Lilla,IT
-383,Verretto,Incrocio Virgilio,IT
-384,Porto Sant'Elpidio,Incrocio Vergassola,IT
-385,Roraipiccolo,Via Verri,IT
-386,Torrioni,Borgo Matteotti,IT
-387,Forchia Di Cervino,Vicolo Piero,IT
-388,Serpiano,Incrocio Sordi,IT
-389,Castelmaggiore,Rotonda Sylvia,IT
-390,Ozegna,Viale Beffa,IT
-391,San Gervasio D'Adda,Incrocio Tatiana,IT
-392,Godo,Stretto Martina,IT
-393,Isorella,Vicolo Manuel,IT
-394,Pioppi,Piazza Sanguineti,IT
-395,Agropoli,Rotonda Elladio,IT
-396,San Magno,Via Sagnelli,IT
-397,Oricola,Stretto Callegaro,IT
-398,Sant'Eusanio Del Sangro,Stretto Azeglio,IT
-399,Monteprandone,Stretto Angelica,IT
-400,Castello Del Lago,Borgo Licia,IT
-401,Barberi,Stretto Maura,IT
-402,Pedavena,Strada Flaiano,IT
-403,Faggeto Lario,Piazza Cavalcanti,IT
-404,Schlanders,Borgo Flavia,IT
-405,La Lima,Vicolo Piacentini,IT
-406,Sas Linnas Siccas,Via Marcacci,IT
-407,Rabla',Stretto Sophia,IT
-408,San Germano Vercellese,Borgo Giancarlo,IT
-409,Leini',Stretto Dossi,IT
-410,Ortignano,Piazza Delfino,IT
-411,Montecampano,Contrada Errani,IT
-412,Caminata,Vicolo Damiano,IT
-413,Candide,Piazza Paloma,IT
-414,Testana,Contrada Petruzzi,IT
-415,Sant'Anna Pelago,Vicolo Filippa,IT
-416,St.Lugan,Stretto Ossani,IT
-417,Montevirginio,Canale Musatti,IT
-418,Carpignano,Vicolo Branciforte,IT
-419,Prignano Cilento,Vicolo Emo,IT
-420,Legoli,Strada Dalla,IT
-421,Capistrano,Borgo Burcardo,IT
-422,Cossirano,Canale Zecchini,IT
-423,Brittoli,Vicolo Ettore,IT
-424,Fiuminata,Via Argento,IT
-425,San Giuliano D'Arezzo,Stretto Melina,IT
-426,Cervia,Contrada Barberini,IT
-427,Cereglio,Strada Flavia,IT
-428,Ronco Briantino,Stretto Salvini,IT
-429,Bargano,Contrada Corcos,IT
-430,Parella,Borgo Virgilio,IT
-431,Bottagna,Stretto Fallaci,IT
-432,Baratili San Pietro,Strada Verga,IT
-433,Bottidda,Incrocio Maria,IT
-434,Ailoche,Borgo Raimondo,IT
-435,Rubbiano,Canale Fabio,IT
-436,Weißenbach/Sarntal,Piazza Luchino,IT
-437,Chiesanuova,Rotonda Gentili,IT
-438,Massello,Canale Francesco,IT
-439,Arcola,Via Tiziana,IT
-440,San Giovanni Ilarione,Viale Greca,IT
-441,Marina Di Casal Velino,Stretto Ortese,IT
-442,San Donato Di Ninea,Contrada Barracco,IT
-443,Bassano Romano,Strada Caterina,IT
-444,Castellano,Vicolo Ludovico,IT
-445,Villar Focchiardo,Incrocio Toso,IT
-446,Carillia,Incrocio Lina,IT
-447,Madesimo,Viale Atenulf,IT
-448,Fuscaldo,Via Arturo,IT
-449,Toppo,Viale Nicoletti,IT
-450,Valstrona,Via Adriana,IT
-451,Venezia,Piazza Gelsomina,IT
-452,Montallese,Via Troisi,IT
-453,Canna,Borgo Giolitti,IT
-454,San Benedetto Ullano,Viale Nicola,IT
-455,Nibbia,Stretto Piergiuseppe,IT
-456,Serra Sant'Abbondio,Viale Durante,IT
-457,Podargoni,Contrada Gioffre,IT
-458,Petruro Irpino,Incrocio Fabrizia,IT
-459,Sulbiate,Rotonda Mondadori,IT
-460,Segezia,Strada Severino,IT
-461,Fiumaretta,Contrada Cimini,IT
-462,Cesinali,Rotonda Gianfrancesco,IT
-463,Montefortino,Vicolo Carocci,IT
-464,Forte Village,Via Pacetti,IT
-465,Capradosso,Contrada Sante,IT
-466,Riva Del Garda,Rotonda Calcedonio,IT
-467,Brione,Canale Renzi,IT
-468,Fiumicino Aeroporto,Piazza Galasso,IT
-469,Alpicella,Canale Adinolfi,IT
-470,Bornate Sesia,Contrada Lamborghini,IT
-471,Caraffa Del Bianco,Via Cuda,IT
-472,Tempera,Borgo Stefani,IT
-473,Casbeno,Stretto Bajamonti,IT
-474,Petruro Irpino,Borgo Inzaghi,IT
-475,Borgaretto,Canale Tagliafierro,IT
-476,Elini,Rotonda Casini,IT
-477,Bassacutena,Vicolo Zacco,IT
-478,Itala Marina,Vicolo Antonina,IT
-479,Moccone,Vicolo Piersanti,IT
-480,Selva Del Bocchetto,Contrada Giosuè,IT
-481,Valenzano,Viale Giacinto,IT
-482,Ponte D'Assi,Viale Gianfrancesco,IT
-483,Klobenstein,Borgo Bignardi,IT
-484,Albano Sant'Alessandro,Canale Silvio,IT
-485,Buglio In Monte,Vicolo Maurizio,IT
-486,Ribordone,Viale Martucci,IT
-487,Borgata Finocchio,Piazza Griselda,IT
-488,Monleone,Vicolo Gioffre,IT
-489,Cermignano,Stretto Trebbi,IT
-490,Borghetto Santo Spirito,Viale Leone,IT
-491,Pago Veiano,Incrocio Tacchini,IT
-492,Lamoli,Borgo Zito,IT
-493,Graveglia,Vicolo Corrado,IT
-494,Vauda Canavese,Via Temistocle,IT
-495,Carini,Strada Maderno,IT
-496,Coazze,Strada Pinamonte,IT
-497,Mozzate,Rotonda Serafina,IT
-498,Lanzo Torinese,Piazza Paoletti,IT
-499,Rocchetta Ligure,Canale Fittipaldi,IT
-500,Statale,Strada Morgagni,IT
-501,Monteleone Di Fermo,Stretto Giammusso,IT
-502,Planeil,Via Alfio,IT
-503,Solarino,Canale Annibale,IT
-504,Norbello,Stretto Pompeo,IT
-505,San Giorio,Strada Arnaldo,IT
-506,Mori Ferrovia,Canale Basadonna,IT
-507,Mercenasco,Strada Varano,IT
-508,Atena Lucana Scalo,Viale Gigli,IT
-509,Cesolo,Vicolo Bramante,IT
-510,Bulfons,Piazza Angeli,IT
-511,Saltaus,Stretto Teresa,IT
-512,Ca' Dolfin,Stretto Piero,IT
-513,Montemagno Di Quarrata,Vicolo Endrizzi,IT
-514,Buggiano,Contrada Maria,IT
-515,Mombarcaro,Rotonda Marcacci,IT
-516,Brazzolo,Viale Vattimo,IT
-517,Miane,Piazza Sanudo,IT
-518,Castell'Alfero Stazione,Canale Bompiani,IT
-519,Gela,Contrada Bianchini,IT
-520,Sovico,Stretto Gualandi,IT
-521,San Vito Lo Capo,Viale Ariasso,IT
-522,Celzi,Rotonda Pietro,IT
-523,Fiumalbo,Stretto Salvatore,IT
-524,Nebbiano,Stretto Adele,IT
-525,Acquaria,Borgo Sophia,IT
-526,Poggetello,Vicolo Moneta,IT
-527,Ischia,Canale Seddio,IT
-528,Casali D'Aschi,Vicolo Mauro,IT
-529,Castione Dei Marchesi,Rotonda Campise,IT
-530,Madonna Di Pugliano,Strada Giuliano,IT
-531,Merine,Rotonda Antonia,IT
-532,Castellalto,Viale Bianchi,IT
-533,Macerata Campania,Vicolo Enzo,IT
-534,Badalucco,Vicolo Adelmo,IT
-535,Lamon,Canale Bettina,IT
-536,Meduna Di Livenza,Piazza Achille,IT
-537,Savona,Via Annamaria,IT
-538,Castel Sant'Elia,Strada Comolli,IT
-539,Ursini,Canale Falcone,IT
-540,Casalmaggiore,Piazza Costanzo,IT
-541,San Nicola La Strada,Viale Sbarbaro,IT
-542,Boario Terme,Via Fabrizio,IT
-543,Pizzinni,Strada Amleto,IT
-544,Casale Cremasco,Stretto Letizia,IT
-545,Olivarella,Incrocio Daniele,IT
-546,Mosileo,Vicolo Bocca,IT
-547,Campomaggiore San Luca,Incrocio Pierluigi,IT
-548,Zisa,Contrada Armando,IT
-549,Focette,Canale Antonino,IT
-550,Lumignano,Strada Zoppetto,IT
-551,Casorate Primo,Vicolo Tatiana,IT
-552,Ca' Di Sola,Incrocio Loretta,IT
-553,Castel San Gimignano,Contrada Bianca,IT
-554,Bellino,Vicolo Nino,IT
-555,Santa Maria Navarrese,Rotonda Pasqual,IT
-556,Serrastretta,Canale Sobrero,IT
-557,San Quirico Valleriana,Contrada Donatello,IT
-558,Annicco,Canale Mercati,IT
-559,Portonovo,Canale Speri,IT
-560,Orero,Viale Dionigi,IT
-561,Conegliano,Contrada Mortati,IT
-562,Valda,Borgo Ferrazzi,IT
-563,Caprioli,Via Marissa,IT
-564,Tufo Di Minturno,Piazza Vincentio,IT
-565,Sasso Di Castalda,Strada Farinelli,IT
-566,Nocchi,Stretto Sbarbaro,IT
-567,Varese,Borgo Vespucci,IT
-568,Fellicarolo,Rotonda Sanudo,IT
-569,Torre Santa Susanna,Canale Laureano,IT
-570,Cartabbia,Via Olga,IT
-571,Acri,Rotonda Ferragamo,IT
-572,Pichl,Stretto Broschi,IT
-573,Chiusure,Via Dina,IT
-574,Cassegliano,Piazza Borromeo,IT
-575,Valdisotto,Canale Esposito,IT
-576,Stignano,Piazza Branciforte,IT
-577,Loranze',Piazza Corrado,IT
-578,Gambulaga,Incrocio Interminelli,IT
-579,Tenno,Via Sergius,IT
-580,Monghidoro,Viale Priscilla,IT
-581,Fregona,Piazza Coriolano,IT
-582,Aberstückl,Via Mauro,IT
-583,Casamarciano,Strada Jolanda,IT
-584,Nuova Olonio,Viale Dallapé,IT
-585,Carema,Canale Nadi,IT
-586,Albera Ligure,Contrada Bragadin,IT
-587,Prata,Rotonda Finzi,IT
-588,Trentino Nel Frignano,Canale Marina,IT
-589,Trappa,Borgo Guglielmo,IT
-590,Brufa,Rotonda Collina,IT
-591,Minerbio,Via Tommaseo,IT
-592,Porelli Di Bagnara,Via Travia,IT
-593,Biacesa Di Ledro,Stretto Montanari,IT
-594,Pontboset,Viale Piersanti,IT
-595,Stellanello,Strada Alberico,IT
-596,Isernia,Rotonda Stefania,IT
-597,Dont Di Zoldo,Viale Alberto,IT
-598,Cavareno,Viale Roccabonella,IT
-599,Colleponi,Borgo Gatto,IT
-600,Cavallino Treporti,Strada Cadorna,IT
-601,Saltara,Incrocio Salieri,IT
-602,Riva Di Solto,Rotonda Giannini,IT
-603,Castelletto Monferrato,Piazza Gianna,IT
-604,Prags,Borgo Ivan,IT
-605,Caltignaga,Piazza Carla,IT
-606,San Martino Di Taurianova,Vicolo Trobbiani,IT
-607,Granerolo,Incrocio Zanzi,IT
-608,Ambra,Strada Michela,IT
-609,Camporeale,Stretto Necci,IT
-610,Ca' Morosini,Stretto Melina,IT
-611,Lastebasse,Vicolo Vespucci,IT
-612,Sassatella,Borgo Scandone,IT
-613,San Rocco Di Camogli,Stretto Gabba,IT
-614,Tessello,Vicolo Panfilo,IT
-615,Capriglia,Piazza Giustino,IT
-616,San Giovanni D'Albi,Strada Alfredo,IT
-617,Salasco,Viale Jacopo,IT
-618,Paularo,Stretto Margherita,IT
-619,Lode',Via Abatantuono,IT
-620,Silius,Vicolo Sabatino,IT
-621,Casilli,Borgo Argentero,IT
-622,Santa Maria Valongo,Stretto Gustavo,IT
-623,Vallefoglia,Rotonda Panfilo,IT
-624,Bernate Ticino,Stretto Luciano,IT
-625,Acquaria,Rotonda Orlando,IT
-626,Buonabitacolo,Incrocio Vergerio,IT
-627,Isnello,Incrocio Boitani,IT
-628,Sarissola,Strada Ferragni,IT
-629,Montechiaro D'Acqui,Stretto Ranieri,IT
-630,Lattarico,Piazza Teresa,IT
-631,San Lorenzo Della Costa,Vicolo Dino,IT
-632,Casale Cremasco Vidolasco,Contrada Gioffre,IT
-633,Talamello,Canale Marisa,IT
-634,Savigno,Borgo Antonino,IT
-635,Cencenighe Agordino,Borgo Camiscione,IT
-636,Thuins,Rotonda Pierpaolo,IT
-637,Montesoro,Via Durante,IT
-638,San Giorgio Di Lomellina,Canale Viviani,IT
-639,Caraffa Di Catanzaro,Piazza Alessia,IT
-640,Forlimpopoli,Incrocio Fattori,IT
-641,Bioglio,Rotonda Piazzi,IT
-642,Palazzolo,Viale Jolanda,IT
-643,Piazzano Di Atessa,Strada Rosina,IT
-644,Tricarico,Vicolo Virginia,IT
-645,Cola,Via Carolina,IT
-646,San Giovanni Battista,Stretto Zaira,IT
-647,Sant'Apollinare Con Selva,Via Ezio,IT
-648,Abbiategrasso,Strada Piersanti,IT
-649,Drapia,Contrada Licia,IT
-650,Rocca Di Botte,Contrada Alina,IT
-651,Salmour,Incrocio Amleto,IT
-652,Vagli Sotto,Stretto Ricci,IT
-653,Piuma,Via Barillaro,IT
-654,Onara,Vicolo Costanzo,IT
-655,Roccabernarda,Viale Piergiuseppe,IT
-656,Montottone,Strada Patrizio,IT
-657,Niederrasen,Contrada Lorenzo,IT
-658,Coppito,Borgo Petrucci,IT
-659,Migheli,Piazza Santi,IT
-660,Rovegno,Vicolo Roman,IT
-661,Raveo,Piazza Valeria,IT
-662,Ostia Di Borgo Val Di Taro,Canale Maria,IT
-663,Borgo Carso,Canale Isa,IT
-664,Cassano D'Adda,Strada Novaro,IT
-665,Bondione,Strada Priscilla,IT
-666,Bozen,Borgo Francesca,IT
-667,Zovencedo,Incrocio Lupo,IT
-668,San Michele Cavana,Strada Mazzeo,IT
-669,Parenti,Canale Benedetti,IT
-670,Ossi,Viale Romolo,IT
-671,Filicaia,Stretto Sforza,IT
-672,Precotto,Incrocio Eleanora,IT
-673,Casalbuttano,Viale Evangelista,IT
-674,Castel D'Ario,Stretto Lucio,IT
-675,Ponte Di Brenta,Canale Giradello,IT
-676,Recetto,Viale Omma,IT
-677,Bastia Di Rovolon,Strada Faranda,IT
-678,Canzo,Viale Marco,IT
-679,Busachi,Rotonda Milo,IT
-680,Petrona',Piazza Marcacci,IT
-681,Peretola,Stretto Massimiliano,IT
-682,Madonna Dell Ulivo,Vicolo Gionata,IT
-683,San Martino Del Carso,Stretto Gaiatto,IT
-684,Gambettola,Contrada Leonardo,IT
-685,Tiolo,Piazza Ronaldo,IT
-686,Staiti,Canale Salgari,IT
-687,Dusino San Michele,Stretto Columbo,IT
-688,Sant'Anna Di Chioggia,Vicolo Leonetti,IT
-689,Gossensaß,Rotonda Stefania,IT
-690,Oltresarca,Canale Udinesi,IT
-691,Dunarobba,Stretto Michela,IT
-692,Costanzana,Stretto Favata,IT
-693,Bellaria,Contrada Pietro,IT
-694,Valmadrera,Borgo Jilani,IT
-695,San Filippo Inferiore,Incrocio Cecilia,IT
-696,Caspoli,Contrada Zaira,IT
-697,Camugnano,Piazza Mazzocchi,IT
-698,Schiava,Strada Treccani,IT
-699,Voghiera,Strada Basso,IT
-700,Chiusdino,Piazza Caracciolo,IT
-701,Torbole,Vicolo Antonio,IT
-702,Boscochiaro,Piazza Grimani,IT
-703,Spinges,Canale Bertoli,IT
-704,San Rocco Castagnaretta,Strada Favata,IT
-705,San Prisco,Incrocio Paoletta,IT
-706,Monte Cremasco,Borgo Massimiliano,IT
-707,Vescovana,Via Fulvio,IT
-708,Monterotondo,Rotonda Miniati,IT
-709,Corleone,Piazza Giacinto,IT
-710,Vitulazio,Strada Susanna,IT
-711,Lozzo Atestino,Borgo Castioni,IT
-712,Oliveri,Piazza Petrucci,IT
-713,Polaveno,Contrada Tomei,IT
-714,Tordinia,Canale Donini,IT
-715,Zwischenwasser,Stretto Duodo,IT
-716,Castelbaldo,Contrada Guarato,IT
-717,Casaloldo,Viale Giulio,IT
-718,Campoleone,Via Marcello,IT
-719,Carbognano,Incrocio Romana,IT
-720,Fagare',Rotonda Adamo,IT
-721,Platania,Incrocio Nina,IT
-722,Comiziano,Vicolo Annalisa,IT
-723,Santa Severa Nord,Canale Gilardoni,IT
-724,Romano Canavese,Canale Mario,IT
-725,Trarego Viggiona,Piazza Babato,IT
-726,Lido Di Tarquinia,Via Letizia,IT
-727,Ponteranica,Vicolo Balbi,IT
-728,Felitto,Canale Elvira,IT
-729,Scandiano,Vicolo Mattarella,IT
-730,Montefusco,Strada Babato,IT
-731,Pancole,Via Gremese,IT
-732,Sant'Elpidio Morico,Borgo Babbo,IT
-733,Furato,Rotonda Ricciotti,IT
-734,Scalzapecora,Vicolo Giorgia,IT
-735,Montazzoli,Strada Bottaro,IT
-736,San Piero A Ponti,Strada Dario,IT
-737,Monte Porzio Catone,Borgo Amalia,IT
-738,Cascina,Contrada Margherita,IT
-739,Cinzano,Strada Alberico,IT
-740,Balata Di Baida,Piazza Giovanna,IT
-741,Amantea,Incrocio Piergiorgio,IT
-742,Pagnano,Canale Camuccini,IT
-743,Baveno,Strada Victoria,IT
-744,Torri Di Quartesolo,Viale Rossana,IT
-745,Venegazzu',Contrada Fabia,IT
-746,Casandrino,Borgo Coluccio,IT
-747,Rocchetta Cairo,Borgo Costalonga,IT
-748,Montefino,Piazza Pedersoli,IT
-749,Chez Croiset,Borgo Filippa,IT
-750,Vo' Vecchio,Incrocio Travaglio,IT
-751,Curiglia Con Monteviasco,Viale Badoer,IT
-752,Mellame,Piazza Virgilio,IT
-753,Luras,Canale Gianpaolo,IT
-754,Monasterolo Casotto,Via Claudio,IT
-755,Foglia,Rotonda Federigo,IT
-756,Lavezzola,Rotonda Diana,IT
-757,Mareto,Vicolo Gradenigo,IT
-758,Collebeato,Borgo Baccio,IT
-759,Campofelice Di Fitalia,Incrocio Guarato,IT
-760,Igne,Vicolo Druso,IT
-761,Oberau,Rotonda Giannini,IT
-762,Schlaneid,Borgo Galiazzo,IT
-763,Innichen,Rotonda Trobbiani,IT
-764,Rozzano,Contrada Ermes,IT
-765,Torrio Sopra,Piazza Marconi,IT
-766,Terenzano,Incrocio Tonia,IT
-767,Ponte Rio Di Monterado,Vicolo Bresciani,IT
-768,Madonna Del Pilone,Strada Coppola,IT
-769,San Ferdinando Di Puglia,Incrocio Borromini,IT
-770,Roncanova,Stretto Morosini,IT
-771,Spigno Monferrato,Rotonda Ruggiero,IT
-772,Pugnello,Rotonda Zito,IT
-773,Donisi,Piazza Romiti,IT
-774,Le Casette,Incrocio Gulotta,IT
-775,Castel Condino,Rotonda Telesio,IT
-776,San Martino In Gattara,Canale Imelda,IT
-777,Mazzo Milanese,Vicolo Baccio,IT
-778,Borgomasino,Rotonda Sermonti,IT
-779,St.Pete,Contrada Guicciardini,IT
-780,Sirone,Rotonda Scarpetta,IT
-781,Monti Di Licciana,Strada Alessio,IT
-782,Lecchi,Rotonda Massimo,IT
-783,Valera,Incrocio Iolanda,IT
-784,Santa Maria Di Licodia,Borgo Nordio,IT
-785,Sezze Scalo,Strada Niccolò,IT
-786,Oris,Vicolo Margherita,IT
-787,Malnate,Canale Rosario,IT
-788,Maleo,Vicolo Elmo,IT
-789,Cisternino,Borgo Mattia,IT
-790,Introdacqua,Borgo Emma,IT
-791,St. Moritz b. Villanders,Borgo Raffaellino,IT
-792,Castelmola,Vicolo Ferragamo,IT
-793,Borgo Incoronata,Borgo Musatti,IT
-794,San Tommaso,Stretto Gianmarco,IT
-795,Brixen,Via Zichichi,IT
-796,Rabland,Piazza Lollobrigida,IT
-797,Umin,Rotonda Traversa,IT
-798,San Nicola Di Caulonia,Strada Gaspare,IT
-799,Cesano Maderno,Canale Capecchi,IT
-800,Fie' Allo Sciliar,Vicolo Mondaini,IT
-801,Fiesso Umbertiano,Vicolo Tuzzolino,IT
-802,Luttuni,Borgo Carullo,IT
-803,Aurigo,Via Giusti,IT
-804,Monteleone Rocca Doria,Canale Alina,IT
-805,Nerano,Via Annibale,IT
-806,Cesi Di Terni,Piazza Scandone,IT
-807,Cala Di Volpe,Piazza Gaetano,IT
-808,Portici,Incrocio Adriana,IT
-809,Cima Paganella,Stretto Inzaghi,IT
-810,Spongano,Stretto Durante,IT
-811,Guamo,Incrocio Napolitano,IT
-812,Palazzolo Vercellese,Stretto Ciro,IT
-813,Ruviano,Vicolo Bruno,IT
-814,Bagnoli,Piazza Raffaele,IT
-815,Caprazzino,Borgo Irma,IT
-816,Santo Stefano In Vairano,Rotonda Beppe,IT
-817,Camoneone,Stretto Villadicani,IT
-818,Bure,Contrada Turchetta,IT
-819,Collinas,Canale Virginia,IT
-820,Cerchio,Piazza Annamaria,IT
-821,Torremezzo,Piazza Baccio,IT
-822,Torre Orsaia,Rotonda Luchino,IT
-823,Salvano,Piazza Ceci,IT
-824,Comunanza,Canale Lamberto,IT
-825,Arola,Incrocio Satriani,IT
-826,Scorzo,Vicolo Michele,IT
-827,Curti,Via Lanfranchi,IT
-828,Pisterzo,Piazza Fiorino,IT
-829,Albignasego,Canale Teresa,IT
-830,Cologno,Incrocio Capone,IT
-831,Baggio,Vicolo Annetta,IT
-832,Camerata Cornello,Contrada Daniele,IT
-833,Milea,Vicolo Carosone,IT
-834,Boccaleone,Stretto Bruscantini,IT
-835,Rosas,Via Fabia,IT
-836,Martone,Stretto Maurilio,IT
-837,Pezzolo,Canale Ermenegildo,IT
-838,Brecciaro,Contrada Ugolino,IT
-839,Lido Conchiglie,Incrocio Alessia,IT
-840,Montegrino Valtravaglia,Incrocio Sante,IT
-841,Torre Normanna,Piazza Venancio,IT
-842,San Cono,Contrada Cremonesi,IT
-843,Occhieppo Inferiore,Rotonda Milena,IT
-844,Frattura Di Scanno,Contrada Onio,IT
-845,Gabelletta Di Cesi,Contrada Tiziana,IT
-846,Rocchetta Nervina,Rotonda Ernesto,IT
-847,Andreotta Di Castrolibero,Piazza Bruno,IT
-848,Musignano,Strada Mercalli,IT
-849,Tomba,Via Federico,IT
-850,Serdiana,Piazza Giacinto,IT
-851,Colere,Borgo Monica,IT
-852,Castello Di Cisterna,Piazza Magrassi,IT
-853,Mezzocammino,Via Fabbri,IT
-854,Calore,Stretto Barillaro,IT
-855,Sant'Ilario Di Baganza,Strada Rossellini,IT
-856,Cassone,Incrocio Silvestro,IT
-857,San Canzian D'Isonzo,Via Sanudo,IT
-858,Volla,Piazza Michela,IT
-859,Montecalvoli,Rotonda Bernardo,IT
-860,Ozzano Monferrato,Piazza Vito,IT
-861,Solano Inferiore,Contrada Metella,IT
-862,Montedecoro,Strada Luca,IT
-863,Bellombra,Contrada Amanda,IT
-864,La Luce,Canale Gastone,IT
-865,Due Carrare,Via Giuliana,IT
-866,Aterrana,Contrada Camillo,IT
-867,San Sebastiano Da Po,Stretto Daria,IT
-868,San Lorenzo Di Santi Cosma E Damiano,Rotonda Gian,IT
-869,Campogialli,Canale Rossini,IT
-870,Cerignale,Canale Vanvitelli,IT
-871,Morrano,Incrocio Verdone,IT
-872,Rimini,Rotonda Ricci,IT
-873,Falciano Del Massico,Rotonda Giorgia,IT
-874,Stuls,Incrocio Benussi,IT
-875,Caiazzo,Stretto Bonatti,IT
-876,Sant'Alessio In Aspromonte,Via Vercelloni,IT
-877,Merano,Strada Silvio,IT
-878,Rodengo,Incrocio Porzio,IT
-879,Bazzano,Borgo Gaspare,IT
-880,Collepardo,Viale Lolita,IT
-881,Cumia,Viale Gangemi,IT
-882,Brusnengo,Via Munari,IT
-883,Monte Romano,Canale Alina,IT
-884,Terra Del Sole,Borgo Pierluigi,IT
-885,San Gregorio Magno,Incrocio Sante,IT
-886,Rigoni,Piazza Albertini,IT
-887,Portogruaro,Contrada Olga,IT
-888,Cusago,Vicolo Curci,IT
-889,Salzano,Piazza Stoppani,IT
-890,Soddi',Canale Iadanza,IT
-891,Gavazzo Nuova,Canale Callegaro,IT
-892,Casaliggio,Incrocio Salvatore,IT
-893,Nubia,Vicolo Fagotto,IT
-894,Rota Greca,Rotonda Sabatino,IT
-895,Mezzate,Borgo Stella,IT
-896,Campagnatico,Strada Scandone,IT
-897,Cremenaga,Via Babato,IT
-898,Mazzarino,Rotonda Donarelli,IT
-899,Lamole,Viale Luisa,IT
-900,Cassano,Viale Vito,IT
-901,Bergotto,Viale Barsanti,IT
-902,Luogosanto,Stretto Amanda,IT
-903,Sant'Angelo In Colle,Viale Trevisan,IT
-904,Musone,Strada Riccati,IT
-905,Fener,Viale Sonnino,IT
-906,Villa San Vincenzo,Piazza Irma,IT
-907,Cusano Mutri,Viale Raffaella,IT
-908,Pontedera,Borgo Ferrabosco,IT
-909,Tereglio,Viale Paruta,IT
-910,Castelluccio,Stretto Lucio,IT
-911,Cortale,Canale Faugno,IT
-912,Saliano,Stretto Gianpaolo,IT
-913,Lerino,Strada Orlando,IT
-914,Godi,Contrada Bernardo,IT
-915,Cannigione,Canale Staglieno,IT
-916,Cantalupa,Via Ronaldo,IT
-917,San Francesco Dell'Arena,Canale Federico,IT
-918,Casaletto Di Sopra,Incrocio Federica,IT
-919,Villa Mesa,Rotonda Pellegrino,IT
-920,Anfo,Via Cipriano,IT
-921,Bollengo,Borgo Tomei,IT
-922,Putifigari,Canale Tresoldi,IT
-923,Vieste,Incrocio Battelli,IT
-924,Gerenzago,Piazza Maglio,IT
-925,Ceci,Contrada Giada,IT
-926,Morciano Di Romagna,Incrocio Cipriano,IT
-927,Gambugliano,Stretto Tomasini,IT
-928,Calvi,Contrada Isabella,IT
-929,Quindici,Rotonda Melina,IT
-930,Molteno,Vicolo Annunziata,IT
-931,Laise,Vicolo Daria,IT
-932,Su Troccu,Via Nibali,IT
-933,Sant'Anna,Strada Clelia,IT
-934,Licusati,Via Martina,IT
-935,Falconara Albanese,Borgo Elisa,IT
-936,Lumezzane,Viale Rolando,IT
-937,San Secondo Di Pinerolo,Viale Duse,IT
-938,Calavorno,Borgo Fortunata,IT
-939,San Tomaso,Strada Gemma,IT
-940,Monterado,Canale Tozzi,IT
-941,Chiarino,Stretto Vigliotti,IT
-942,Kematen,Viale Zaguri,IT
-943,Gaiarine,Borgo Tonia,IT
-944,Aymavilles,Viale Leopoldo,IT
-945,Scorrano,Contrada Moneta,IT
-946,Cella Monte,Canale Federico,IT
-947,Chievo,Borgo Germano,IT
-948,Martirano Lombardo,Viale Gianluigi,IT
-949,Tornareccio,Contrada Priuli,IT
-950,Tavernelle D'Emilia,Canale Luigina,IT
-951,Spiluck,Piazza Matteo,IT
-952,Altomonte,Borgo Sraffa,IT
-953,Cusano Milanino,Via Garzoni,IT
-954,Mercatale Vernio,Contrada Sandra,IT
-955,Campedello,Incrocio Raffaele,IT
-956,Casale Litta,Stretto Broschi,IT
-957,Messigno,Viale Fischetti,IT
-958,Costigliole Saluzzo,Canale Sbarbaro,IT
-959,Giuliano Di Roma,Rotonda Traversa,IT
-960,Carrozziere,Stretto Paulina,IT
-961,Osteria Grande,Viale Gilardoni,IT
-962,Barberi,Borgo Piergiorgio,IT
-963,Monteroni Di Lecce,Stretto Alderano,IT
-964,Cinto Caomaggiore,Via Spinelli,IT
-965,Mestrino,Strada Dalla,IT
-966,Congelasio,Piazza Simonetta,IT
-967,Montenero Val Cocchiara,Strada Calgari,IT
-968,Bovegno,Vicolo Anastasi,IT
-969,Arabba,Strada Raffaella,IT
-970,Boario,Via Gramsci,IT
-971,Sant'Antioco,Via Anita,IT
-972,Marina Di Fuscaldo,Stretto Emo,IT
-973,San Pietro Apostolo,Vicolo Telemaco,IT
-974,Bionaz,Contrada Michelangelo,IT
-975,Gela,Borgo Giannotti,IT
-976,Trescore Balneario,Canale Turrini,IT
-977,Valenzani,Via Giorgia,IT
-978,Cerreto Di Spoleto,Viale Ferdinando,IT
-979,Casali Di Roccapiemonte,Incrocio Giunti,IT
-980,Gignese,Rotonda Crisafulli,IT
-981,Casella D'Asolo,Rotonda Ferrazzi,IT
-982,Truccazzano,Vicolo Valeria,IT
-983,Valdibrana,Strada Roncalli,IT
-984,Scesta,Strada Nadi,IT
-985,Stagno,Canale Andreozzi,IT
-986,Tirol,Rotonda Tina,IT
-987,Volania,Contrada Serafina,IT
-988,Giardinello,Via Vezzali,IT
-989,Capradosso,Incrocio Puccio,IT
-990,San Pier Marina,Strada Franzese,IT
-991,Perzacco,Incrocio Casaleggio,IT
-992,Camaro,Incrocio Calvo,IT
-993,Vacri,Strada Paganini,IT
-994,Centro,Rotonda Sagredo,IT
-995,Valle San Giovanni,Viale Armando,IT
-996,Genuri,Via Bandello,IT
-997,Comiso,Stretto Ubaldo,IT
-998,Cizzolo,Piazza Farina,IT
-999,Bagnaia,Incrocio Oliboni,IT
-1000,Cartignano,Stretto Ciro,IT
-1001,Cimina',Contrada Stein,IT
-1002,Valle Agricola,Rotonda Nicoletta,IT
-1003,Malagrotta,Strada Maria,IT
-1004,Amalfi,Strada Muratori,IT
-1005,Bruzzano Zeffirio,Viale Matteo,IT
-1006,Prelerna,Vicolo Bottigliero,IT
-1007,Itala Marina,Piazza Gentileschi,IT
-1008,Villa Col Dei Canali,Incrocio Comolli,IT
-1009,Taranto,Piazza Sabatini,IT
-1010,Novate Mezzola,Piazza Loretta,IT
-1011,Rimini,Canale Disdero,IT
-1012,Sant'Antonio In Bosco,Canale Galasso,IT
-1013,Griante,Rotonda Necci,IT
-1014,Esporlatu,Piazza Ginesio,IT
-1015,Offanengo,Strada Sandro,IT
-1016,Altagnana,Vicolo Ruggiero,IT
-1017,Sambuca,Strada Staglieno,IT
-1018,Alberoro,Stretto Morlacchi,IT
-1019,Castellanza,Canale Gioberti,IT
-1020,Pessola,Viale Tencalla,IT
-1021,Trapani,Strada Sagese,IT
-1022,Coccaglio,Via Saverio,IT
-1023,Capua,Vicolo Ivo,IT
-1024,San Felice A Pietravairano,Canale Lando,IT
-1025,Olivetta San Michele,Rotonda Eugenia,IT
-1026,Oggiona,Canale Maglio,IT
-1027,Mira Taglio,Strada Segrè,IT
-1028,San Michele Di Piave,Borgo Emilio,IT
-1029,Marano Di Napoli,Via Vincentio,IT
-1030,Pianello Vallesina,Stretto Imelda,IT
-1031,Sennori,Borgo Salata,IT
-1032,Conca Casale,Borgo Palombi,IT
-1033,Vallermosa,Stretto Domenico,IT
-1034,Soiano,Strada Annetta,IT
-1035,Chianche,Viale Solari,IT
-1036,Pianura,Viale Trincavelli,IT
-1037,Grions,Stretto Lina,IT
-1038,Castelseprio,Piazza Luchino,IT
-1039,Santa Marina Di Milazzo,Strada Tanzini,IT
-1040,Caines,Canale Sabatino,IT
-1041,Sant'Ilario Milanese,Via Ginese,IT
-1042,Castel Di Decima,Canale Bettin,IT
-1043,Muscoline,Via Emanuelli,IT
-1044,Limone Sul Garda,Strada Greco,IT
-1045,Quattrocase,Canale Ernesto,IT
-1046,Todi,Contrada Trevisan,IT
-1047,Villarboit,Incrocio Pierina,IT
-1048,Moncalvo,Rotonda Mascheroni,IT
-1049,Tuili,Canale Nedda,IT
-1050,Chiavazza,Strada Mogherini,IT
-1051,Venegazzu',Vicolo Bruno,IT
-1052,Lama Di Setta,Canale Lucciano,IT
-1053,Begosso,Vicolo Sanguineti,IT
-1054,Bernalda,Stretto Natalia,IT
-1055,Erice,Rotonda Veltroni,IT
-1056,Fontanaluccia,Piazza Montalcini,IT
-1057,Montespecchio,Stretto Gagliano,IT
-1058,Lettere,Rotonda Comisso,IT
-1059,Giustino,Via Milanesi,IT
-1060,Fraore,Strada Gino,IT
-1061,Brucianesi,Contrada Alderano,IT
-1062,Magliano In Toscana,Contrada Imelda,IT
-1063,Granvilla,Canale Coluccio,IT
-1064,Capriolo,Vicolo Malpighi,IT
-1065,Vela,Incrocio Marangoni,IT
-1066,Scalea,Vicolo Gioachino,IT
-1067,Schiava,Canale Doria,IT
-1068,Corte Palasio,Viale Lupo,IT
-1069,Mainetto,Strada Laureano,IT
-1070,Villa Di Teolo,Incrocio Serafina,IT
-1071,Giuncano Scalo,Rotonda Mirko,IT
-1072,Povolaro,Strada Natta,IT
-1073,Jerzu,Piazza Nico,IT
-1074,Fara Vicentino,Viale Griselda,IT
-1075,San Corrado Di Fuori,Piazza Modugno,IT
-1076,Scapezzano,Piazza Einaudi,IT
-1077,Mattarello,Rotonda Pininfarina,IT
-1078,Giuncarico,Vicolo Bragadin,IT
-1079,Vagliagli,Canale Costantino,IT
-1080,Sbarre,Vicolo Gagliano,IT
-1081,Poggiovalle,Strada Priscilla,IT
-1082,Villanovafranca,Borgo Baggio,IT
-1083,San Cosmo Albanese,Piazza Allegra,IT
-1084,Il Fabbro,Stretto Cesare,IT
-1085,Villapiana,Strada Giacinto,IT
-1086,San Vito Romano,Via Muti,IT
-1087,Vernagt,Via Interminei,IT
-1088,Sicili',Canale Vittorio,IT
-1089,Camignone,Borgo Tommaseo,IT
-1090,Empolitana,Via Mattia,IT
-1091,Isolaccia,Canale Annibale,IT
-1092,San Tammaro,Incrocio Gaetano,IT
-1093,Fornace Zarattini,Piazza Mannoia,IT
-1094,Brusciano,Strada Borsiere,IT
-1095,Piscina,Via Rosario,IT
-1096,Valtorta,Canale Depero,IT
-1097,Rogno,Incrocio Angelo,IT
-1098,Lupazzano,Stretto Claudia,IT
-1099,Noventa Padovana,Borgo Marcella,IT
-1100,Sinopoli,Contrada Bonino,IT
-1101,Torcegno,Viale Tomasini,IT
-1102,Rionero In Vulture,Incrocio Adriana,IT
-1103,Bellinzago Novarese,Incrocio Ignazio,IT
-1104,Ambivere,Incrocio Aldobrandi,IT
-1105,Pila Sul Gromolo,Piazza Mezzetta,IT
-1106,Terlano,Strada Rizzo,IT
-1107,Ponticella,Via Aldobrandi,IT
-1108,Calino,Strada Micheletto,IT
-1109,Mediis,Contrada Manuel,IT
-1110,San Sebastiano Al Vesuvio,Stretto Boldù,IT
-1111,Spartimento,Viale Camanni,IT
-1112,Belgioioso,Strada Chittolini,IT
-1113,Concesa,Canale Silvestri,IT
-1114,Albiano D'Ivrea,Via Andreotti,IT
-1115,Sondalo,Viale Fulvio,IT
-1116,Casalmaggiore,Stretto Cristina,IT
-1117,Bertipaglia,Vicolo Giuseppina,IT
-1118,Cannara,Canale Pasquale,IT
-1119,Nogarole Rocca,Via Lamberto,IT
-1120,Padula Scalo,Canale Pace,IT
-1121,Ramodipalo,Canale Grasso,IT
-1122,Marina Di Ragusa,Vicolo Goffredo,IT
-1123,Sedini,Canale Civaschi,IT
-1124,Ramodipalo Rasa,Canale Catalano,IT
-1125,Bassignana,Rotonda Mirko,IT
-1126,Trasaghis,Piazza Manzoni,IT
-1127,Settimo Torinese,Stretto Coluccio,IT
-1128,Ischia,Piazza Scialpi,IT
-1129,Sesto Ed Uniti,Contrada Asprucci,IT
-1130,Boglietto,Rotonda Marazzi,IT
-1131,Cassano Delle Murge,Incrocio Gigli,IT
-1132,Campomarino,Contrada Casadei,IT
-1133,Thiesi,Stretto Antonia,IT
-1134,Caleipo,Piazza Valerio,IT
-1135,Caderzone,Rotonda Curci,IT
-1136,Marina Di San Lorenzo,Vicolo Sforza,IT
-1137,Somaglia,Borgo Pininfarina,IT
-1138,Pragatto,Canale Campano,IT
-1139,Sant'Angelo In Grotte,Strada Rossi,IT
-1140,Ruviano,Stretto Brichese,IT
-1141,Terrinca,Via Bragadin,IT
-1142,Tiana,Incrocio Lucio,IT
-1143,Casaleggio Novara,Piazza Mazzi,IT
-1144,Monteverdi Marittimo,Borgo Gianpaolo,IT
-1145,Annone Veneto,Canale Bramante,IT
-1146,Pralormo,Canale Greco,IT
-1147,Sinopoli Inferiore,Via Platini,IT
-1148,Terranova Dei Passerini,Stretto Schicchi,IT
-1149,Sperone,Strada Edoardo,IT
-1150,Melicucco,Piazza Nordio,IT
-1151,Rocchetta Tanaro,Borgo Guglielmo,IT
-1152,Tortora Marina,Vicolo Togliatti,IT
-1153,Coggiola,Viale Ortolani,IT
-1154,Sarnthein,Viale Almagià,IT
-1155,Casali Di Roccapiemonte,Rotonda Annalisa,IT
-1156,Lucarelli,Canale Carosone,IT
-1157,Urbino,Strada Malenchini,IT
-1158,Le Cozze,Viale Gianna,IT
-1159,Passirano,Piazza Cecilia,IT
-1160,Frigento,Borgo Toscanini,IT
-1161,Fontanelice,Rotonda Golino,IT
-1162,Leone Santa Elisabetta,Vicolo Alfonsi,IT
-1163,Acquaviva Collecroce,Piazza Tiziana,IT
-1164,Grosio,Incrocio Mondadori,IT
-1165,Colugna,Viale Vittadello,IT
-1166,Cirignano,Via Bocca,IT
-1167,Parazzuolo,Piazza Erika,IT
-1168,Mocogno,Stretto Bixio,IT
-1169,Muccia,Vicolo Miniati,IT
-1170,Capriglia,Piazza Ottino,IT
-1171,Pievescola,Stretto Maura,IT
-1172,Limbadi,Canale Etta,IT
-1173,Palazzo San Gervasio,Canale Sobrero,IT
-1174,Polvica,Borgo Grifeo,IT
-1175,Varano,Viale Gioele,IT
-1176,Triggianello,Strada Angelica,IT
-1177,Lido Di Fermo,Contrada Abatantuono,IT
-1178,Platt,Viale Mauro,IT
-1179,Capizzone,Stretto Golgi,IT
-1180,Marano Lagunare,Via Costantino,IT
-1181,Aiello Calabro,Vicolo Carla,IT
-1182,Alme',Piazza Nanni,IT
-1183,Ca' Corniani,Stretto Isa,IT
-1184,Sarnthein,Canale Roccabonella,IT
-1185,San Teodoro,Borgo Redi,IT
-1186,Gallina,Contrada Amanda,IT
-1187,Marti,Piazza Emilio,IT
-1188,Jovencan,Piazza Musatti,IT
-1189,Pavona,Contrada Calbo,IT
-1190,Brennero,Vicolo Antonia,IT
-1191,Genzano Di Lucania,Canale Volta,IT
-1192,Brezza,Vicolo Bignardi,IT
-1193,Vercana,Strada Antonella,IT
-1194,Carinola,Stretto Sommaruga,IT
-1195,Narcao,Piazza Fiamma,IT
-1196,Lagonegro,Contrada Marissa,IT
-1197,Airali,Vicolo Giancarlo,IT
-1198,Portalbera,Viale Pratesi,IT
-1199,Lajatico,Rotonda Zetticci,IT
-1200,Fontanella Ozino,Vicolo Maffei,IT
-1201,Castiglioncello,Borgo Alderano,IT
-1202,Caspoli,Piazza Cabibbo,IT
-1203,Costa Sant'Abramo,Strada Basso,IT
-1204,Tremezzina,Incrocio Isa,IT
-1205,Cuceglio,Stretto Tozzi,IT
-1206,Fenis,Stretto Filzi,IT
-1207,Torremuzza,Canale Puccini,IT
-1208,Sant'Anatolia Di Narco,Contrada Giampiero,IT
-1209,San Polo In Chianti,Strada Ferrabosco,IT
-1210,Macognano,Via Arsenio,IT
-1211,Castagnaro,Viale Ciro,IT
-1212,Castel Di Lama,Incrocio Verdone,IT
-1213,St. Magdalena i. G.,Piazza Ritacca,IT
-1214,Caspoli,Canale Massimo,IT
-1215,Bertalia,Vicolo Luciano,IT
-1216,Feriolo Baveno,Strada Lisa,IT
-1217,Lido Di Savio,Vicolo Falier,IT
-1218,Talamona,Canale Anguillara,IT
-1219,Fontana Pradosa,Incrocio Legnante,IT
-1220,Marina Di Tortora,Vicolo Amalia,IT
-1221,Valgrana,Incrocio Muratori,IT
-1222,Pieve Santo Stefano,Canale Annamaria,IT
-1223,Zuccaro,Strada Lamborghini,IT
-1224,Osasco,Contrada Viridiana,IT
-1225,Monacilioni,Incrocio Donatoni,IT
-1226,Ceranova,Incrocio Liverotti,IT
-1227,Tiser,Vicolo Fischetti,IT
-1228,Morelli,Borgo Licia,IT
-1229,Strada In Chianti,Stretto Antonello,IT
-1230,Corsano,Strada Francesco,IT
-1231,Baccaiano,Canale Bettin,IT
-1232,Battaglia Terme,Rotonda Veronica,IT
-1233,Vinovo,Strada Riccardo,IT
-1234,Casal Di Basso,Canale Nanni,IT
-1235,Gesualdo,Vicolo Orlando,IT
-1236,Montallese,Canale Bignami,IT
-1237,Madonna Dell Ulivo,Piazza Rembrandt,IT
-1238,Gudon,Vicolo Fabio,IT
-1239,Gambellara,Strada Perini,IT
-1240,Bannio Anzino,Piazza Travaglia,IT
-1241,Ponte Zanano,Rotonda Ludovica,IT
-1242,Trezzo Tinella,Borgo Goldstein,IT
-1243,Costa Valle Imagna,Rotonda Ariosto,IT
-1244,Gorreto,Viale Cavanna,IT
-1245,Amaro,Borgo Bragadin,IT
-1246,Atena Lucana,Stretto Claudia,IT
-1247,Cuccaro Monferrato,Piazza Tencalla,IT
-1248,Bentivoglio,Borgo Amanda,IT
-1249,Cabiate,Borgo Argentero,IT
-1250,Mezzani,Stretto Pina,IT
-1251,Forcella,Vicolo Donatello,IT
-1252,Brancaleone,Piazza Filippa,IT
-1253,Morro D'Oro,Canale Gianfrancesco,IT
-1254,Bitritto,Borgo Venancio,IT
-1255,Rieti,Borgo Almagià,IT
-1256,Capiago,Canale Pirandello,IT
-1257,Zibido San Giacomo,Stretto Bianca,IT
-1258,Mezzana Corti,Contrada Trotta,IT
-1259,Molina Di Fiemme,Via Livia,IT
-1260,Frassineto Po,Strada Ruggero,IT
-1261,Besano,Strada Pontecorvo,IT
-1262,Nespoledo,Viale Carfagna,IT
-1263,Riesci,Incrocio Maderno,IT
-1264,Bereguardo,Incrocio Naccari,IT
-1265,Cosola Di Cabella,Stretto Tommaseo,IT
-1266,Romans,Canale Edoardo,IT
-1267,Montepaone Lido,Viale Nugnes,IT
-1268,Carcoforo,Via Ottavio,IT
-1269,Casalgrande,Strada Marzorati,IT
-1270,Algua,Via Tutino,IT
-1271,Dazio,Canale Coluccio,IT
-1272,Ceprano,Vicolo Franscini,IT
-1273,Baratte,Viale Chechi,IT
-1274,Montemerlo,Piazza Cainero,IT
-1275,Savorgnano Del Torre,Viale Caterina,IT
-1276,Navelli,Rotonda Pontecorvo,IT
-1277,Pasian Di Prato,Contrada Comolli,IT
-1278,Monteverde Di Boiano,Rotonda Carlo,IT
-1279,Massino Visconti,Vicolo Elvira,IT
-1280,Agnano,Strada Medici,IT
-1281,Ceranesi,Viale Vanessa,IT
-1282,Villalta,Rotonda Disdero,IT
-1283,Lo Stradone,Contrada Silvestri,IT
-1284,Pergine Valsugana,Rotonda Pulci,IT
-1285,Bogliaco,Strada Federica,IT
-1286,Malpasso,Via Bettina,IT
-1287,Bagno,Incrocio Benito,IT
-1288,Vallecrosia,Incrocio Borromini,IT
-1289,Contursi Terme,Contrada Monteverdi,IT
-1290,Taccona,Piazza Agostino,IT
-1291,Barzio,Rotonda Malpighi,IT
-1292,Amorosi,Via Morabito,IT
-1293,Montecastelli Umbro,Canale Adelmo,IT
-1294,Zambrone,Borgo Pisani,IT
-1295,Saliceto Buzzalino,Incrocio Lippomano,IT
-1296,Osteria Del Gatto,Viale Visconti,IT
-1297,Montafia,Piazza Piersanti,IT
-1298,Roggione,Vicolo Barsanti,IT
-1299,Putifigari,Viale Nanni,IT
-1300,Orta Novarese,Rotonda Antonina,IT
-1301,Cella Dati,Piazza Fornaciari,IT
-1302,Lido Di Iesolo,Incrocio Amleto,IT
-1303,Tambre,Via Bernardo,IT
-1304,Ginestreto,Rotonda Fabrizi,IT
-1305,Alberone,Via Gucci,IT
-1306,Gavardo,Vicolo Goffredo,IT
-1307,Bovisio-Masciago,Rotonda Germana,IT
-1308,Resana,Vicolo Valentino,IT
-1309,Sandra',Viale Zaira,IT
-1310,Sant'Anastasio,Incrocio Nico,IT
-1311,Polino,Via Mirko,IT
-1312,Cevoli,Stretto Isabella,IT
-1313,Astfeld-Nordheim,Stretto Giovanna,IT
-1314,Montebamboli,Canale Giammusso,IT
-1315,Oggebbio,Contrada Agnolo,IT
-1316,Battuda,Incrocio Atenulf,IT
-1317,Santa Lucia Cilento,Rotonda Silvia,IT
-1318,San Giorgio Di Crognaleto,Piazza Romina,IT
-1319,San Michele Dei Mucchietti,Incrocio Adele,IT
-1320,La Valle,Strada Amato,IT
-1321,Sarnthein,Canale Boccherini,IT
-1322,Lumellogno,Viale Silvio,IT
-1323,Minervino Murge,Viale Fiorenzo,IT
-1324,Borgofranco D'Ivrea,Canale Nitto,IT
-1325,Firenze,Incrocio Monica,IT
-1326,Biadene,Contrada Ricolfi,IT
-1327,Borgo Tufico,Vicolo Vincenzo,IT
-1328,Nesima Superiore,Viale Donarelli,IT
-1329,Canicattini Bagni,Strada Pavone,IT
-1330,Zelo Surrigone,Rotonda Maccanelli,IT
-1331,Cerda,Vicolo Antonia,IT
-1332,Laerru,Rotonda Guicciardini,IT
-1333,Arlesega,Strada Iacovelli,IT
-1334,Vigorovea,Borgo Guido,IT
-1335,Calolziocorte,Vicolo Eleanora,IT
-1336,Portomaggiore,Strada Bernardo,IT
-1337,Lago Di Vico,Canale Martino,IT
-1338,Peschiera Maraglio,Rotonda Vitturi,IT
-1339,Madrigale,Viale Gravina,IT
-1340,Castelluzzo,Piazza Luna,IT
-1341,Vieyes,Canale Giorgia,IT
-1342,Sant'Andrea In Besanigo,Strada Viviani,IT
-1343,Valgrana,Rotonda Rembrandt,IT
-1344,Novate Mezzola,Via Vidoni,IT
-1345,Villammare,Contrada Ornella,IT
-1346,Prezza,Borgo Piacentini,IT
-1347,Gragnano,Contrada Pacomio,IT
-1348,Villa San Nicola,Strada Fiamma,IT
-1349,Castel Madama,Via Oreste,IT
-1350,Omegna,Piazza Lucarelli,IT
-1351,Campospinoso,Strada Garibaldi,IT
-1352,Rancio Valcuvia,Stretto Orlando,IT
-1353,Le Rughe,Borgo Irma,IT
-1354,Selvatelle,Piazza Pedrazzini,IT
-1355,Settefichi,Piazza Cassandra,IT
-1356,Bonea,Vicolo Rosmini,IT
-1357,Bellocchi,Vicolo Jacopo,IT
-1358,San Gemini,Canale Antonia,IT
-1359,Scerne Di Pineto,Rotonda Boccaccio,IT
-1360,Visano,Strada Barese,IT
-1361,Barazzetto,Contrada Dino,IT
-1362,Penna San Giovanni,Piazza Mozart,IT
-1363,Mandolossa Di Brescia,Canale Sokolov,IT
-1364,Camisano,Strada Beppe,IT
-1365,Volterra,Piazza Barberini,IT
-1366,Rogeno,Borgo Lolita,IT
-1367,Lo Stradone,Borgo Stella,IT
-1368,Castellar Guidobono,Viale Mauro,IT
-1369,Cleulis,Piazza Piovani,IT
-1370,Mezzano Inferiore,Borgo Coardi,IT
-1371,Pieve Caina,Piazza Bonolis,IT
-1372,Albeins,Rotonda Arnulfo,IT
-1373,Mappano,Canale Cavanna,IT
-1374,Delia,Contrada Caruso,IT
-1375,Trasaghis,Contrada Arsenio,IT
-1376,Isola Del Gran Sasso D'Italia,Borgo Coardi,IT
-1377,Belluno,Incrocio Rodolfo,IT
-1378,Sant'Anna,Canale Condoleo,IT
-1379,St. Peter b. Lajen,Canale Nordio,IT
-1380,Monteleone Rocca Doria,Via Rossi,IT
-1381,San Lorenzo Colli,Strada Baccio,IT
-1382,San Girolamo,Rotonda Peano,IT
-1383,Castello Tesino,Incrocio Amleto,IT
-1384,Ruffre',Vicolo Costantino,IT
-1385,Barigazzo,Vicolo Elvira,IT
-1386,Torri D'Arcugnano,Vicolo Orlando,IT
-1387,Montesano Salentino,Borgo Ermes,IT
-1388,Lesignano De' Bagni,Incrocio Balbo,IT
-1389,Pedersano,Rotonda Berrè,IT
-1390,Villa Literno,Contrada Schiaparelli,IT
-1391,Borgo Celano,Via Govoni,IT
-1392,Venafro,Strada Pascarella,IT
-1393,Costa Masnaga,Strada Manuel,IT
-1394,Calvizzano,Borgo Gangemi,IT
-1395,Porto Santa Margherita,Piazza Vito,IT
-1396,San Placido Calonero',Rotonda Angelo,IT
-1397,Monte San Pietro,Borgo Giulia,IT
-1398,Montemurro,Incrocio Giacobbe,IT
-1399,Sperone Di Custonaci,Vicolo Chiara,IT
-1400,Carovilli,Strada Malatesta,IT
-1401,Castellaro Nel Frignano,Stretto Calbo,IT
-1402,Fontevivo,Piazza Dallara,IT
-1403,Gandino,Piazza Vergassola,IT
-1404,Povo,Viale Melania,IT
-1405,Favignana,Stretto Marangoni,IT
-1406,Savoca,Rotonda Maurilio,IT
-1407,Rosignano Solvay,Incrocio Ligorio,IT
-1408,San Michele Al Fiume,Incrocio Vergerio,IT
-1409,Roppolo,Contrada Alessandro,IT
-1410,Varna,Viale Bernardi,IT
-1411,Petrulo,Rotonda Modugno,IT
-1412,Celico,Piazza Pierpaolo,IT
-1413,Musocco,Stretto Costanzi,IT
-1414,Volon,Rotonda Annetta,IT
-1415,Antagnod,Viale Cattaneo,IT
-1416,Morigerati,Stretto Simonetta,IT
-1417,Monte Cerignone,Viale Morricone,IT
-1418,Paderno D'Adda,Incrocio Pina,IT
-1419,Cavallermaggiore,Canale Natalia,IT
-1420,Banari,Canale Giada,IT
-1421,Quercioli,Vicolo Fieramosca,IT
-1422,Mongiardino Ligure,Viale Rembrandt,IT
-1423,Soria,Incrocio Pasqua,IT
-1424,Ca' De' Stefani,Piazza Martino,IT
-1425,Grotticella,Via Liana,IT
-1426,Carpeneda,Canale Gilberto,IT
-1427,Seveso,Via Orazio,IT
-1428,Lago Di Vico,Viale Camilla,IT
-1429,Paesana,Rotonda Cattaneo,IT
-1430,Gessate,Piazza Ubaldo,IT
-1431,Capitone,Rotonda Sergius,IT
-1432,Canale D'Agordo,Strada Pausini,IT
-1433,Introd,Canale Bellocchio,IT
-1434,Scaletta Uzzone,Rotonda Letta,IT
-1435,Tor De' Cenci,Via Lucchesi,IT
-1436,Bagno Vignoni,Contrada Leonardi,IT
-1437,Fasana,Strada Ludovica,IT
-1438,Melilli,Rotonda Gregori,IT
-1439,Preturo,Vicolo Greco,IT
-1440,Albi,Rotonda Trevisani,IT
-1441,Lavena Ponte Tresa,Stretto Panfilo,IT
-1442,Mitogio,Strada Beppe,IT
-1443,Pertusio,Strada Natalia,IT
-1444,Lanuvio,Incrocio Stefani,IT
-1445,Ortignano,Rotonda Gaspare,IT
-1446,San Daniele Del Friuli,Stretto Righi,IT
-1447,Pizzinni,Via Sole,IT
-1448,San Nicola Di Centola,Vicolo Franco,IT
-1449,Chivasso,Contrada Monduzzi,IT
-1450,Castorano,Incrocio Cheda,IT
-1451,San Cassiano,Canale Persico,IT
-1452,Cuglieri,Stretto Irma,IT
-1453,Ceregnano,Strada Duodo,IT
-1454,Scala Coeli,Vicolo Sanudo,IT
-1455,Bacchereto,Rotonda Ungaretti,IT
-1456,Rosa',Strada Pizzo,IT
-1457,Montappone,Contrada Torricelli,IT
-1458,San Grato,Rotonda Arturo,IT
-1459,Casalnoceto,Rotonda Gonzaga,IT
-1460,Podenzana,Canale Gori,IT
-1461,Bracigliano,Contrada Benito,IT
-1462,Las Plassas,Stretto Bellò,IT
-1463,Treviolo,Stretto Ferdinando,IT
-1464,Oncino,Canale Baggio,IT
-1465,Tre Fontane,Stretto Bernardini,IT
-1466,Nese,Contrada Caccianemico,IT
-1467,Serravalle Di Bibbiena,Contrada Giulio,IT
-1468,Soiana,Piazza Fulvio,IT
-1469,Lonato,Canale Guido,IT
-1470,Concas,Strada Fulvio,IT
-1471,Montanare Di Cortona,Stretto Enrico,IT
-1472,Cartigliano,Piazza Nonis,IT
-1473,Marina Di Altidona,Contrada Margherita,IT
-1474,Crociara,Canale Donini,IT
-1475,San Sabino,Contrada Cundari,IT
-1476,Valle Mosso,Stretto Gianpietro,IT
-1477,Rubbianello,Piazza Giuseppe,IT
-1478,Ripabottoni Stazione,Vicolo Piergiuseppe,IT
-1479,Terlizzi,Incrocio Tuzzolino,IT
-1480,Pomarance,Viale Migliaccio,IT
-1481,Prali,Stretto Salvemini,IT
-1482,Portanova,Viale Ansaldo,IT
-1483,Magnago,Borgo Travaglio,IT
-1484,Ariccia,Canale Benedetti,IT
-1485,Cavareno,Rotonda Traetta,IT
-1486,Calcarelli,Strada Pasqual,IT
-1487,Morino,Canale Calogero,IT
-1488,Lauria,Via Martina,IT
-1489,Pozzo Della Chiana,Borgo Schiavone,IT
-1490,Calino,Piazza Piergiuseppe,IT
-1491,Semonte,Piazza Sandra,IT
-1492,Martelletto,Strada Ferrabosco,IT
-1493,Isasca,Via Finotto,IT
-1494,Orzinuovi,Incrocio Arnulfo,IT
-1495,Corinaldo,Strada Giannetti,IT
-1496,Peschieta,Vicolo Tarchetti,IT
-1497,Barrafranca,Piazza Claudio,IT
-1498,San Pietro Di Barbozza,Stretto Ravaglioli,IT
-1499,Sant'Albino,Vicolo Antonia,IT
-1500,Decimomannu,Stretto Annetta,IT
-1501,San Sperato,Viale Aldo,IT
-1502,Alpo,Stretto Alberico,IT
-1503,Camellino,Via Cuda,IT
-1504,Castroreale Terme,Viale Greca,IT
-1505,Alfedena,Incrocio Cannizzaro,IT
-1506,Mercatello,Rotonda Lamborghini,IT
-1507,Paradisoni,Stretto Virgilio,IT
-1508,Aschbach,Via Ugolino,IT
-1509,Torella Del Sannio,Rotonda Olga,IT
-1510,Pedara,Stretto Malaparte,IT
-1511,Viggianello,Strada Cociarelli,IT
-1512,Capistrello,Contrada Leonetti,IT
-1513,Mondrone,Strada Baroffio,IT
-1514,Monte San Vigilio,Rotonda Fieramosca,IT
-1515,Raffaellina,Incrocio Ennio,IT
-1516,Boschi,Via Durante,IT
-1517,Nocciano,Viale Federica,IT
-1518,San Gavino,Contrada Rosiello,IT
-1519,Villa Collemandina,Rotonda Zeffirelli,IT
-1520,Valle Ponticelli,Viale Iadanza,IT
-1521,Lomagna,Piazza Abate,IT
-1522,Limonta,Piazza Mariana,IT
-1523,Genola,Canale Susanna,IT
-1524,Romanoro,Borgo Lupo,IT
-1525,Roccavivara,Stretto Babbo,IT
-1526,Valeggio,Rotonda Golino,IT
-1527,Castelsardo,Piazza Loretta,IT
-1528,Mandolossa,Rotonda Romolo,IT
-1529,Albenga,Borgo Lettiere,IT
-1530,San Lorenzo Isontino,Vicolo Danilo,IT
-1531,Monte Santa Maria,Strada Alessandro,IT
-1532,Grado,Viale Conte,IT
-1533,Cinquefrondi,Strada Battisti,IT
-1534,Abtei/Badia,Canale Argan,IT
-1535,Pianopoli,Rotonda Carla,IT
-1536,Tana,Strada Gabba,IT
-1537,Lozzo Atestino,Rotonda Tirabassi,IT
-1538,Miraldo,Canale Fabia,IT
-1539,Moncucco,Via Federigo,IT
-1540,Castelnuovo Belbo,Contrada Villarosa,IT
-1541,Moglia Di Sermide,Borgo Gregori,IT
-1542,Pieve Salutare,Piazza Berlusconi,IT
-1543,Tottubella,Strada Vincentio,IT
-1544,Molvena,Contrada Carfagna,IT
-1545,Isola Di Capo Rizzuto,Incrocio Enzo,IT
-1546,San Sosio,Strada Graziano,IT
-1547,Calore,Piazza Giosuè,IT
-1548,Unsere Frau i. Schnals,Vicolo Cantimori,IT
-1549,Muggiano,Strada Giacomo,IT
-1550,Cassinetta Di Lugagnano,Viale Serraglio,IT
-1551,Atena Lucana Scalo,Vicolo Paride,IT
-1552,Rolo,Incrocio Ungaretti,IT
-1553,Lequile,Incrocio Bartoli,IT
-1554,Pavicolo,Strada Cerutti,IT
-1555,Staglieno,Canale Piermaria,IT
-1556,Chiaravalle,Via Germana,IT
-1557,Borgo Velino,Strada Maura,IT
-1558,Camporosso In Valcanale,Canale Donarelli,IT
-1559,Sambuchi,Borgo Mattia,IT
-1560,Galati Marina,Strada Allegra,IT
-1561,Triginto,Incrocio Trentin,IT
-1562,Pettineo,Vicolo Luna,IT
-1563,Tufara Valle,Via Murri,IT
-1564,Fusara,Canale Alfieri,IT
-1565,Valle Aurina,Vicolo Giada,IT
-1566,Vairano Scalo,Incrocio Rossetti,IT
-1567,Gabbioneta,Vicolo Salvatore,IT
-1568,Corleto Perticara,Via Ermanno,IT
-1569,Montelparo,Contrada Sophia,IT
-1570,Laurein,Rotonda Satriani,IT
-1571,Castelluccio Inferiore,Incrocio Poerio,IT
-1572,Palata,Canale Matilda,IT
-1573,Miramare Di Rimini,Borgo Battaglia,IT
-1574,Brissago Valtravaglia,Vicolo Giulio,IT
-1575,Gfrill,Strada Francesco,IT
-1576,Vezzano Ligure,Viale Bernardini,IT
-1577,Andalo,Borgo Ruberto,IT
-1578,Lascari Scalo,Rotonda Pertile,IT
-1579,Marina Di San Lorenzo,Canale Palumbo,IT
-1580,Ceniga,Piazza Scotti,IT
-1581,Isola Bella,Piazza Traversa,IT
-1582,Casalcassinese,Stretto Letta,IT
-1583,Rosignano Marittimo,Via Paoletti,IT
-1584,Frattamaggiore,Incrocio Luciana,IT
-1585,Villa Ripa,Strada Pisani,IT
-1586,Trevignano,Piazza Livia,IT
-1587,Rodi' Milici,Canale Livio,IT
-1588,Pieve Di Compresseto,Viale Gaetano,IT
-1589,Celano,Via Pedersoli,IT
-1590,Chiesanuova Uzzanese,Via Versace,IT
-1591,Gabbio,Stretto Ettore,IT
-1592,Gricignano,Stretto Angelica,IT
-1593,Luco Mugello,Rotonda Ruggiero,IT
-1594,Rocca Canterano,Strada Ossola,IT
-1595,Ponte A Signa,Borgo Cutuli,IT
-1596,Licinella,Vicolo Rocca,IT
-1597,Riva Del Garda,Incrocio Malaparte,IT
-1598,Gudo Visconti,Contrada Guarino,IT
-1599,San Gavino Monreale,Via Delle,IT
-1600,Cattolica,Rotonda Praga,IT
-1601,Cantalupo Nel Sannio,Contrada Adelmo,IT
-1602,Rodia,Vicolo Stella,IT
-1603,Brugherio,Viale Bettin,IT
-1604,Cogolo,Strada Dante,IT
-1605,Ispica,Stretto Dibiasi,IT
-1606,Cascine Maggio,Borgo Clelia,IT
-1607,Borgo Santa Maria Immacolata,Vicolo Stefanelli,IT
-1608,San Martino Di Sessa Aurunca,Contrada Antonietta,IT
-1609,Luson,Piazza Sobrero,IT
-1610,Panaia,Rotonda Montalcini,IT
-1611,Villa D'Asolo,Vicolo Borroni,IT
-1612,Rivalto,Stretto Amanda,IT
-1613,Orio Litta,Contrada Santi,IT
-1614,Carvacco,Borgo Lombardo,IT
-1615,Brindisi Montagna,Viale Fulvio,IT
-1616,Santa Caterina Dello Ionio Marina,Piazza Ricci,IT
-1617,Sezze Stazione,Vicolo Elmo,IT
-1618,Marina,Viale Togliatti,IT
-1619,San Filippo Del Mela,Stretto Fabbri,IT
-1620,Lugnano Citta' Di Castello,Canale Maura,IT
-1621,Cermes,Stretto Bertoli,IT
-1622,Dorgali,Borgo Barberini,IT
-1623,Ariano Ferrarese,Contrada Sonia,IT
-1624,Morino,Rotonda Aurora,IT
-1625,Orco Feglino,Piazza Pomponio,IT
-1626,Lallio,Borgo Adriano,IT
-1627,Piano Regolatore,Via Aria,IT
-1628,Cavanella Vara,Incrocio Agnesi,IT
-1629,Zanco,Stretto Milena,IT
-1630,Pontelucano,Piazza Ninetta,IT
-1631,Massa Di Somma,Viale Boccherini,IT
-1632,Rosignano Marittimo,Via Mariano,IT
-1633,Nonio,Contrada Ossola,IT
-1634,Casalmorano,Canale Calogero,IT
-1635,Acquarola,Stretto Interminei,IT
-1636,Bottagna,Vicolo Ippazio,IT
-1637,Sant'Ilario Ligure,Viale Gaspare,IT
-1638,Condove,Incrocio Vecoli,IT
-1639,Pieve Ligure,Rotonda Muti,IT
-1640,Celle,Viale Ippazio,IT
-1641,Raossi Di Vallarsa,Canale Rosaria,IT
-1642,Guagnano,Viale Nordio,IT
-1643,Tre Re,Canale Emanuelli,IT
-1644,Belvedere Di Spinello,Vicolo Federico,IT
-1645,Coassolo Torinese,Stretto Brambilla,IT
-1646,Pietrapiana,Viale Gino,IT
-1647,Santo Stefano Di Cadore,Canale Lamberto,IT
-1648,Bettola Di Pozzo D'Adda,Canale Federigo,IT
-1649,Arsago Seprio,Stretto Lilla,IT
-1650,Camugnano,Viale Cusano,IT
-1651,Monte Romano,Rotonda Fulvio,IT
-1652,Bellagio,Canale Monti,IT
-1653,Montesegale,Canale Trobbiani,IT
-1654,Anzi,Contrada Pier,IT
-1655,Garaguso,Canale Elvira,IT
-1656,Leni,Vicolo Alfonsi,IT
-1657,Ghedi,Rotonda Gasperi,IT
-1658,Belluno,Piazza Fabio,IT
-1659,Erbe',Via Trapani,IT
-1660,Gorra,Vicolo Dante,IT
-1661,Via Larga,Strada Saverio,IT
-1662,Domus De Maria,Contrada Isabella,IT
-1663,Lagrimone,Strada Mennea,IT
-1664,Giovo,Vicolo Emanuelli,IT
-1665,Gauro,Strada Enzio,IT
-1666,Plati',Stretto Cannizzaro,IT
-1667,Gossolengo,Rotonda Evangelista,IT
-1668,Castel Madama,Canale Antonietta,IT
-1669,Bassignana,Piazza Fabia,IT
-1670,Carditello,Contrada Mercati,IT
-1671,Nuoro,Viale Fabrizio,IT
-1672,Merano,Incrocio Castellitto,IT
-1673,Borgoratto Mormorolo,Borgo Rossellini,IT
-1674,Campolongo,Via Nordio,IT
-1675,San Paolo Solbrito,Vicolo Rita,IT
-1676,Gordona,Stretto Morosini,IT
-1677,La Costa,Rotonda Stella,IT
-1678,Cismon Del Grappa,Piazza Bertoni,IT
-1679,Tai Di Cadore,Canale Gastone,IT
-1680,Castagnole Delle Lanze,Stretto Marco,IT
-1681,Gimigliano,Canale Soprano,IT
-1682,Sparanise,Borgo Cesaroni,IT
-1683,Vesio,Viale Olga,IT
-1684,Marzolara,Contrada Merisi,IT
-1685,Zambrone,Stretto Tedesco,IT
-1686,Mozzagrogna,Vicolo Morellato,IT
-1687,Rio Marano,Strada Lando,IT
-1688,Rabla',Strada Panatta,IT
-1689,Marano Marchesato,Canale Capecchi,IT
-1690,Goriano Sicoli,Via Armellini,IT
-1691,Vindicio Di Formia,Strada Eugenia,IT
-1692,Monte Di Mezzo,Canale Udinesi,IT
-1693,Livraga,Strada Majewski,IT
-1694,Gaudiano,Piazza Carlo,IT
-1695,Degagna,Piazza Arturo,IT
-1696,Luson,Strada Vianello,IT
-1697,Pozzo Guacito,Via Armellini,IT
-1698,Falchera,Incrocio Eco,IT
-1699,Sedegliano,Contrada Giorgio,IT
-1700,Casate,Canale Livio,IT
-1701,Sivizzano,Piazza Paltrinieri,IT
-1702,Palo,Rotonda Concetta,IT
-1703,Frignano,Borgo Donatoni,IT
-1704,Campiglione Fenile,Contrada Delle,IT
-1705,Donnafugata,Canale Riccardi,IT
-1706,Prodo,Strada Angelica,IT
-1707,Borgomaro,Vicolo Imelda,IT
-1708,Bosaro,Rotonda Ricciardi,IT
-1709,Crescentino,Canale Hugo,IT
-1710,Olevano Romano,Contrada Olivetti,IT
-1711,Canosa Sannita,Incrocio Morosini,IT
-1712,Vanzaghello,Stretto Polizzi,IT
-1713,Settecannoli,Borgo Ermenegildo,IT
-1714,Welsberg,Vicolo Giuseppina,IT
-1715,Romano Banco,Incrocio Canova,IT
-1716,Caprino Veronese,Vicolo Gloria,IT
-1717,Ottone,Vicolo Giuliana,IT
-1718,Rivoli Veronese,Via Emilio,IT
-1719,Sinigo,Vicolo Lidia,IT
-1720,Clanezzo,Borgo Ninetta,IT
-1721,Casate,Viale Baggio,IT
-1722,Marchesino,Rotonda Rosselli,IT
-1723,San Basilio Mottola,Viale Trussardi,IT
-1724,Parlasco,Viale Mastroianni,IT
-1725,Furci,Incrocio Rocco,IT
-1726,Pallanzeno,Contrada Ruggeri,IT
-1727,Sestriere,Viale Rosalia,IT
-1728,Morimondo,Incrocio Eugenia,IT
-1729,Maggiora,Stretto Longhena,IT
-1730,Pollina,Via Stefano,IT
-1731,Sant'Antonino Sciortino,Vicolo Camuccini,IT
-1732,Tassarolo,Strada Giovanni,IT
-1733,Terzorio,Piazza Edoardo,IT
-1734,Sant'Egidio Alla Vibrata,Rotonda Gianinazzi,IT
-1735,Serramanna,Canale Veltroni,IT
-1736,Bussolino,Borgo Pergolesi,IT
-1737,Due Carrare,Vicolo Borgia,IT
-1738,Unsere liebe Frau i. W.,Piazza Gianni,IT
-1739,Barzago,Contrada Benedetto,IT
-1740,Torre,Incrocio Cassarà,IT
-1741,Lainate,Strada Lorenzo,IT
-1742,Volpara,Viale Legnante,IT
-1743,Alpignano,Piazza Nanni,IT
-1744,Graglia Santuario,Viale Gioacchino,IT
-1745,Castelbasso,Contrada Santino,IT
-1746,Tassullo,Borgo Melania,IT
-1747,Borboruso,Incrocio Liliana,IT
-1748,Montespluga,Contrada Carolina,IT
-1749,Casole Bruzio,Rotonda Fantozzi,IT
-1750,Andrate,Canale Antonioni,IT
-1751,Lippo,Piazza Luchino,IT
-1752,Fiera,Rotonda Paride,IT
-1753,San Donato In Poggio,Incrocio Fo,IT
-1754,Sassello,Strada Giunti,IT
-1755,Avola,Contrada Graziano,IT
-1756,Campitello,Rotonda Durante,IT
-1757,Traghetto,Rotonda Lodovico,IT
-1758,Breien,Canale Ludovica,IT
-1759,Limone,Borgo Mirco,IT
-1760,Borgata Borghesiana,Incrocio Lercari,IT
-1761,Baraccone,Piazza Roberto,IT
-1762,Le Grazie Varignano,Rotonda Palumbo,IT
-1763,Montecalvoli,Strada Borroni,IT
-1764,Bagnara Di Romagna,Canale Boccaccio,IT
-1765,Macerata,Piazza Surian,IT
-1766,Arci,Vicolo Vezzali,IT
-1767,Cercola,Viale Tatiana,IT
-1768,Aurisina,Borgo Fantozzi,IT
-1769,Boltiere,Rotonda Gioacchino,IT
-1770,Scalo Di Baragiano,Viale Cugia,IT
-1771,San Giovanni Di Zambrone,Incrocio Saverio,IT
-1772,Agropoli Stazione,Rotonda Gemma,IT
-1773,San Marco Evangelista,Viale Sante,IT
-1774,Cusiano,Canale Silvio,IT
-1775,Force,Incrocio Petrucelli,IT
-1776,Cristo,Canale Nonis,IT
-1777,Le Grazie Varignano,Rotonda Marrone,IT
-1778,Brignano Frascata,Viale Andreotti,IT
-1779,Galta,Via Maria,IT
-1780,Corfinio,Incrocio Massimiliano,IT
-1781,Caprezzo,Rotonda Fallaci,IT
-1782,Gavonata,Canale Vento,IT
-1783,Orio Al Serio,Strada Alonzi,IT
-1784,Corbiglia,Strada Calvo,IT
-1785,Orroli,Incrocio Francesca,IT
-1786,Vallo Della Lucania,Canale Montanelli,IT
-1787,Taurano,Piazza Nolcini,IT
-1788,Monzoro,Vicolo Daniele,IT
-1789,Nerviano,Stretto Gelsomina,IT
-1790,Papariano,Rotonda Meucci,IT
-1791,Vorno,Strada Brunelleschi,IT
-1792,Roveleto Landi,Incrocio Errigo,IT
-1793,Caranna,Strada Giannuzzi,IT
-1794,Allerona,Rotonda Santino,IT
-1795,Lido Dei Pini,Borgo Satriani,IT
-1796,Trento,Stretto Angelica,IT
-1797,Fontebuona,Via Falloppio,IT
-1798,Fiesso,Viale Barozzi,IT
-1799,Villa Bissone,Contrada Graziella,IT
-1800,Galdo Degli Alburni,Vicolo Frescobaldi,IT
-1801,San Giovanni Al Natisone,Canale Barcella,IT
-1802,Lavagnola,Via Liliana,IT
-1803,Villa D'Agri,Incrocio Navarria,IT
-1804,Sumirago,Via Milo,IT
-1805,Carpane',Contrada Fermi,IT
-1806,Nogarole Vicentino,Piazza Giuseppe,IT
-1807,Casei,Borgo Regge,IT
-1808,Bari,Piazza Sandro,IT
-1809,Aliminusa,Stretto Serafina,IT
-1810,Bienno,Rotonda Ginese,IT
-1811,Anticoli Corrado,Contrada Maccanelli,IT
-1812,Marzolara,Stretto Emilio,IT
-1813,Vianino,Rotonda Tamburello,IT
-1814,Vatolla,Borgo Balbo,IT
-1815,Trivento,Canale Graziella,IT
-1816,Bragno,Contrada Virgilio,IT
-1817,Badia A Settimo,Rotonda Bulzoni,IT
-1818,Crusinallo,Via Maffei,IT
-1819,Bari Sardo,Via Nicoletta,IT
-1820,Torre Di Santa Maria,Viale Travia,IT
-1821,Moraduccio Di Valsalva,Rotonda Carli,IT
-1822,Solagna,Rotonda Eraldo,IT
-1823,Sessame,Borgo Cendron,IT
-1824,Palombaio,Via Natta,IT
-1825,Roccanova,Incrocio Milena,IT
-1826,Sammardenchia,Canale Ferrara,IT
-1827,Rocchetta Cairo,Piazza Ugolino,IT
-1828,Sordevolo,Contrada Martino,IT
-1829,Sovizzo,Viale Malaparte,IT
-1830,Villa San Nicola,Vicolo Pelli,IT
-1831,Lido Dei Pini,Incrocio Bettina,IT
-1832,Gizzeria,Via Adriana,IT
-1833,Cartosio,Vicolo Orazio,IT
-1834,Mirabella Imbaccari,Viale Silvio,IT
-1835,Santa Domenica Vittoria,Stretto Pierpaolo,IT
-1836,Paderno Ponchielli,Incrocio Orengo,IT
-1837,Cerreto Di Vallerotonda,Strada Luchino,IT
-1838,Ascrea,Rotonda Favata,IT
-1839,Villa Del Bosco,Stretto Antonina,IT
-1840,Solbiate Olona,Rotonda Cicala,IT
-1841,San Matteo Delle Chiaviche,Viale Simeoni,IT
-1842,Falchera,Vicolo Totino,IT
-1843,Petriccione,Borgo Gianluca,IT
-1844,Caslino Al Piano,Canale Imelda,IT
-1845,Castel San Giorgio,Canale Giorgia,IT
-1846,Morrano Vecchio,Stretto Travaglia,IT
-1847,Larizzate,Rotonda Ernesto,IT
-1848,Fara In Sabina,Rotonda Amleto,IT
-1849,Poggio Terzarmata,Stretto Bellucci,IT
-1850,Bosco Di Galliera,Piazza Bersani,IT
-1851,Casalvolone,Piazza Ovadia,IT
-1852,Cerveno,Contrada Silvia,IT
-1853,Tall,Stretto Balotelli,IT
-1854,Zelo Buon Persico,Stretto Tornatore,IT
-1855,Geo,Via Berenice,IT
-1856,Settecannoli,Borgo Massimiliano,IT
-1857,Castellazzo,Contrada Santi,IT
-1858,Spiazzi,Contrada Livia,IT
-1859,Pontida,Contrada Mirko,IT
-1860,Almenno San Salvatore,Vicolo Gemma,IT
-1861,Meta,Borgo Bernardo,IT
-1862,Castelmarte,Viale Claudia,IT
-1863,Lumarzo,Rotonda Arnaldo,IT
-1864,Lallio,Piazza Marsili,IT
-1865,Frosolone,Piazza Barillaro,IT
-1866,Brognaturo,Piazza Lodovico,IT
-1867,Lestans,Rotonda Pina,IT
-1868,Ponte Di Brenta,Viale Garzoni,IT
-1869,Santa Aquilina,Strada Bertolucci,IT
-1870,Viu',Via Tresoldi,IT
-1871,Vara,Viale Pace,IT
-1872,Provvidenti,Stretto Gualandi,IT
-1873,Vallelunga Pratameno,Stretto Claudio,IT
-1874,Rutigliano,Rotonda Carla,IT
-1875,Coccorino,Vicolo Poerio,IT
-1876,Lomazzo,Viale Trincavelli,IT
-1877,Banco,Viale Riccardo,IT
-1878,Tanca Marchese,Rotonda Cassarà,IT
-1879,Entracque,Via Leopoldo,IT
-1880,Mercurago,Vicolo Elmo,IT
-1881,Tole',Piazza Mariano,IT
-1882,Romano Banco,Incrocio Natalia,IT
-1883,Solarino,Vicolo Gioacchino,IT
-1884,Vervio,Vicolo Angiolello,IT
-1885,Caramagna Piemonte,Rotonda Sebastiano,IT
-1886,Calvizzano,Vicolo Catenazzi,IT
-1887,Bonavicina,Canale Eleanora,IT
-1888,Magliana Trullo,Vicolo Pinamonte,IT
-1889,Copersito,Strada Clelia,IT
-1890,Falerna,Rotonda Maura,IT
-1891,Tschengls,Incrocio Staglieno,IT
-1892,Maciano,Rotonda Malipiero,IT
-1893,Possidente,Viale Jilani,IT
-1894,Ponti,Viale Botta,IT
-1895,Villata,Rotonda Gianfranco,IT
-1896,Cugnoli,Borgo Giammusso,IT
-1897,Calalzo Di Cadore,Borgo Bignami,IT
-1898,Scifelli,Via Bellò,IT
-1899,Teti,Borgo Gionata,IT
-1900,Licodia Eubea,Rotonda Barbara,IT
-1901,Parmezzana Calzana,Canale Giunti,IT
-1902,Penon,Via Manacorda,IT
-1903,La Foce,Incrocio Antonello,IT
-1904,Campo Nell'Elba,Stretto Pierina,IT
-1905,Albese Con Cassano,Via Pozzecco,IT
-1906,Villanova D'Albenga,Canale Antonioni,IT
-1907,Gaibola,Piazza Gianni,IT
-1908,San Niccolo' Di Celle,Via Gioachino,IT
-1909,Leonforte,Incrocio Camillo,IT
-1910,Riposto,Piazza Rocca,IT
-1911,Colombiera,Rotonda Cagnotto,IT
-1912,Formignana,Stretto Pisani,IT
-1913,Ca' Zuliani,Borgo Dellucci,IT
-1914,Foiano Della Chiana,Piazza Filippa,IT
-1915,San Damiano,Stretto Antonucci,IT
-1916,Pagani,Via Gaetano,IT
-1917,Montoro Inferiore,Rotonda Magrassi,IT
-1918,Pontassieve,Viale Annunziata,IT
-1919,Motticella,Vicolo Margherita,IT
-1920,Montecatini Terme,Incrocio Ludovica,IT
-1921,Prizzi,Via Agostino,IT
-1922,Raccuja,Piazza Piero,IT
-1923,Ischia Trentina,Via Barzini,IT
-1924,Galliate,Stretto Silvia,IT
-1925,Bedonia,Viale Gilberto,IT
-1926,Crispiano,Piazza Tina,IT
-1927,Dosimo,Borgo Alfieri,IT
-1928,Barritteri,Viale Travaglia,IT
-1929,Magnago,Vicolo Letizia,IT
-1930,St. Pauls/Eppan,Contrada Panatta,IT
-1931,Pian Camuno,Rotonda Marcella,IT
-1932,Galgagnano,Vicolo Righi,IT
-1933,Lezzeno,Viale Giannetti,IT
-1934,Rometta Marea,Strada Vittorio,IT
-1935,Grumolo Delle Abbadesse,Via Baggio,IT
-1936,Esperia,Stretto Adelmo,IT
-1937,Novaledo,Rotonda Camillo,IT
-1938,Albaretto Della Torre,Vicolo Sabatini,IT
-1939,Tereglio,Incrocio Malenchini,IT
-1940,Pistrino,Incrocio Raimondo,IT
-1941,Pian Di Sco,Piazza Elena,IT
-1942,Quattrocase,Strada Alfio,IT
-1943,Mazzano,Via Pistoletto,IT
-1944,Calvaruso,Incrocio Donatello,IT
-1945,Tret,Rotonda Eraldo,IT
-1946,Formigosa,Vicolo Pacelli,IT
-1947,Limido Comasco,Stretto Elvira,IT
-1948,Stresa,Piazza Volterra,IT
-1949,San Biagio Della Cima,Via Gagliardi,IT
-1950,Panettieri,Canale Fabrizia,IT
-1951,Stevena',Canale Vigorelli,IT
-1952,Ardole San Marino,Stretto Dario,IT
-1953,San Giovanni A Teduccio,Canale Adelmo,IT
-1954,Premia,Via Beatrice,IT
-1955,Poggio Dei Pini,Rotonda Troisi,IT
-1956,San Sostene Marina,Borgo Bazzi,IT
-1957,Falcade,Vicolo Pomponio,IT
-1958,Verolengo,Canale Naccari,IT
-1959,Voltaggio,Borgo Cesare,IT
-1960,Istia D'Ombrone,Vicolo Angelica,IT
-1961,Sasso Morelli,Piazza Gonzaga,IT
-1962,Casale Cremasco Vidolasco,Vicolo Elladio,IT
-1963,Pagliara Dei Marsi,Piazza Ricciotti,IT
-1964,Scisciano,Piazza Ricci,IT
-1965,Ceserano,Piazza Antonia,IT
-1966,Fiumicello Santa Venere,Piazza Achille,IT
-1967,Podenzano,Vicolo Adriano,IT
-1968,Castell'Azzara,Strada Michele,IT
-1969,Reggio Calabria,Rotonda Viridiana,IT
-1970,Caggiano,Viale Cilibrasi,IT
-1971,Nove,Canale Serena,IT
-1972,Pontasserchio,Incrocio Sismondi,IT
-1973,Albiano D'Ivrea,Strada Dante,IT
-1974,La Botte,Piazza Giacometti,IT
-1975,Flero,Strada Gravina,IT
-1976,Sinopoli Inferiore,Rotonda Vidoni,IT
-1977,San Martino In Strada,Via Zabarella,IT
-1978,Busachi,Contrada Benito,IT
-1979,Cefalu',Via Peruzzi,IT
-1980,Massa Martana,Via Guarneri,IT
-1981,Grand Villa Cravon,Piazza Angelica,IT
-1982,San Giovanni In Croce,Canale Altera,IT
-1983,Santa Maria Della Versa,Strada Vito,IT
-1984,Porto Frailis,Viale Nitti,IT
-1985,Cenaia,Incrocio Giannotti,IT
-1986,Sant'Antimo,Rotonda Adriano,IT
-1987,Pieve Saliceto,Vicolo Florio,IT
-1988,Centola,Contrada Vincenza,IT
-1989,Bufalata,Borgo Lucia,IT
-1990,Mutigliano,Canale Jolanda,IT
-1991,Frontone,Via Santino,IT
-1992,Castellina In Chianti,Rotonda Barbara,IT
-1993,Gaiato,Rotonda Gloria,IT
-1994,Lazzaro,Viale Guidone,IT
-1995,Pittolo,Incrocio Pacomio,IT
-1996,Cervo,Piazza Petruzzi,IT
-1997,Settime,Vicolo Prada,IT
-1998,Caslino D'Erba,Borgo Ernesto,IT
-1999,Lumezzane Sant'Apollonio,Piazza Vittorio,IT
-2000,Santa Giustina Di Santarcangelo,Incrocio Turchetta,IT
-2001,Tre Fontane,Canale Vittoria,IT
-2002,Villar Pellice,Piazza Alina,IT
-2003,Fontanigorda,Rotonda Annibale,IT
-2004,Bessude,Stretto Tresoldi,IT
-2005,Perticato,Viale Raffaellino,IT
-2006,Quinto Vercellese,Strada Geraci,IT
-2007,Baitoni,Stretto Venturi,IT
-2008,Pietrastornina,Via Zarlino,IT
-2009,Alatri,Borgo Lorenzo,IT
-2010,Battifollo,Via Maurilio,IT
-2011,Lido Di Classe,Contrada Marrone,IT
-2012,Pieveottoville,Via Russo,IT
-2013,Minori,Canale Castioni,IT
-2014,Polesine,Incrocio Gioachino,IT
-2015,Madonna Del Piano,Vicolo Laureano,IT
-2016,Comuneglia,Viale Simone,IT
-2017,Cassano Spinola,Via Foconi,IT
-2018,Colombare Di Sirmione,Vicolo Ermanno,IT
-2019,Cavuoti,Via Sabatini,IT
-2020,San Benedetto In Perillis,Rotonda Zola,IT
-2021,Acquaviva Villa Musone,Viale Baglioni,IT
-2022,Simala,Incrocio Scarlatti,IT
-2023,Argine,Vicolo Martina,IT
-2024,Modugno,Via Fabrizia,IT
-2025,Sant'Egidio Del Monte Albino,Borgo Collina,IT
-2026,Monastero,Rotonda Gianpietro,IT
-2027,Le Forna,Borgo Serraglio,IT
-2028,Galatina,Via Maccanelli,IT
-2029,Cetraro Marina,Rotonda Marenzio,IT
-2030,Montodine,Canale Camiscione,IT
-2031,Fiumara Di Piraino,Incrocio Elvira,IT
-2032,Gromlongo,Via Bonino,IT
-2033,Casalecchio Di Reno,Borgo Venier,IT
-2034,Levego,Piazza Canova,IT
-2035,Marina Di Ragusa,Canale Ramona,IT
-2036,Pianosa Isola,Stretto Salgari,IT
-2037,Rivotorto,Rotonda Danilo,IT
-2038,Töll,Vicolo Sraffa,IT
-2039,Montecorvino Pugliano,Viale Margherita,IT
-2040,Colloredo Di Monte Albano,Rotonda Tropea,IT
-2041,Sormano,Viale Aurora,IT
-2042,Santa Liberata,Piazza Enzio,IT
-2043,Campo Calabro,Contrada Finetti,IT
-2044,Anzano Di Puglia,Rotonda Romana,IT
-2045,Suaredda,Rotonda Gian,IT
-2046,Carzago Riviera,Borgo Contarini,IT
-2047,Domaso,Incrocio Saverio,IT
-2048,Accorneri,Piazza Paolo,IT
-2049,Sterpete,Via Pisano,IT
-2050,Borgata Paradiso Di Collegno,Incrocio Pasqual,IT
-2051,Castronno,Via Crespi,IT
-2052,Netro,Contrada Mirco,IT
-2053,Fenegro',Rotonda Graziano,IT
-2054,Teulada,Strada Belletini,IT
-2055,Broni,Viale Juvara,IT
-2056,Caronte,Contrada Dina,IT
-2057,Cintano,Borgo Eleanora,IT
-2058,Brugneto,Stretto Imelda,IT
-2059,Rocchetta Ligure,Incrocio Enzio,IT
-2060,Sferracavallo,Canale Gianna,IT
-2061,Grisolia,Contrada Micheletti,IT
-2062,Torre Canne,Piazza Trapanese,IT
-2063,Govone,Canale Solimena,IT
-2064,Altavilla Irpina,Rotonda Spinelli,IT
-2065,Almenno San Salvatore,Canale Geronimo,IT
-2066,Sarre,Contrada Fiorino,IT
-2067,Capriva Del Friuli,Piazza Monte,IT
-2068,Fosso',Stretto Schiaparelli,IT
-2069,Migliarina,Stretto Togliatti,IT
-2070,Lozzo Di Cadore,Canale Baccio,IT
-2071,Case Di Nava,Stretto Allegra,IT
-2072,Tauriano,Via Gaetano,IT
-2073,Bundschen,Via Serlupi,IT
-2074,Puos D'Alpago,Via Montecchi,IT
-2075,Valdisotto,Via Antonioni,IT
-2076,Montelicciano,Via Moretti,IT
-2077,Peseggia,Via Mercalli,IT
-2078,San Giovanni Di Zambrone,Rotonda Michele,IT
-2079,Grancia,Strada Chiara,IT
-2080,Zuccarello,Viale Zabarella,IT
-2081,Ceranova,Stretto Stella,IT
-2082,Casanova Lerrone,Contrada Laureano,IT
-2083,Pra',Strada Biagi,IT
-2084,Tomba Di Nerone,Canale Graziella,IT
-2085,Quagliuzzo,Vicolo Fiorucci,IT
-2086,Burgstall,Vicolo Lorenzo,IT
-2087,Croviana,Vicolo Ubaldo,IT
-2088,San Prisco,Canale Lucchesi,IT
-2089,Ziracco,Viale Antonelli,IT
-2090,Pescolanciano,Via Cugia,IT
-2091,Pignataro Maggiore,Piazza Greco,IT
-2092,Pompei Scavi,Stretto Fedele,IT
-2093,Marausa Loco Grande,Stretto Cipriano,IT
-2094,Villanova Di San Daniele,Vicolo Bellucci,IT
-2095,Bersezio,Rotonda Raffaellino,IT
-2096,San Lorenzo Di Rovetta,Contrada Fiamma,IT
-2097,Barberi,Piazza Germana,IT
-2098,Monastero Di Vasco,Strada Verri,IT
-2099,Schiavonea,Strada Liberto,IT
-2100,Piane,Vicolo Pasquale,IT
-2101,Castelmareri,Rotonda Stella,IT
-2102,Fonteno,Strada Tatiana,IT
-2103,Lentiai,Rotonda Gatto,IT
-2104,Casola In Lunigiana,Vicolo Rocca,IT
-2105,Castelceriolo,Incrocio Paloma,IT
-2106,Pari,Strada Schiavone,IT
-2107,Rive,Stretto Bocca,IT
-2108,Cedrate,Vicolo Parri,IT
-2109,Puginate,Canale Sordi,IT
-2110,Piane,Vicolo Gianluigi,IT
-2111,Larciano,Via Vitturi,IT
-2112,Basovizza,Borgo Vivaldi,IT
-2113,Lecce,Piazza Asmundo,IT
-2114,Cologna Veneta,Viale Piane,IT
-2115,Montalto Delle Marche,Canale Caetani,IT
-2116,Veglio,Vicolo Beffa,IT
-2117,Mattie,Canale Burcardo,IT
-2118,Moio Della Civitella,Via Chigi,IT
-2119,San Rufo,Via Sorrentino,IT
-2120,Pellaro,Borgo Serena,IT
-2121,Anticoli Corrado,Viale Pierangelo,IT
-2122,San Michele Cavana,Contrada Toso,IT
-2123,Megliadino San Vitale,Piazza Stein,IT
-2124,Vergiano,Stretto Papafava,IT
-2125,Cugliate,Stretto Imelda,IT
-2126,Gardola,Borgo Ermes,IT
-2127,Schabs,Piazza Raimondo,IT
-2128,Trevozzo,Rotonda Camillo,IT
-2129,Castroreale,Via Letizia,IT
-2130,San Martino In Gattara,Vicolo Luciana,IT
-2131,Ruggiano,Viale Fedele,IT
-2132,San Lorenzo Di Moriano,Stretto Ezio,IT
-2133,Tomba Di Nerone,Borgo Zecchini,IT
-2134,Lido Di Ostia Ponente,Incrocio Pavarotti,IT
-2135,Idro,Incrocio Babbo,IT
-2136,Tecchiena,Contrada Turati,IT
-2137,Casamarciano,Stretto Morena,IT
-2138,Tognazza,Viale Panzera,IT
-2139,Pescia,Contrada Grimani,IT
-2140,Bulliana,Contrada Chiara,IT
-2141,Monterosso Calabro,Incrocio Toni,IT
-2142,Torre Normanna,Incrocio Ceschi,IT
-2143,Santa Luce,Incrocio Daria,IT
-2144,Borgo Virgilio,Incrocio Antonello,IT
-2145,Conca D'Oro,Strada Majorana,IT
-2146,Quaderni,Incrocio Raffaello,IT
-2147,Rapallo,Viale Bertolucci,IT
-2148,Portogruaro,Via Papetti,IT
-2149,Tignale,Vicolo Oreste,IT
-2150,Onna,Contrada Antonella,IT
-2151,Costa Masnaga,Viale Fo,IT
-2152,Valganna,Canale Saverio,IT
-2153,Scarlino,Rotonda Melania,IT
-2154,Castellarano,Borgo Trezzini,IT
-2155,San Pietro Mussolino,Via Perini,IT
-2156,Poggiodomo,Vicolo Renata,IT
-2157,San Sebastiano Curone,Canale Bettoni,IT
-2158,Maccastorna,Stretto Dina,IT
-2159,Granarolo Dell'Emilia,Rotonda Martina,IT
-2160,Marsico Nuovo,Piazza Lettiere,IT
-2161,Barbarano Vicentino,Incrocio Marcello,IT
-2162,Bellante Stazione,Borgo Medici,IT
-2163,Albions,Piazza Golino,IT
-2164,Furci Siculo,Via Francesco,IT
-2165,Stazzo,Vicolo Golino,IT
-2166,Corrubbio,Contrada Baglioni,IT
-2167,Palmanova,Strada Michelangeli,IT
-2168,Cedas,Viale Bernardini,IT
-2169,Presezzo,Stretto Giancarlo,IT
-2170,Ponzo' Bovecchio,Contrada Viola,IT
-2171,Flains,Rotonda Fausto,IT
-2172,San Martino In Strada,Borgo Monica,IT
-2173,Certaldo,Via Vittorio,IT
-2174,Montalbano Jonico,Canale Goldstein,IT
-2175,Cerisola,Stretto Adelasia,IT
-2176,Moncigoli,Rotonda Angelica,IT
-2177,Petrella Tifernina,Rotonda Bertoni,IT
-2178,Spezzano Albanese,Rotonda Lucciano,IT
-2179,Villetta Sant'Antonio,Via Tonia,IT
-2180,Nago Torbole,Piazza Fischetti,IT
-2181,Porto,Vicolo Ferdinando,IT
-2182,Serravalle,Stretto Sandra,IT
-2183,Montelepre,Incrocio Gemma,IT
-2184,Valli Mocenighe,Rotonda Leonardo,IT
-2185,Bono,Stretto Mario,IT
-2186,Santa Teresa Di Riva,Incrocio Scaramucci,IT
-2187,Cisterna D'Asti,Borgo Dante,IT
-2188,Ricco',Contrada Badoglio,IT
-2189,Santi Angeli,Strada Azeglio,IT
-2190,Cavazzana,Via Dallara,IT
-2191,Altolia,Canale Isabella,IT
-2192,Vulcano Porto,Piazza Angelina,IT
-2193,Bregano,Canale Riccati,IT
-2194,Querceto,Contrada Luciano,IT
-2195,Lentigione,Incrocio Gemma,IT
-2196,Rocca Malatina,Strada Livio,IT
-2197,Lucera,Strada Greca,IT
-2198,Porano,Piazza Caracciolo,IT
-2199,Capradosso,Contrada Ippazio,IT
-2200,Gosaldo,Strada Rubbia,IT
-2201,Giuliano,Piazza Pierina,IT
-2202,Vintebbio,Borgo Marisa,IT
-2203,Castropignano,Strada Bianca,IT
-2204,Onigo,Borgo Rita,IT
-2205,Onno,Vicolo Fausto,IT
-2206,Monteacuto Delle Alpi,Via Capuana,IT
-2207,Baiano Di Spoleto,Stretto Gianluigi,IT
-2208,Fulgatore,Vicolo Silvestro,IT
-2209,Campertogno,Via Maura,IT
-2210,Zerbolo',Rotonda Vincenza,IT
-2211,San Pietro Samolaco,Incrocio Pellegrini,IT
-2212,Wolfsgruben,Piazza Treves,IT
-2213,Arigliano,Incrocio Raffaello,IT
-2214,Montefollonico,Incrocio Azeglio,IT
-2215,Noto,Canale Pace,IT
-2216,Morelli,Borgo Cossiga,IT
-2217,Divignano,Vicolo Ostinelli,IT
-2218,Masio,Rotonda Scarfoglio,IT
-2219,Castellamonte,Via Ludovica,IT
-2220,Vernante,Via Donarelli,IT
-2221,Pavone Del Mella,Vicolo Telemaco,IT
-2222,Monterotondo,Rotonda Cipriano,IT
-2223,Malpaga,Canale Babato,IT
-2224,Camparada,Rotonda Ziani,IT
-2225,Silvana Mansio,Rotonda Guidotti,IT
-2226,Pedona,Rotonda Simonetta,IT
-2227,San Pietro Avellana,Incrocio Marini,IT
-2228,Pedara,Stretto Gianpaolo,IT
-2229,Lesina,Strada Ossola,IT
-2230,Spigno Saturnia,Canale Virginia,IT
-2231,Bucciano,Strada Viola,IT
-2232,Pizzighettone,Incrocio Iadanza,IT
-2233,Dinami,Contrada Puccio,IT
-2234,Castelmareri,Piazza Lucia,IT
-2235,Montaldo Di Mondovi',Viale Marissa,IT
-2236,Monterosso,Contrada Nolcini,IT
-2237,Banco,Piazza Bosio,IT
-2238,Cisterna Del Friuli,Borgo Alberico,IT
-2239,Monte Magre',Borgo Cristina,IT
-2240,Gerbo,Borgo Pellegrino,IT
-2241,Pontecurone,Vicolo Osvaldo,IT
-2242,Montecastelli,Piazza Giulietta,IT
-2243,Granerolo,Piazza Ruggeri,IT
-2244,Gracciano,Strada Gianmarco,IT
-2245,Spinimbecco,Incrocio Fantini,IT
-2246,Grazzano Badoglio,Strada Baldassare,IT
-2247,Castiglione Della Pescaia,Vicolo Zola,IT
-2248,Petina,Stretto Federigo,IT
-2249,Presicce,Rotonda Rosario,IT
-2250,Casamassella,Vicolo Asmundo,IT
-2251,Pietramurata,Piazza Maria,IT
-2252,Arasi',Canale Ettore,IT
-2253,Golfo Aranci,Borgo Angelina,IT
-2254,San Giovanni E Paolo,Piazza Giusti,IT
-2255,Proserpio,Vicolo Maria,IT
-2256,Villa Di Serio,Contrada Virginia,IT
-2257,Albanella,Piazza Antonia,IT
-2258,Porto Viro,Incrocio Bettoni,IT
-2259,Monselice,Rotonda Flora,IT
-2260,Armento,Vicolo Cossiga,IT
-2261,San Polo Di Piave,Viale Marcantonio,IT
-2262,Villagrazia Di Carini,Contrada Berenice,IT
-2263,Gargani,Rotonda Bernini,IT
-2264,San Siro,Via Ritacca,IT
-2265,Meldola,Piazza Barcaccia,IT
-2266,Aprilia,Stretto Ficino,IT
-2267,Ponna,Strada Bajamonti,IT
-2268,Caorso,Rotonda Modugno,IT
-2269,Bonferraro,Via Lorenzo,IT
-2270,Forni Avoltri,Piazza Gastone,IT
-2271,Valmala,Incrocio Togliatti,IT
-2272,Starze,Incrocio Parisi,IT
-2273,Ficarolo,Borgo Nosiglia,IT
-2274,Uggia,Stretto Sokolov,IT
-2275,Corniolo,Borgo Ruffini,IT
-2276,San Sebastiano,Viale Alina,IT
-2277,Colle Umberto,Stretto Ennio,IT
-2278,Montemilone,Stretto Olga,IT
-2279,Comerio,Piazza Soffici,IT
-2280,Colleberardi,Incrocio Gargallo,IT
-2281,Tancau Sul Mare,Canale Isabella,IT
-2282,Berzano Di San Pietro,Strada Alessandro,IT
-2283,Passo Di Treia,Incrocio Fieramosca,IT
-2284,Rabenstein,Viale Hugo,IT
-2285,Alpe Di Siusi,Strada Nievo,IT
-2286,Avacelli,Incrocio Ornella,IT
-2287,San Donato Fronzano,Canale Daria,IT
-2288,Fabro Scalo,Rotonda Gadda,IT
-2289,Belvedere Di Spinello,Contrada Margherita,IT
-2290,Castel Boglione,Rotonda Cassandra,IT
-2291,San Giacomo Roncole,Canale Soprano,IT
-2292,Fraccano,Incrocio Bernardi,IT
-2293,Poiana Di Granfion,Borgo Stefano,IT
-2294,Cadine,Piazza Venancio,IT
-2295,Trofarello,Vicolo Mattarella,IT
-2296,Sant'Angelo Di Brolo,Via Piero,IT
-2297,Catona Di Ascea,Borgo Annalisa,IT
-2298,Lovere,Viale Moretti,IT
-2299,Mals,Rotonda Piersanti,IT
-2300,Castelnuovo Nigra,Piazza Abatantuono,IT
-2301,Ambra,Viale Cuzzocrea,IT
-2302,Carrara,Canale Solari,IT
-2303,Palazzo Del Pero,Rotonda Liguori,IT
-2304,Sogliano Cavour,Via Pellegrino,IT
-2305,San Pier Marina,Incrocio Bajamonti,IT
-2306,Follonica,Contrada Dalla,IT
-2307,Isola D'Arbia,Viale Lisa,IT
-2308,Remedello Di Sopra,Contrada Dulbecco,IT
-2309,Laxolo,Viale Agnolo,IT
-2310,Ville Di Corsano,Vicolo Laureano,IT
-2311,Misilmeri,Via Corrado,IT
-2312,Seravezza,Viale Gioberti,IT
-2313,Villa Elce,Stretto Ritacca,IT
-2314,Valle Sauglio,Strada Fabrizio,IT
-2315,Corcumello,Contrada Daniele,IT
-2316,Moline,Strada Etta,IT
-2317,Montefiorino,Viale Nievo,IT
-2318,Cisterna Di Latina,Borgo Adinolfi,IT
-2319,Serra,Via Mastroianni,IT
-2320,Montalbano Jonico,Piazza Lucarelli,IT
-2321,Buggerru,Stretto Lamborghini,IT
-2322,Roccaforzata,Borgo Bonolis,IT
-2323,Treville,Stretto Ugolino,IT
-2324,Villanova Del Sillaro,Incrocio Cappelli,IT
-2325,Varese Ligure,Rotonda Guglielmo,IT
-2326,Eraclea Mare,Piazza Raffaellino,IT
-2327,Borghetto Di Borbera,Borgo Pozzecco,IT
-2328,San Vincenzo Valle Roveto,Strada Valmarana,IT
-2329,Lippo,Strada Cuzzocrea,IT
-2330,Porelli Di Bagnara,Stretto Isabella,IT
-2331,Grignano Polesine,Viale Antonella,IT
-2332,Massa Fermana,Contrada Hugo,IT
-2333,San Ferdinando Di Puglia,Strada Angelo,IT
-2334,Fubine,Stretto Versace,IT
-2335,Noventa Di Piave,Via Alonzi,IT
-2336,Carrodano,Piazza Bonanno,IT
-2337,Stella Di Monsampolo,Vicolo Baggio,IT
-2338,Ponte Al Bozzone,Incrocio Benito,IT
-2339,Belmonte Piceno,Piazza Comolli,IT
-2340,Moraduccio,Stretto Coluccio,IT
-2341,Moruzzo,Contrada Giovine,IT
-2342,Silvi Marina,Vicolo Riccardo,IT
-2343,Montignoso,Strada Eliana,IT
-2344,Fabriano,Via Vecoli,IT
-2345,Cortenova,Canale Mazzocchi,IT
-2346,Mazzin,Vicolo Laureano,IT
-2347,Barbara,Via Franzese,IT
-2348,Noicattaro,Viale Meucci,IT
-2349,Fontanella Grazioli,Rotonda Amedeo,IT
-2350,Carrone,Stretto Paola,IT
-2351,Cafaggio,Contrada Lodovico,IT
-2352,Cereseto,Borgo Sante,IT
-2353,Bosconero,Borgo Pellegrino,IT
-2354,St. Pauls/Eppan,Rotonda Vecoli,IT
-2355,Pioppe Di Salvaro,Borgo Lando,IT
-2356,Torre Balfredo,Viale Blasi,IT
-2357,Staffolo,Borgo Cristina,IT
-2358,Sersale,Strada Rensi,IT
-2359,Negrar,Vicolo Michela,IT
-2360,Masone,Borgo Garzoni,IT
-2361,Pieve Terzagni,Contrada Persico,IT
-2362,Ferro Di Cavallo,Strada Bernardini,IT
-2363,Copersito Cilento,Via Adriano,IT
-2364,Marina Di Tortora,Stretto Giuliano,IT
-2365,Mules,Piazza Melina,IT
-2366,Mombello,Strada Ficino,IT
-2367,Tordandrea,Vicolo Franco,IT
-2368,Cassingheno,Canale Fortunata,IT
-2369,San Pietro Sovera,Canale Chiesa,IT
-2370,Merizzo,Canale Toso,IT
-2371,San Bernardo D'Ivrea,Contrada Vincentio,IT
-2372,Menaggio,Canale Erika,IT
-2373,San Biagio Saracinisco,Rotonda Morellato,IT
-2374,Santa Cecilia Di Eboli,Strada Rosina,IT
-2375,Scheggino,Contrada Rossana,IT
-2376,Piepasso,Canale Germano,IT
-2377,Minozzo,Viale Enzo,IT
-2378,Montescaglioso,Contrada Romina,IT
-2379,San Rocco,Borgo Botta,IT
-2380,Tavodo,Stretto Gianluca,IT
-2381,Foresto Sparso,Viale Manzoni,IT
-2382,Bivio Cava Manara,Piazza Morabito,IT
-2383,St. Konstantin,Contrada Tiziano,IT
-2384,Roccagorga,Strada Opizzi,IT
-2385,Lomagna,Vicolo Ferretti,IT
-2386,Callianetto,Via Vento,IT
-2387,Sangano,Stretto Giada,IT
-2388,Tirol,Incrocio Bernetti,IT
-2389,Rocca De' Baldi,Rotonda Puccini,IT
-2390,Tavernola Bergamasca,Vicolo Peano,IT
-2391,Vigasio,Viale Broggini,IT
-2392,Borgo Sacco,Contrada Errani,IT
-2393,Ossuccio,Borgo Cociarelli,IT
-2394,Maniace,Piazza Luisa,IT
-2395,Tavazzano Con Villavesco,Incrocio Amadeo,IT
-2396,Muro Leccese,Incrocio Barcella,IT
-2397,Fara San Martino,Vicolo Micca,IT
-2398,Rocca Santa Maria,Incrocio Briccialdi,IT
-2399,Chiusa Ferranda,Contrada Gianetti,IT
-2400,Castellar Ponzano,Via Marzorati,IT
-2401,Levice,Incrocio Filippo,IT
-2402,Castelnuovo Bormida,Canale Toscanini,IT
-2403,Isso,Piazza Turati,IT
-2404,Ciamprisco,Borgo Silvia,IT
-2405,Auer,Piazza Mariano,IT
-2406,Pennapiedimonte,Vicolo Bellucci,IT
-2407,Stramare,Viale Villadicani,IT
-2408,San Martino Di Colle Umberto,Piazza Niscoromni,IT
-2409,Croce Di Magara,Contrada Cerutti,IT
-2410,Ampezzo,Canale Barese,IT
-2411,Borgo Capanne,Incrocio Rosa,IT
-2412,Montaldo Bormida,Contrada Gianinazzi,IT
-2413,Angolo Terme,Vicolo Martinelli,IT
-2414,Tremestieri Etneo,Rotonda Elmo,IT
-2415,Revislate,Borgo Bernardo,IT
-2416,Vigolo,Rotonda Emma,IT
-2417,Olang,Stretto Camillo,IT
-2418,Golasecca,Viale Ginese,IT
-2419,Albano Di Lucania,Vicolo Marcacci,IT
-2420,Issogne,Contrada Filzi,IT
-2421,Tovo Di Sant'Agata,Piazza Elvira,IT
-2422,Cinisello Balsamo,Piazza Traetta,IT
-2423,Testico,Vicolo Iolanda,IT
-2424,Buonanotte,Via Pugliese,IT
-2425,Vilpian,Vicolo Viridiana,IT
-2426,San Lorenzo Di Sebato,Incrocio Alderano,IT
-2427,Ripe Civitella Del Tronto,Viale Azeglio,IT
-2428,Capri,Vicolo Greca,IT
-2429,San Marco Roggiano Stazione,Contrada Marina,IT
-2430,Karersee,Strada Vincentio,IT
-2431,Tarcento,Stretto Gioacchino,IT
-2432,Mornago,Canale Graziella,IT
-2433,Vaglie,Incrocio Pizzamano,IT
-2434,Riofreddo,Stretto Olga,IT
-2435,Pontericcioli,Piazza Emanuelli,IT
-2436,Rezzonico,Viale Toselli,IT
-2437,Piode,Viale Forza,IT
-2438,Saludecio,Incrocio Beatrice,IT
-2439,Nocelleto,Strada Chiara,IT
-2440,Baucina,Contrada Marzorati,IT
-2441,Zinasco Nuovo,Stretto Maglio,IT
-2442,San Sossio Di Serino,Canale Sabatino,IT
-2443,Taverna Di Montalto Uffugo,Borgo Inzaghi,IT
-2444,Caponago,Contrada Muti,IT
-2445,Sant'Angelo A Cupolo,Canale Mercadante,IT
-2446,Torello Di Melizzano,Contrada Mazzi,IT
-2447,Terrassa Padovana,Rotonda Gianna,IT
-2448,Premaor,Rotonda Caffarelli,IT
-2449,Rodello,Canale Foscari,IT
-2450,San Piero Patti,Rotonda Gian,IT
-2451,Mirabella Imbaccari,Borgo Francesca,IT
-2452,Budoia,Contrada Segni,IT
-2453,Fusine,Contrada Emanuelli,IT
-2454,Reggiolo,Vicolo Bosio,IT
-2455,Marina Di Casal Velino,Canale Severino,IT
-2456,Pozzo Di Gualdo Cattaneo,Incrocio Livio,IT
-2457,Pieve Fosciana,Incrocio Borgia,IT
-2458,Dicomano,Strada Piccio,IT
-2459,Piano Porlezza,Rotonda Gioele,IT
-2460,Alte Di Montecchio Maggiore,Contrada Gabriella,IT
-2461,Carde',Stretto Turchi,IT
-2462,San Rocco Di Camogli,Rotonda Vittoria,IT
-2463,Sticciano Scalo,Viale Trezzini,IT
-2464,Orsano E Cammoro,Piazza Durante,IT
-2465,Aufkirchen,Canale Mennea,IT
-2466,Giustino,Rotonda Guido,IT
-2467,Padernello,Borgo Cuda,IT
-2468,Chiaravalle Milanese,Canale Angelina,IT
-2469,Sant'Andrea Pelago,Borgo Bellucci,IT
-2470,Bricherasio,Vicolo Francesca,IT
-2471,Nonantola,Incrocio Corcos,IT
-2472,Santa Tecla,Incrocio Gaetano,IT
-2473,Alanno Stazione,Rotonda Niscoromni,IT
-2474,Villa Rosa Di Martinsicuro,Canale Gianna,IT
-2475,Fonderia Di Lovere,Via Monaco,IT
-2476,Madrisio,Stretto Napolitano,IT
-2477,Bolzano Di Belluno,Piazza Scotti,IT
-2478,Cerano D'Intelvi,Viale Canevascini,IT
-2479,Colleferro,Via Pisaroni,IT
-2480,Navazzo,Via Guarato,IT
-2481,Sernio,Vicolo Casellati,IT
-2482,Copparo,Contrada Luchino,IT
-2483,Paola,Viale Piane,IT
-2484,Soverato Marina,Piazza Grassi,IT
-2485,Santa Marina,Strada Benedetti,IT
-2486,Valmaggia,Viale Antonio,IT
-2487,Barbalaconi,Viale Manuel,IT
-2488,Poggiola,Stretto Rapisardi,IT
-2489,Capestrano,Stretto Donatella,IT
-2490,San Rocco Di Piegara,Rotonda Pasquale,IT
-2491,Germasino,Rotonda Olivetti,IT
-2492,Burgusio,Rotonda Sinisi,IT
-2493,Giungano,Borgo Agostini,IT
-2494,Pianacce,Piazza Fiorenzo,IT
-2495,Tremestieri Etneo,Rotonda Miniati,IT
-2496,Sefro,Strada Mazzacurati,IT
-2497,Reino,Stretto Griselda,IT
-2498,Foce Varano,Canale Tassoni,IT
-2499,Morroni,Borgo Tonisto,IT
+0,San Pietro In Cariano,Rotonda Giunti,IT
+1,Caselette,Canale Sylvia,IT
+2,Colverde,Canale Matilda,IT
+3,Cis,Rotonda Panicucci,IT
+4,Ittiri,Stretto Staglieno,IT
+5,Villamontagna,Strada Flaiano,IT
+6,Diano Castello,Piazza Guglielmo,IT
+7,Coldrano,Via Adriana,IT
+8,Castellania,Rotonda Abatantuono,IT
+9,Longastrino,Stretto Frescobaldi,IT
+10,Mechel,Viale Spinola,IT
+11,Vanzone Con San Carlo,Canale Infantino,IT
+12,Pfelder,Strada Pucci,IT
+13,Picone,Contrada Tolentino,IT
+14,San Francesco,Canale Rocca,IT
+15,Fellicarolo,Canale Sole,IT
+16,Rovezzano,Rotonda Alberico,IT
+17,Longhena,Piazza Baccio,IT
+18,Ferrito,Incrocio Sole,IT
+19,Chia,Via Jolanda,IT
+20,Monterappoli,Stretto Paride,IT
+21,Passo Del Bidollo,Viale Chiaramonte,IT
+22,Castellana Grotte,Incrocio Dina,IT
+23,Navacchio,Rotonda Pasqual,IT
+24,Rialto,Strada Bellò,IT
+25,Treviso Bresciano,Borgo Siffredi,IT
+26,Villa Lagarina,Contrada Luria,IT
+27,Villaggio Aldisio,Piazza Ferrara,IT
+28,Cembra,Vicolo Ligorio,IT
+29,Walte,Strada Piergiuseppe,IT
+30,Sale,Piazza Severino,IT
+31,Casalattico,Stretto Lercari,IT
+32,Saint Christophe,Borgo Goldstein,IT
+33,Wiesen,Stretto Randazzo,IT
+34,Galliavola,Contrada Forza,IT
+35,Bresega,Vicolo Dossi,IT
+36,Fontanella,Incrocio Cipriano,IT
+37,Cesenatico,Borgo Gianluigi,IT
+38,Montagnaga,Piazza Licia,IT
+39,Brandizzo,Rotonda Sagredo,IT
+40,Mapello,Strada Mirko,IT
+41,Marina Di Patti,Vicolo Berenice,IT
+42,Vastogirardi,Rotonda Broschi,IT
+43,Rodano,Borgo Orazio,IT
+44,Motta Montecorvino,Contrada Alessandro,IT
+45,Selva Del Montello,Viale Giuseppe,IT
+46,Torricella Sicura,Strada Giovanna,IT
+47,Savoniero,Contrada Sabatino,IT
+48,Siena,Incrocio Varano,IT
+49,Piani,Rotonda Vespucci,IT
+50,San Mauro Cilento,Borgo Tullio,IT
+51,Li Punti,Via Ginese,IT
+52,Divignano,Contrada Amalia,IT
+53,San Martino Di Colle Umberto,Contrada Zaira,IT
+54,Tiers,Rotonda Sophia,IT
+55,Sant'Antonio Abate,Contrada Baldassare,IT
+56,Gallicano Nel Lazio,Strada Fiamma,IT
+57,La Pila,Vicolo Milena,IT
+58,Caiazzano,Viale Mauro,IT
+59,Cedegolo,Stretto Federigo,IT
+60,Barbariga,Rotonda Enrico,IT
+61,Storo,Stretto Biagiotti,IT
+62,Prags,Vicolo Anguissola,IT
+63,Bivio Santa Cecilia,Strada Amadeo,IT
+64,Grottaminarda,Contrada Carolina,IT
+65,Tenno,Canale Mario,IT
+66,Villa Romagnoli,Vicolo Tosto,IT
+67,Desana,Vicolo Flora,IT
+68,Ponzo' Bovecchio,Viale Alberico,IT
+69,Cursi,Stretto Draghi,IT
+70,Grunuovo,Stretto Pier,IT
+71,Osteria Nuova,Incrocio Fattori,IT
+72,Trento,Vicolo Pierpaolo,IT
+73,Mazzin,Rotonda Sandi,IT
+74,Laudes,Viale Antonelli,IT
+75,San Quirico Di Vernio,Borgo Valguarnera,IT
+76,Turano Lodigiano,Via Loredan,IT
+77,San Ponso,Vicolo Barracco,IT
+78,Castel Guelfo Di Bologna,Contrada Santorio,IT
+79,Santa Aquilina,Vicolo Santi,IT
+80,Braies,Contrada Luigi,IT
+81,Ancarano,Vicolo Ilaria,IT
+82,Penitro,Stretto Angelina,IT
+83,Torricella Peligna,Vicolo Duse,IT
+84,Chesallet,Canale Fernanda,IT
+85,St. Walburg i. Antholz,Borgo Fantoni,IT
+86,Valmorsel,Via Respighi,IT
+87,Baricella,Canale Sansoni,IT
+88,Solarolo,Rotonda Agazzi,IT
+89,Riccione,Vicolo Ermes,IT
+90,Casafredda,Contrada Salvi,IT
+91,Cannobio,Viale Tolentino,IT
+92,Seluci,Canale Caironi,IT
+93,Guinzano,Strada Sebastiano,IT
+94,Invillino,Incrocio Corbo,IT
+95,Lu Cuponeddi,Contrada Teresa,IT
+96,Lusiana,Via Gianni,IT
+97,Moconesi,Via Toni,IT
+98,Pedra E Cupa,Borgo Santino,IT
+99,Marciano Freddo,Contrada Rocco,IT
+100,Rina,Viale Sonia,IT
+101,Amaseno,Incrocio Giovine,IT
+102,Beduzzo,Viale Guinizzelli,IT
+103,Acquacalda,Incrocio Giovanna,IT
+104,Montesarchio,Piazza Antonino,IT
+105,Controne,Piazza Alessandra,IT
+106,Gorla Minore,Borgo Tedesco,IT
+107,Agnosine,Canale Marzorati,IT
+108,Montagnano,Vicolo Lolita,IT
+109,Ilci,Rotonda Adele,IT
+110,Rocca D'Arce,Strada Lerner,IT
+111,Calavorno,Incrocio Adamo,IT
+112,Fossalto,Borgo Pierina,IT
+113,Viverone,Strada Geronimo,IT
+114,St.Andr,Contrada Amico,IT
+115,Cisterna Del Friuli,Canale Tiziana,IT
+116,Castelmuzio,Canale Saraceno,IT
+117,Ponti,Canale Verga,IT
+118,Montevitozzo,Contrada Piersanti,IT
+119,Morgnano,Canale Vanvitelli,IT
+120,Scisciano,Contrada Antonino,IT
+121,Vallo Torinese,Piazza Catalano,IT
+122,Turate,Via Cesare,IT
+123,Pavana,Strada Favata,IT
+124,Ururi,Strada Gioberti,IT
+125,Cottanello,Borgo Finetti,IT
+126,Serrata,Piazza Argento,IT
+127,Molfetta,Piazza Marina,IT
+128,San Pietro Vernotico,Stretto Vanessa,IT
+129,Paratico,Strada Pierpaolo,IT
+130,Pecol,Incrocio Flora,IT
+131,Altavilla Milicia,Stretto Virgilio,IT
+132,Pieveottoville,Incrocio Nibali,IT
+133,Ala Di Stura,Incrocio Fo,IT
+134,Grosio,Vicolo Enzo,IT
+135,Mainetto,Canale Fornaciari,IT
+136,Arsego,Stretto Beccheria,IT
+137,Piana Degli Albanesi,Rotonda Beccheria,IT
+138,Prizzi,Via Collina,IT
+139,Marina Di Ardea,Contrada Dolores,IT
+140,Ca' De' Mari,Vicolo Damiano,IT
+141,Monasterace,Via Totino,IT
+142,Taccone,Vicolo Orengo,IT
+143,Colle Sannita,Strada Lilla,IT
+144,Ardali,Piazza Annamaria,IT
+145,Stia,Strada Bruno,IT
+146,Gorgonzola,Incrocio Majorana,IT
+147,Fossalto,Piazza Gaito,IT
+148,Ripe San Ginesio,Incrocio Carolina,IT
+149,Caria,Contrada Ciani,IT
+150,Castelfranco Piandiscò,Incrocio Torlonia,IT
+151,Taranta Peligna,Contrada Lara,IT
+152,Monta',Borgo Milo,IT
+153,Morimondo,Stretto Cecilia,IT
+154,Rigomagno,Piazza Mirko,IT
+155,Santa Croce Di Cittareale,Borgo Vincenzo,IT
+156,Guilmi,Strada Tatiana,IT
+157,Ca' Ballarin,Strada Petrassi,IT
+158,Cipolleto,Stretto Jacuzzi,IT
+159,Lippo,Strada Tosto,IT
+160,Scurano,Borgo Doria,IT
+161,San Benedetto Belbo,Rotonda Aldobrandi,IT
+162,Accettura,Canale Rossi,IT
+163,Saliano,Borgo Calogero,IT
+164,Tarmassia,Canale Ornella,IT
+165,Montegemoli,Contrada Toni,IT
+166,Mozzano Torretta,Piazza Laura,IT
+167,Candelara,Canale Turchetta,IT
+168,Mandatoriccio,Rotonda Garzoni,IT
+169,Monleone,Contrada Liana,IT
+170,Turate,Viale Agnolo,IT
+171,Racalmuto,Vicolo Elmo,IT
+172,Vitolini,Stretto Petrucci,IT
+173,Ronciglione,Borgo Lilla,IT
+174,Abbadia Di Montepulciano,Via Marco,IT
+175,Nave San Felice,Rotonda Caffarelli,IT
+176,Pinzolo,Rotonda Raffaello,IT
+177,Caulonia,Piazza Stoppani,IT
+178,Dusino San Michele,Stretto Fabrizio,IT
+179,Magre' Di Schio,Vicolo Annamaria,IT
+180,Cavriago,Canale Grifeo,IT
+181,Retegno,Incrocio Adelasia,IT
+182,Rupecanina,Borgo Vittorio,IT
+183,Polizzello,Canale Palladio,IT
+184,Pontedecimo,Incrocio Cristina,IT
+185,Cingoli,Piazza Eva,IT
+186,Dogana,Piazza Nugnes,IT
+187,Montemurro,Piazza Sandro,IT
+188,Stadolina,Viale Francesco,IT
+189,Pian Degli Ontani,Rotonda Battelli,IT
+190,Caraverio,Stretto Pirandello,IT
+191,Valla',Via Panfilo,IT
+192,Zattaglia,Borgo Necci,IT
+193,Valletanaro,Stretto Carocci,IT
+194,Doccio,Stretto Borrani,IT
+195,Pradleves,Borgo Abate,IT
+196,Albignano,Contrada Morlacchi,IT
+197,Castiadas,Piazza Giacobbe,IT
+198,Prignano Cilento,Viale Antonina,IT
+199,Roccaspromonte,Viale Carla,IT
+200,Villaretto,Viale Maria,IT
+201,Bovalino Marina,Viale Guido,IT
+202,Ruzzano,Contrada Fusani,IT
+203,Candela,Viale Branciforte,IT
+204,Volpeglino,Rotonda Anita,IT
+205,In Via Santa Maria Di Gesu',Strada Zaira,IT
+206,Levanzo,Contrada Antonino,IT
+207,Arba,Incrocio Montecchi,IT
+208,Umbertide,Piazza Alessandro,IT
+209,Fiumetto,Rotonda Bianchini,IT
+210,Santa Maria Nuova,Canale Annetta,IT
+211,Bascape',Stretto Massimiliano,IT
+212,Nova Milanese,Incrocio Donna,IT
+213,Jamiano,Strada Barberini,IT
+214,Sardigliano,Contrada Orlando,IT
+215,Malvicino,Contrada Murialdo,IT
+216,Fratte Rosa,Rotonda Ermenegildo,IT
+217,Entreves,Canale Emma,IT
+218,Palestrina,Contrada Luigi,IT
+219,Arta Terme,Strada Ludovico,IT
+220,Pella,Vicolo Scalfaro,IT
+221,Bomporto,Canale Pizziol,IT
+222,Micigliano,Piazza Deledda,IT
+223,Cavatore,Stretto Arnaldo,IT
+224,San Quirico Valleriana,Canale Stefani,IT
+225,Cerano D'Intelvi,Rotonda Lazzaro,IT
+226,Orentano,Contrada Oscuro,IT
+227,Transacqua,Stretto Carla,IT
+228,Albina,Rotonda Antonini,IT
+229,Casola In Lunigiana,Strada Caboto,IT
+230,Castelgrande,Vicolo Raurica,IT
+231,San Fior Di Sopra,Strada Fantoni,IT
+232,Itala Marina,Rotonda Jacopo,IT
+233,Cussorgia,Via Ferraris,IT
+234,Gaiba,Piazza Altera,IT
+235,Racchiuso,Vicolo Adelmo,IT
+236,Piano Di Sorrento,Rotonda Luigina,IT
+237,Berzano Di Tortona,Stretto Carriera,IT
+238,Curtaniello,Strada Mascheroni,IT
+239,Ceresane,Vicolo Adelmo,IT
+240,San Filippo Inferiore,Viale Guglielmo,IT
+241,Lauzacco,Viale Petralli,IT
+242,Sant'Ippolito,Canale Liberto,IT
+243,Sant'Angelo Lodigiano,Vicolo Bianca,IT
+244,Molinella,Via Salandra,IT
+245,Copersito,Strada Umberto,IT
+246,Quistello,Piazza Germana,IT
+247,Tauriano,Canale Susanna,IT
+248,Feltre,Borgo Bellucci,IT
+249,Sant'Alfio,Contrada Leone,IT
+250,Oricola,Via Mercedes,IT
+251,Stienta,Vicolo Manolesso,IT
+252,Scarperia E San Piero,Contrada Riccati,IT
+253,San Mauro Torinese,Borgo Lidia,IT
+254,Monte San Pietro,Strada Francesco,IT
+255,Maltignano Di Cascia,Canale Federici,IT
+256,Fundres,Vicolo Beffa,IT
+257,Isola Di Bene Vagienna,Rotonda Nonis,IT
+258,Mergnano San Savino,Piazza Ruggero,IT
+259,Pagliara Dei Marsi,Contrada Casalodi,IT
+260,Caltavuturo,Piazza Alessio,IT
+261,Castellania,Vicolo Castiglione,IT
+262,Villafranca In Lunigiana,Canale Renzo,IT
+263,Terracina,Canale Papetti,IT
+264,Ghizzano,Incrocio Gastone,IT
+265,Monteviale,Canale Viola,IT
+266,Montan,Vicolo Iacovelli,IT
+267,Saturnia,Incrocio Navarria,IT
+268,Begosso,Via Rosina,IT
+269,Cardile,Viale Alessio,IT
+270,Schluderns,Vicolo Modiano,IT
+271,Pizzoletta,Stretto Amleto,IT
+272,Azzano Decimo,Canale Toselli,IT
+273,Monte Ortobene,Vicolo Necci,IT
+274,Bandita,Strada Stefania,IT
+275,Regina Margherita,Stretto Porzio,IT
+276,Roccavignale,Canale Savorgnan,IT
+277,Gaione,Vicolo Endrizzi,IT
+278,Molini Di Tures,Canale Lorenzo,IT
+279,Ferruzzano,Contrada Pomponio,IT
+280,Brusaschetto,Canale Giulia,IT
+281,Rettorgole,Borgo Zito,IT
+282,Cefala' Diana,Via Piersanti,IT
+283,Monte Ortobene,Stretto Federigo,IT
+284,Torrio Sopra E Sotto E Casetta,Stretto Gozzi,IT
+285,Sambuci,Borgo Canetta,IT
+286,Torricella Del Pizzo,Piazza Ronaldo,IT
+287,Percoto,Viale Ceschi,IT
+288,Sovana,Contrada Carlo,IT
+289,Felino,Via Marina,IT
+290,San Pelino,Incrocio Giampiero,IT
+291,Santo Stefano Roero,Strada Pinamonte,IT
+292,Sicili',Rotonda Cassandra,IT
+293,Barbarasco,Stretto Rocca,IT
+294,Coazze,Piazza Abba,IT
+295,Casalgrasso,Incrocio Aloisio,IT
+296,Bagnolo Mella,Stretto Liverotti,IT
+297,Santa Maria Codifiume,Via Melissa,IT
+298,Menaggio,Strada Ermanno,IT
+299,Castellaro,Via Susanna,IT
+300,Barumini,Borgo Enzo,IT
+301,Faggeto Lario,Rotonda Maria,IT
+302,Careri,Borgo Moccia,IT
+303,Villanders,Piazza Torricelli,IT
+304,Cargedolo,Stretto Costanzo,IT
+305,Nave San Rocco,Borgo Marissa,IT
+306,Ponticello,Canale Morgagni,IT
+307,Novilara,Rotonda Romana,IT
+308,Rivoli Veronese,Contrada Sole,IT
+309,Montagne,Contrada Dandolo,IT
+310,Roncola,Rotonda Nordio,IT
+311,Querciola,Vicolo Blasi,IT
+312,Ponte In Valtellina,Viale Angelo,IT
+313,Carrone,Via Fiorenzo,IT
+314,Mezzojuso,Piazza Ortese,IT
+315,Erula,Strada Ottone,IT
+316,Taureana,Via Francesco,IT
+317,Tre Fontane,Strada Elena,IT
+318,Rosa',Vicolo Tozzi,IT
+319,Gatteo,Via Maura,IT
+320,Riesi,Vicolo Girolamo,IT
+321,Lurago D'Erba,Piazza Ceschi,IT
+322,Curon Venosta,Borgo Milena,IT
+323,Lasnigo,Vicolo Anguissola,IT
+324,San Giuliano Del Sannio,Strada Verga,IT
+325,Mologno,Vicolo Arsenio,IT
+326,Brugnato,Rotonda Infantino,IT
+327,Dermulo,Rotonda Gozzano,IT
+328,Pieris,Stretto Nibali,IT
+329,Scalo Di Baragiano,Contrada Giampiero,IT
+330,Pizzale,Canale Vidoni,IT
+331,Aquileia,Stretto Malatesta,IT
+332,Genazzano,Piazza Dallara,IT
+333,Isola Del Gran Sasso D'Italia,Strada Bova,IT
+334,Villa San Nicola,Canale Raffaello,IT
+335,Moschiano,Strada Margherita,IT
+336,Avigliano Scalo,Stretto Brambilla,IT
+337,Incoronata Di Vasto,Stretto Filangieri,IT
+338,Elmas,Strada Romana,IT
+339,Briga Alta,Contrada Panfilo,IT
+340,Casanova Lerrone,Viale Liguori,IT
+341,Barazzetto,Stretto Lucrezia,IT
+342,Poggiofiorito,Rotonda Castiglione,IT
+343,Pannaconi,Borgo Vergerio,IT
+344,Torchione,Strada Bosurgi,IT
+345,Castione Dei Marchesi,Contrada Paola,IT
+346,Ponte Nova,Contrada Capuana,IT
+347,Siusi,Stretto Leonetti,IT
+348,Gazoldo Degli Ippoliti,Contrada Vercelloni,IT
+349,Miggiano,Canale Rubbia,IT
+350,Brunico,Via Ludovica,IT
+351,Galliate Lombardo,Via Niscoromni,IT
+352,Lu Bagnu,Via Rodolfo,IT
+353,Sant'Arpino,Piazza Jovinelli,IT
+354,Castelsilano,Viale Finzi,IT
+355,Montemartano,Strada Gianvecchio,IT
+356,San Martino In Freddana,Viale Sandra,IT
+357,Glair,Canale Zacchia,IT
+358,Bivio Cava Manara,Via Palumbo,IT
+359,Planaval,Borgo Dellucci,IT
+360,Sant'Angelo All'Esca,Contrada Curatoli,IT
+361,Zinasco Nuovo,Vicolo Sonnino,IT
+362,Lazzeretto,Piazza Luciani,IT
+363,Pannarano,Strada Storladi,IT
+364,Campegine,Viale Mennea,IT
+365,Schilpario,Incrocio Annamaria,IT
+366,Piazzano,Strada Franceschi,IT
+367,Schindilifa',Canale Patrizio,IT
+368,San Martino In Rio,Stretto Antonello,IT
+369,Cavallino Treporti,Incrocio Marenzio,IT
+370,Samo,Stretto Vivaldi,IT
+371,Grancona,Incrocio Luciano,IT
+372,Cornegliano Laudense,Viale Giulia,IT
+373,Tutino,Piazza Avogadro,IT
+374,Augusta,Viale Tonia,IT
+375,Cervinara,Viale Gianpietro,IT
+376,Macine,Viale Prodi,IT
+377,Cadiroggio,Incrocio Patrizio,IT
+378,Pregiato,Borgo Tarantini,IT
+379,Lascari Scalo,Rotonda Rosaria,IT
+380,Cannistra',Canale Flavia,IT
+381,Miglierina,Viale Inzaghi,IT
+382,Monzone,Borgo Sokolov,IT
+383,Madonna Di Campiglio,Incrocio Ciani,IT
+384,Bibione,Borgo Tatiana,IT
+385,Murello,Borgo Corrado,IT
+386,Cesenatico,Borgo Fioravanti,IT
+387,Cave Di San Felice,Rotonda Ignazio,IT
+388,Bolognola,Strada Gioachino,IT
+389,Croviana,Via Leopoldo,IT
+390,Candiana,Strada Carmelo,IT
+391,Givoletto,Via Giradello,IT
+392,Canetra Di Castel Sant'Angelo,Stretto Vespucci,IT
+393,Valle Ponticelli,Viale Scarponi,IT
+394,Penne,Contrada Stefani,IT
+395,Monasterace,Incrocio Columbo,IT
+396,Brandizzo,Borgo Ariosto,IT
+397,Agrate Conturbia,Strada Fermi,IT
+398,Castelbello,Piazza Elvira,IT
+399,Rifredi,Contrada Bernardi,IT
+400,Ginosa,Piazza Elisa,IT
+401,Forenza,Vicolo Gottardi,IT
+402,Simeri,Stretto Morellato,IT
+403,San Mariano,Borgo Mercedes,IT
+404,Tagliata,Stretto Bettin,IT
+405,Villar Focchiardo,Canale Tonino,IT
+406,Luni,Incrocio Alfio,IT
+407,Villanova De Bellis,Via Nicolini,IT
+408,Santa Maddalena,Rotonda Andreozzi,IT
+409,Cerasomma,Incrocio Riccardo,IT
+410,Romito Magra,Borgo Franco,IT
+411,Gaggio,Stretto Gianluca,IT
+412,Soldano,Borgo Ubaldo,IT
+413,Saltaus,Strada Balotelli,IT
+414,Casumaro,Piazza Ciro,IT
+415,Laatsch,Vicolo Elena,IT
+416,Faraone Nuovo,Rotonda Gino,IT
+417,Lungavilla,Borgo Cutrufo,IT
+418,Loceri,Stretto Cignaroli,IT
+419,Roseto Capo Spulico Stazione,Canale Antonia,IT
+420,San Lorenzo Maggiore,Strada Toscanini,IT
+421,Ca' Della Terra,Vicolo Palombi,IT
+422,Castel Fusano,Strada Adinolfi,IT
+423,Mazzoleni,Borgo Cagnotto,IT
+424,San Leonardo Di Linarolo,Rotonda Serlupi,IT
+425,Roghudi,Borgo Ernesto,IT
+426,Sparone,Contrada Geraci,IT
+427,L'Alzoni,Strada Romeo,IT
+428,Mamone,Borgo Michele,IT
+429,Fonderia Di Lovere,Canale Maspero,IT
+430,Orbassano,Incrocio Angelo,IT
+431,Basati,Strada Fiorenzo,IT
+432,San Martino Montecorvino Rovella,Contrada Broschi,IT
+433,Gavinana,Stretto Prati,IT
+434,Sperlonga,Via Lombroso,IT
+435,Oberi,Strada Raimondo,IT
+436,Latera,Rotonda Anita,IT
+437,Lauropoli,Via Marco,IT
+438,Crosara,Incrocio Gabriella,IT
+439,Zuccarello,Via Sansoni,IT
+440,San Calogero,Piazza Letizia,IT
+441,Barengo,Contrada Rossetti,IT
+442,San Tommaso Tre Archi,Canale Jovinelli,IT
+443,San Lorenzo Di Pizzoli,Canale Ficino,IT
+444,Eggen,Rotonda Villadicani,IT
+445,Gorgo,Viale Lolita,IT
+446,Bonnanaro,Strada Corcos,IT
+447,Imponzo,Vicolo Donini,IT
+448,Turritecava,Borgo Santorio,IT
+449,Spello,Rotonda Rembrandt,IT
+450,Naz Sciaves,Incrocio Cianciolo,IT
+451,Postal,Rotonda Gastone,IT
+452,Piano Maglio,Vicolo Bongiorno,IT
+453,Villaggio Annunziata,Contrada Babbo,IT
+454,Varengo,Incrocio Vigliotti,IT
+455,Salerano Sul Lambro,Vicolo Zacco,IT
+456,Canossa,Canale Liverotti,IT
+457,Coarezza,Rotonda Fittipaldi,IT
+458,Tavernelle Vicentina,Vicolo Borromeo,IT
+459,Gratteria,Vicolo Geronimo,IT
+460,Cuneo,Incrocio Verdi,IT
+461,Tavernola,Piazza Quasimodo,IT
+462,Messignadi,Borgo Damiano,IT
+463,Cuffiano,Borgo Gussoni,IT
+464,Santa Domenica Ricadi,Stretto Sibilia,IT
+465,Case San Martino,Viale Fausto,IT
+466,Santa Luce,Stretto Alessandra,IT
+467,Crosia,Contrada Gionata,IT
+468,Montesilvano,Borgo Disdero,IT
+469,Carditello,Vicolo Paolini,IT
+470,Vaiano,Canale Stefano,IT
+471,Villa Agnedo,Incrocio Antonacci,IT
+472,Santa Maria Infante,Canale Raimondo,IT
+473,Corbezzi,Canale Gianni,IT
+474,Cinzano,Contrada Perozzo,IT
+475,Callabiana,Stretto Comeriato,IT
+476,Acquaviva,Vicolo Pisano,IT
+477,Mezzeno,Stretto Olga,IT
+478,Portico Di Caserta,Incrocio Nicolò,IT
+479,Nusenna,Borgo Dolores,IT
+480,Bombile,Viale Tagliafierro,IT
+481,Gottasecca,Via Teresa,IT
+482,Cologno,Vicolo Costantino,IT
+483,Vagli Sopra,Vicolo Pastine,IT
+484,Isola Di Ortonovo,Contrada Gianna,IT
+485,Melano Bastia,Strada Gargallo,IT
+486,Olginate,Strada Napolitano,IT
+487,Santuario Di Savona,Vicolo Monte,IT
+488,Zagarolo,Vicolo Ludovico,IT
+489,Marnate,Incrocio Crespi,IT
+490,Verres,Piazza Disdero,IT
+491,Crispiano,Viale Mattia,IT
+492,Serso,Vicolo Raffaele,IT
+493,Cavanella Po,Stretto Fattori,IT
+494,Lanze',Vicolo Dolores,IT
+495,Candidoni,Contrada Zoppetto,IT
+496,Madonna Dell'Arco,Canale Giunti,IT
+497,Rocchetta,Rotonda Cheda,IT
+498,Garrufo Di Campli,Stretto Massimo,IT
+499,Maletto,Canale Gastone,IT
+500,Ponteceno,Strada Victoria,IT
+501,Fossalta Di Portogruaro,Canale Antonia,IT
+502,Fiscaglia,Vicolo Faggiani,IT
+503,Comiso,Strada Paride,IT
+504,Besnate,Borgo Eugenia,IT
+505,Tricalle,Incrocio Venturi,IT
+506,Villaggio Santa Barbara,Contrada Piacentini,IT
+507,Vigarano Mainarda,Viale Abbagnale,IT
+508,Monrupino,Vicolo Pergolesi,IT
+509,Passetto,Borgo Bongiorno,IT
+510,Sirtori,Piazza Fabia,IT
+511,San Giovanni Del Dosso,Rotonda Einaudi,IT
+512,Santa Margherita Ligure,Via Sylvia,IT
+513,Cassano Delle Murge,Stretto Barcaccia,IT
+514,Albinia,Canale Iacovelli,IT
+515,Völs am Schlern,Via Luchino,IT
+516,Montegonzi,Contrada Mozart,IT
+517,Trenno,Strada Ludovica,IT
+518,Lanze',Stretto Gianpaolo,IT
+519,Colli Sul Velino,Stretto Giacinto,IT
+520,San Quirico D'Orcia,Rotonda Babbo,IT
+521,Barcon,Strada Borghese,IT
+522,Assago,Contrada Argentero,IT
+523,Valditacca,Strada Concetta,IT
+524,Pianche,Contrada Prada,IT
+525,Vittuone,Contrada Luchino,IT
+526,Bellocchi,Borgo Totino,IT
+527,Vallesaccarda,Piazza Achille,IT
+528,Torregrotta,Vicolo Simeoni,IT
+529,Campotosto,Incrocio Ludovisi,IT
+530,Angoli,Borgo Finzi,IT
+531,Capolago,Strada Mengolo,IT
+532,Locate Varesino,Vicolo Dallapé,IT
+533,Carpenedolo,Stretto Sergius,IT
+534,Buseto Palizzolo,Incrocio Patrizia,IT
+535,Stazione Di Campiglia Marittima,Stretto Clelia,IT
+536,San Colombano Di Meldola,Stretto Baresi,IT
+537,San Defendente,Via Lidia,IT
+538,Garessio Borgo Ponte,Contrada Federico,IT
+539,Decimomannu,Strada Giulietti,IT
+540,Longa,Stretto Rosalia,IT
+541,Spezzano Albanese Terme,Rotonda Verdone,IT
+542,St. Walburg/Ulten,Incrocio Bignardi,IT
+543,Molinello,Canale Manunta,IT
+544,Pianello Vallesina,Piazza Beccheria,IT
+545,Acquarica Di Lecce,Via Falcone,IT
+546,Lucernate,Via Pasqual,IT
+547,Caleipo,Contrada Orlando,IT
+548,Campodolcino,Vicolo Togliatti,IT
+549,Bosisio Parini,Borgo Brambilla,IT
+550,Stipes,Canale Chiara,IT
+551,Cinte Tesino,Piazza Aldo,IT
+552,Tavagnasco,Incrocio Gianna,IT
+553,Caines,Piazza Antonello,IT
+554,Colonna Stazione,Contrada Gianluigi,IT
+555,Viciomaggio,Strada Mazzeo,IT
+556,Fauglia,Strada Napoleone,IT
+557,Oldenico,Stretto Greca,IT
+558,Dardago,Borgo Serlupi,IT
+559,Alia,Rotonda Bernetti,IT
+560,San Giovanni Paganica,Stretto Benedetti,IT
+561,Pufels,Strada Broschi,IT
+562,Lido Conchiglie,Vicolo Amanda,IT
+563,Sonnino Scalo,Contrada Desio,IT
+564,Atzwang,Stretto Gioffre,IT
+565,Celso,Piazza Duodo,IT
+566,Arzergrande,Borgo Calarco,IT
+567,Godia,Strada Anguillara,IT
+568,Piraino,Incrocio Vittoria,IT
+569,Roggiano Gravina,Strada Cerutti,IT
+570,Comuneglia,Piazza Malatesta,IT
+571,Pezzana,Incrocio Telemaco,IT
+572,Capovilla,Borgo Piccio,IT
+573,Bari Sardo,Stretto Roberta,IT
+574,Sassuolo,Via Rembrandt,IT
+575,Monfalcone,Piazza Meucci,IT
+576,San Giuliano Del Sannio,Stretto Canali,IT
+577,Bargone,Rotonda Alfio,IT
+578,Magazzini,Canale Ennio,IT
+579,Pezzo Di Villa San Giovanni,Rotonda Cappelli,IT
+580,Collesalvetti,Borgo Cheda,IT
+581,San Bartolo,Viale Gilardoni,IT
+582,Portici,Stretto Amadeo,IT
+583,Pozzo Della Chiana,Contrada Cappelli,IT
+584,Popoli,Incrocio Trevisan,IT
+585,Colleponi Di Genga,Vicolo Maurilio,IT
+586,Givoletto,Piazza Piermaria,IT
+587,Montedinove,Via Curci,IT
+588,Sanguinetto,Strada Morosini,IT
+589,San Terenziano,Rotonda Maura,IT
+590,Tavigliano,Strada Binaghi,IT
+591,Cesana Torinese,Piazza Pistoletto,IT
+592,Castion,Rotonda Cadorna,IT
+593,Menarola,Incrocio Baccio,IT
+594,Carbognano,Incrocio Gualtieri,IT
+595,Porchiano,Canale Sergius,IT
+596,San Giovanni,Piazza Morena,IT
+597,Umin,Vicolo Milena,IT
+598,Altarello,Stretto Ida,IT
+599,Baratte,Rotonda Micheletti,IT
+600,Ortona Dei Marsi,Via Trezzini,IT
+601,San Basilio Di Novara Di Sicilia,Rotonda Casarin,IT
+602,Siligo,Strada Anita,IT
+603,Portalbera,Contrada Amalia,IT
+604,Gusciola,Contrada Chindamo,IT
+605,Castel Di Lama Stazione,Incrocio Virgilio,IT
+606,Vetralla,Canale Benussi,IT
+607,Alife,Canale Biagi,IT
+608,Galatone,Piazza Raffaellino,IT
+609,Roveleto Landi,Stretto Papafava,IT
+610,Santa Domenica Talao,Borgo Iolanda,IT
+611,Verocai,Contrada Guido,IT
+612,Camino Al Tagliamento,Stretto Argenti,IT
+613,Castel D'Emilio,Via Marrone,IT
+614,San Biagio Di Callalta,Vicolo Amanda,IT
+615,Montorgiali,Incrocio Paola,IT
+616,Riva Trigoso,Stretto Amanda,IT
+617,Villanova Solaro,Strada Alfieri,IT
+618,Castiglione Di Ravenna,Incrocio Iannotti,IT
+619,San Damaso,Strada Acerbi,IT
+620,Valle Canzano,Stretto Ponti,IT
+621,Casarile,Via Stella,IT
+622,Casole D'Elsa,Canale Carmelo,IT
+623,Capranica Prenestina,Vicolo Fabio,IT
+624,Castiglione Di Sicilia,Strada Milena,IT
+625,Prato Capanne,Canale Giacometti,IT
+626,Retorbido,Via Geronimo,IT
+627,Monzoro,Strada Cerutti,IT
+628,Dosolo,Strada Gloria,IT
+629,Monteleone Rocca Doria,Incrocio Romiti,IT
+630,Sibari,Borgo Delfino,IT
+631,Marcellano,Canale Corrado,IT
+632,Unterplanken,Borgo Iannelli,IT
+633,Calizzano,Borgo Paulina,IT
+634,Calanna,Stretto Eugenia,IT
+635,Roccasecca Dei Volsci,Strada Milena,IT
+636,Grantola,Stretto Comencini,IT
+637,Grimacco,Strada Fanucci,IT
+638,Ognio,Borgo Foà,IT
+639,Val Rezzo,Borgo Gianni,IT
+640,Moo,Vicolo Fagotto,IT
+641,Pessola,Incrocio Tina,IT
+642,Valbruna,Via Einaudi,IT
+643,Pressano,Incrocio Vincentio,IT
+644,Felizzano,Borgo Amato,IT
+645,Giuncano Scalo,Viale Cirillo,IT
+646,Palazzo,Viale Atenulf,IT
+647,Gambugliano,Canale Nadi,IT
+648,Valfurva,Stretto Lazzaro,IT
+649,Sanzeno,Canale Grisoni,IT
+650,Trescine,Stretto Tiziano,IT
+651,Castel Del Bosco,Piazza Marini,IT
+652,Zogno,Strada Giuseppina,IT
+653,Castelletto Merli,Via Bonaventura,IT
+654,St. Christina/S. Crestina -Gherdeina,Contrada Giorgio,IT
+655,Ello,Strada Gianmarco,IT
+656,Lanciano,Strada Romina,IT
+657,Monterosso Almo,Via Olga,IT
+658,Busto Arsizio,Borgo Greca,IT
+659,Ciampino Aeroporto,Viale Agnesi,IT
+660,Orsano E Cammoro,Incrocio Antonella,IT
+661,Malvicino,Contrada Ignazio,IT
+662,Ricco' Nel Frignano,Via Gianmarco,IT
+663,Pavona Stazione,Viale Vanessa,IT
+664,Cisano Bergamasco,Piazza Parri,IT
+665,Donori',Rotonda Govoni,IT
+666,Magazzini,Strada Cuzzocrea,IT
+667,Visnadello,Vicolo Susanna,IT
+668,Avelengo,Rotonda Salvatore,IT
+669,Bruca,Piazza Baggio,IT
+670,Vicomero,Stretto Giovanni,IT
+671,Prata Di Pordenone,Canale Toso,IT
+672,Vittuone,Incrocio Padovano,IT
+673,Civitella D'Agliano,Stretto Benussi,IT
+674,Bornasco,Vicolo Giampaolo,IT
+675,Francavilla Di Sicilia,Via Bonaventura,IT
+676,Pacengo,Vicolo Manuel,IT
+677,Rutino,Piazza Crisafulli,IT
+678,Arcene,Borgo Gilardoni,IT
+679,Trivigliano,Piazza Guinizzelli,IT
+680,Sannazzaro De' Burgondi,Vicolo Corrado,IT
+681,Cervere,Contrada Livio,IT
+682,Setzu,Viale Annunziata,IT
+683,Castelluccio Di Moscheda,Borgo Respighi,IT
+684,Loro Ciuffenna,Rotonda Mazzacurati,IT
+685,Gremiasco,Viale Pininfarina,IT
+686,Sant'Agabio,Contrada Fredo,IT
+687,Olmo Di Martellago,Contrada Zanazzo,IT
+688,Valdobbiadene,Strada Danilo,IT
+689,Blessagno,Viale Salvi,IT
+690,Susa,Rotonda Cabibbo,IT
+691,Ronzo,Canale Liana,IT
+692,Camerano Casasco,Contrada Tuzzolino,IT
+693,Nasidi,Strada Nina,IT
+694,Piazzano,Viale Ruggieri,IT
+695,Porto Valtravaglia,Viale Serafina,IT
+696,Bonisiolo,Via Tremonti,IT
+697,Pergine Valdarno,Rotonda Bettoni,IT
+698,Sasso Morelli,Strada Marta,IT
+699,Bagnoli Irpino,Piazza Colletti,IT
+700,Serle,Via Carfagna,IT
+701,Santa Margherita Ligure,Rotonda Camilla,IT
+702,Santuario Tinella,Piazza Giampaolo,IT
+703,Vicofertile,Via Carlo,IT
+704,San Fortunato,Canale Brunelleschi,IT
+705,Pozzallo,Rotonda Temistocle,IT
+706,Nuragheddu,Incrocio Alderano,IT
+707,Pavona,Rotonda Cainero,IT
+708,Bindua,Viale Folliero,IT
+709,Bagni Di Lucca,Vicolo Viola,IT
+710,Volongo,Stretto Guglielmi,IT
+711,Bindo,Piazza Ricciotti,IT
+712,Gosi,Viale Laura,IT
+713,Capriate San Gervasio,Incrocio Alberto,IT
+714,Scaldasole,Borgo Marta,IT
+715,Lavaiano,Borgo Ruggiero,IT
+716,Gorno,Stretto Pietro,IT
+717,Porto Salvo,Contrada Alessio,IT
+718,Magreglio,Stretto Renzi,IT
+719,Villa Bozza,Borgo Traetta,IT
+720,Villa Campanile,Via Luchino,IT
+721,Prati,Incrocio Massimiliano,IT
+722,Colelli,Borgo Loredana,IT
+723,Gornate Olona,Strada Amanda,IT
+724,Settime,Borgo Federigo,IT
+725,Villata,Incrocio Michelotto,IT
+726,Godiasco,Viale Alderano,IT
+727,St.Nikolau,Via Biagio,IT
+728,Pieve A Elici,Viale Lombardi,IT
+729,Botticino Mattina,Via Etta,IT
+730,Stefanaconi,Stretto Morena,IT
+731,Rossino,Contrada Vento,IT
+732,Fadalto,Viale Mirco,IT
+733,Poggio Torriana,Stretto Siffredi,IT
+734,Lama Pezzoli,Strada Orazio,IT
+735,Barzana,Viale Pasolini,IT
+736,Nichelino,Borgo Calcedonio,IT
+737,Cantavenna,Viale Maderno,IT
+738,Capitello,Borgo Beppe,IT
+739,Casal Palocco,Strada Ippazio,IT
+740,Sant'Agata Di Militello,Via Beccaria,IT
+741,Omignano Scalo,Rotonda Golgi,IT
+742,Moniego,Canale Renzo,IT
+743,Abbateggio,Viale Vivaldi,IT
+744,Abbazia,Stretto Marissa,IT
+745,Mesola,Strada Raimondo,IT
+746,Prova,Rotonda Guarana,IT
+747,Pracchia,Viale Germano,IT
+748,Quercioli,Canale Amico,IT
+749,Montedoro,Borgo Iacovelli,IT
+750,Bertalia,Viale Palombi,IT
+751,Sciara,Stretto Travaglia,IT
+752,Scardovari,Piazza Fusani,IT
+753,Moasca,Incrocio Fagiani,IT
+754,Gasponi,Piazza Beffa,IT
+755,Cengles,Rotonda Platini,IT
+756,Tabiago,Viale Boiardo,IT
+757,Strozza,Vicolo Coluccio,IT
+758,Crevalcore,Strada Cibin,IT
+759,Tramin,Canale Vigliotti,IT
+760,Travagliato,Via Greco,IT
+761,Zagarise,Piazza Luigina,IT
+762,Illorai,Strada Fortunata,IT
+763,Sacco,Strada Sylvia,IT
+764,Osteria Grande,Canale Sauli,IT
+765,Monterosso Al Mare,Canale Badoer,IT
+766,Gonars,Piazza Claudia,IT
+767,Lungomare,Via Martucci,IT
+768,Casalguidi,Contrada Gianinazzi,IT
+769,Sicili',Strada Ovadia,IT
+770,Ponte Nossa,Rotonda Monica,IT
+771,Carisio,Canale Ludovica,IT
+772,Castelletto Stura,Canale Orlando,IT
+773,Sala Al Barro,Piazza Giuliana,IT
+774,Lercara Friddi,Contrada Piacentini,IT
+775,Gambugliano,Stretto Ortese,IT
+776,Peschici,Rotonda Michelangelo,IT
+777,Milea,Strada Guarato,IT
+778,Brozzo,Incrocio Tiziano,IT
+779,Carugo,Strada Ughi,IT
+780,Ponte A Giogoli,Incrocio Carducci,IT
+781,Serradarce,Borgo Massimo,IT
+782,Corsano,Borgo Paolo,IT
+783,Villa Campanile,Vicolo Soderini,IT
+784,Cellena,Viale Filippa,IT
+785,Piandimeleto,Piazza Bettin,IT
+786,Ponte Lambro,Contrada Fogazzaro,IT
+787,Lido Di Camaiore,Canale Necci,IT
+788,Cerreto Castello,Rotonda Accardo,IT
+789,Zucche,Strada Luchino,IT
+790,Forchia Di Cervino,Vicolo Buscetta,IT
+791,Ponte Di Castegnero,Contrada Aulenti,IT
+792,Visnadello,Strada Desio,IT
+793,Ripalvella,Viale Filippo,IT
+794,Castellar Ponzano,Strada Randazzo,IT
+795,Altavilla Vicentina,Incrocio Michela,IT
+796,Usigliano,Borgo Bragadin,IT
+797,Collelungo Sabino,Stretto Staglieno,IT
+798,Borutta,Rotonda Vincenza,IT
+799,Villerose,Via Arnaldo,IT
+800,Frassineto Po,Rotonda Laureano,IT
+801,Viarolo,Vicolo Ronaldo,IT
+802,Costarainera,Vicolo Frescobaldi,IT
+803,Nasino,Vicolo Leonardo,IT
+804,San Leonardo Valcellina,Contrada Salieri,IT
+805,Campospinoso,Borgo Bertoni,IT
+806,Cortenuova,Vicolo Magrassi,IT
+807,Santa Rufina,Borgo Luciani,IT
+808,Eremo,Canale Aulenti,IT
+809,San Floriano,Incrocio Rosario,IT
+810,Borgo Revel,Piazza Martino,IT
+811,Promano,Strada Martinelli,IT
+812,Vajont,Contrada Tiziana,IT
+813,Fagnano Olona,Viale Costanzo,IT
+814,Prosecco,Contrada Serraglio,IT
+815,Ceglie Del Campo,Contrada Fallaci,IT
+816,Priocca,Rotonda Rita,IT
+817,Pievebovigliana,Rotonda Salvo,IT
+818,Santuario Di Polsi,Via Cossiga,IT
+819,Borutta,Contrada Raurica,IT
+820,Levada,Incrocio Liverotti,IT
+821,Filago,Stretto Donati,IT
+822,Ceglie Messapica,Canale Gian,IT
+823,Itala,Stretto Zanzi,IT
+824,Mappano,Vicolo Barbarigo,IT
+825,Banzano Di Montoro Superiore,Viale Canetta,IT
+826,Sammichele Di Bari,Contrada Ostinelli,IT
+827,Vigo Rendena,Via Sabatini,IT
+828,Velate Milanese,Incrocio Alberico,IT
+829,Donigala Fenughedu,Stretto Ioppi,IT
+830,Agrano,Viale Calgari,IT
+831,Anticoli Corrado,Vicolo Renier,IT
+832,Cercino,Stretto Folliero,IT
+833,Crespino Del Lamone,Vicolo Pizziol,IT
+834,Poggio Moiano,Strada Roberta,IT
+835,Costrignano,Piazza Antonio,IT
+836,Zennari,Incrocio Tacchini,IT
+837,Tretto,Strada Viridiana,IT
+838,Pastenelle,Piazza Roman,IT
+839,Ripalta Nuova,Contrada Montalcini,IT
+840,Villa Saletta,Incrocio Bruno,IT
+841,Volongo,Strada Lolita,IT
+842,Casole Bruzio,Piazza Garibaldi,IT
+843,Tresnuraghes,Strada Ovadia,IT
+844,Falciano Del Massico,Vicolo Carmelo,IT
+845,Castello Di Cavallino,Stretto Canil,IT
+846,Serravalle Di Chienti,Vicolo Ronaldo,IT
+847,Cerreto Castello,Vicolo Chiesa,IT
+848,Rovereto Sulla Secchia,Viale Sermonti,IT
+849,Civita,Piazza Vigliotti,IT
+850,Fossacesia,Strada Endrizzi,IT
+851,Vaprio D'Adda,Strada Raurica,IT
+852,Valle Lomellina,Vicolo Venturi,IT
+853,Allerona,Canale Adriano,IT
+854,Forme,Via Diana,IT
+855,Marano Principato,Rotonda Rita,IT
+856,Tschars,Vicolo Trussardi,IT
+857,Marano Principato,Canale Lolita,IT
+858,Montemagno Di Quarrata,Contrada Antonello,IT
+859,Marocchi,Rotonda Gentili,IT
+860,Puccianiello,Incrocio Iadanza,IT
+861,Longone Al Segrino,Canale Chiara,IT
+862,Liscia,Stretto Cardano,IT
+863,Mosileo,Contrada Baldassare,IT
+864,Pietraviva,Vicolo Vezzali,IT
+865,Campalto,Canale Irma,IT
+866,Marnate,Via Mancini,IT
+867,San Martino Canavese,Contrada Donarelli,IT
+868,Chiesa In Valmalenco,Borgo Napoleone,IT
+869,Pedace,Strada Giulietta,IT
+870,Linate,Incrocio Domenico,IT
+871,Atina Inferiore,Via Bersani,IT
+872,Drenchia,Piazza Nino,IT
+873,Viserba,Stretto Alessandra,IT
+874,San Fior Di Sotto,Borgo Fanucci,IT
+875,Champdepraz,Strada Toni,IT
+876,Colonna Stazione,Stretto Galeati,IT
+877,Riffian,Contrada Tartaglia,IT
+878,Trecroci,Vicolo Cristoforetti,IT
+879,Olmo Al Brembo,Borgo Aloisio,IT
+880,Buscemi,Rotonda Giorgio,IT
+881,Monteriggioni,Strada Diana,IT
+882,Santa Maria La Longa,Strada Arnulfo,IT
+883,Carzano,Canale Dina,IT
+884,Bragioli,Rotonda Vezzali,IT
+885,San Fortunato,Via Gianna,IT
+886,Alicudi,Vicolo Ceravolo,IT
+887,Cormons,Rotonda Moresi,IT
+888,Fisciano,Canale Garrone,IT
+889,Celle Enomondo,Strada Umberto,IT
+890,Casciano,Strada Solimena,IT
+891,Spino D'Adda,Vicolo Fedele,IT
+892,Campoli Di Caulonia,Stretto Gelli,IT
+893,Marina Di Camerota,Contrada Pagliaro,IT
+894,Ramon Campagna,Borgo Collodi,IT
+895,Case Perrone,Contrada Stefania,IT
+896,Lentini,Stretto Teresa,IT
+897,Scarro,Piazza Pennetta,IT
+898,Savignano Di Rigo,Borgo Ruggero,IT
+899,Borgo Primo,Rotonda Nico,IT
+900,Villafranca Piemonte,Rotonda Nino,IT
+901,Poscante,Stretto Spinola,IT
+902,Villa Basilica,Stretto Ivan,IT
+903,Ingria,Piazza Adriano,IT
+904,Alberone Di Guarda,Stretto Sophia,IT
+905,Altagnana,Piazza Stradivari,IT
+906,Santa Margherita Di Belice,Strada Carolina,IT
+907,Roseto Capo Spulico,Incrocio Federica,IT
+908,Ollolai,Contrada Lamberto,IT
+909,Vintebbio,Contrada Armando,IT
+910,Tavarnelle Val Di Pesa,Contrada Arnulfo,IT
+911,Pontetto,Canale Flaiano,IT
+912,Petina,Vicolo Gremese,IT
+913,San Giovanni In Marignano,Vicolo Annalisa,IT
+914,Caronia,Viale Gasperi,IT
+915,Roldo,Stretto Arnulfo,IT
+916,Saludecio,Stretto Valier,IT
+917,Massa E Cozzile,Borgo Torricelli,IT
+918,Colmata,Borgo Buonauro,IT
+919,Baraggia,Viale Eco,IT
+920,Cervia Milano Marittima,Stretto Giannuzzi,IT
+921,Molini Di Tures,Viale Virgilio,IT
+922,Carpenedo,Vicolo Boiardo,IT
+923,Piano Di Frassineta,Via Mezzetta,IT
+924,Regnano,Via Antonina,IT
+925,Tarcento,Strada Ronaldo,IT
+926,Cernusco Sul Naviglio,Viale Anguillara,IT
+927,Boccadifalco,Piazza Pugliese,IT
+928,Montelongo,Borgo Pausini,IT
+929,Povegliano Veronese,Via Marcantonio,IT
+930,Gracciano Di Colle Val D'Elsa,Rotonda Ferrari,IT
+931,Fiumaretta Di Ameglia,Contrada Leoncavallo,IT
+932,Sauris,Via Maria,IT
+933,Pastenelle,Stretto Piersanti,IT
+934,Sant'Anna Di Seminara,Borgo Amalia,IT
+935,Lemma,Stretto Chiara,IT
+936,Mezzocorona,Vicolo Cecilia,IT
+937,Prasco,Borgo Donato,IT
+938,Settecrociari,Incrocio Viridiana,IT
+939,Gromo,Stretto Marrone,IT
+940,Pontone,Viale Guarino,IT
+941,Elmas,Incrocio Luzi,IT
+942,Settimo Vittone,Incrocio Correr,IT
+943,Salmour,Incrocio Alina,IT
+944,Leccio,Vicolo Mastroianni,IT
+945,Oneglia,Borgo Angelica,IT
+946,Corbolone,Stretto Sabatino,IT
+947,Cortaccia Sulla Strada Del Vino,Canale Renzo,IT
+948,Sarconi,Contrada Panzera,IT
+949,Bordolano,Rotonda Zarlino,IT
+950,Lonca,Strada Adelmo,IT
+951,Mombaroccio,Viale Desio,IT
+952,Pamparato,Via Elmo,IT
+953,Ailano,Via Ansaldo,IT
+954,San Pellegrino Di Gualdo Tadino,Strada Emanuelli,IT
+955,Correzzo,Strada Mariana,IT
+956,Valiano,Stretto Dario,IT
+957,Baldissero Canavese,Rotonda Sbarbaro,IT
+958,Finale Emilia,Strada Stefania,IT
+959,Pruno Di Stilves,Strada Raffaellino,IT
+960,Civitella Del Tronto,Incrocio Sabatino,IT
+961,Pizzoni,Incrocio Detti,IT
+962,San Bartolomeo Lanze,Vicolo Verdi,IT
+963,Vietri Di Potenza,Viale Baldassare,IT
+964,Mombasiglio,Viale Marinetti,IT
+965,Ialmicco,Piazza Massimo,IT
+966,Montevaccino,Rotonda Tron,IT
+967,San Fidenzio,Viale Massimo,IT
+968,Chiusa Ferranda,Strada Iannuzzi,IT
+969,Conflenti Inferiore,Piazza Trobbiani,IT
+970,Campodazzo,Rotonda Adele,IT
+971,Puglianello,Incrocio Seddio,IT
+972,Cenadi,Contrada Luigina,IT
+973,Capri,Vicolo Amato,IT
+974,Scritto,Borgo Daniele,IT
+975,Calosso,Contrada Erika,IT
+976,Geo,Piazza Mercantini,IT
+977,Calco,Incrocio Casini,IT
+978,Fiorano Al Serio,Incrocio Panzera,IT
+979,Villa Minozzo,Incrocio Romano,IT
+980,Piratello,Rotonda Bixio,IT
+981,Gavena,Incrocio Germana,IT
+982,Ligonchio,Canale Babbo,IT
+983,Paroldo,Borgo Simone,IT
+984,Piazzola Sul Brenta,Viale Parri,IT
+985,Sivizzano,Strada Aloisio,IT
+986,Santa Maria Degli Ammalati,Piazza Botta,IT
+987,Asinara Cala D'Oliva,Piazza Marco,IT
+988,Corsano,Canale Marenzio,IT
+989,Basovizza,Piazza Rossana,IT
+990,St. Michael/Eppan,Rotonda Giovanni,IT
+991,Corniolo,Borgo Maderno,IT
+992,Calolziocorte,Viale Tullio,IT
+993,Montealbano,Contrada Leopoldo,IT
+994,Fara In Sabina,Rotonda Melania,IT
+995,Fontanigorda,Strada Gemma,IT
+996,Pompeiana,Incrocio Mattia,IT
+997,Santo Spirito,Canale Torquato,IT
+998,Grotti,Via Benedetti,IT
+999,Viggianello,Canale Sorrentino,IT
+1000,Filorsi,Piazza Costantino,IT
+1001,Salice D'Ulzio,Viale Cheda,IT
+1002,Nespoli,Viale Traetta,IT
+1003,Civitaquana,Canale Cuzzocrea,IT
+1004,Leognano,Strada Bramante,IT
+1005,Niccioleta,Viale Raffaello,IT
+1006,Carpaneto Piacentino,Via Ippazio,IT
+1007,Camoneone,Viale Pietro,IT
+1008,Matelica,Stretto Cavanna,IT
+1009,Gratteria,Incrocio Antonia,IT
+1010,Ciano Del Montello,Piazza Grossi,IT
+1011,Gries,Strada Onisto,IT
+1012,Martano,Piazza Cianciolo,IT
+1013,Banchette,Via Paruta,IT
+1014,Lambrate,Piazza Gabba,IT
+1015,Talamona,Contrada Greca,IT
+1016,Roseto Capo Spulico,Piazza Antonietta,IT
+1017,Guardabosone,Strada Cesaroni,IT
+1018,Arnad,Contrada Vecellio,IT
+1019,Borgo Panigale,Piazza Stella,IT
+1020,Borgo Salsasio,Contrada Gussoni,IT
+1021,Sant'Ambrogio Di Valpolicella,Via Amico,IT
+1022,Pasturago,Stretto Fabrizio,IT
+1023,Locate Varesino,Borgo Gioachino,IT
+1024,Rovegliana,Viale Susanna,IT
+1025,Omate,Strada Rocco,IT
+1026,Montegranaro,Incrocio Camillo,IT
+1027,Salice D'Ulzio,Contrada Antelami,IT
+1028,Unterinn,Incrocio Rismondo,IT
+1029,Cotignola,Piazza Antonia,IT
+1030,Borghetto Di Tuoro,Canale Palmisano,IT
+1031,Brusaporto,Canale Piacentini,IT
+1032,Castel Trosino,Borgo Gianmarco,IT
+1033,Albiate,Vicolo Antonino,IT
+1034,Figlioli,Canale Trebbi,IT
+1035,Torre Maina,Contrada Santoro,IT
+1036,Montemassi,Borgo Damiano,IT
+1037,Sardara,Piazza Mancini,IT
+1038,Fiesco,Rotonda Guarino,IT
+1039,Castel Di Tusa,Strada Marina,IT
+1040,Pietrapaola,Vicolo Bersani,IT
+1041,Iavre' Vigo Rendena,Rotonda Rossana,IT
+1042,San Vito Di Leguzzano,Strada Annunziata,IT
+1043,San Gusme',Via Raffaello,IT
+1044,Winnebach,Piazza Roberta,IT
+1045,Lessolo,Borgo Torlonia,IT
+1046,Lisiera,Rotonda Vidoni,IT
+1047,Sanguinetto,Vicolo Santino,IT
+1048,Codiverno,Stretto Adelmo,IT
+1049,Riva',Incrocio Adriana,IT
+1050,Veruno,Vicolo Sanudo,IT
+1051,Berruiles,Piazza Guglielmo,IT
+1052,Villaseta,Strada Lanfranchi,IT
+1053,Podargoni,Via Angelina,IT
+1054,Tramariglio,Borgo Martino,IT
+1055,Piandifieno,Via Lucrezia,IT
+1056,Castel Di Croce,Borgo Maria,IT
+1057,Tarvisio,Incrocio Sabatino,IT
+1058,Capistrano,Contrada Adamo,IT
+1059,Arta Terme,Viale Lopresti,IT
+1060,Teolo,Vicolo Mercedes,IT
+1061,Zocco,Contrada Bottaro,IT
+1062,Carrosio,Strada Annetta,IT
+1063,Alte Di Montecchio Maggiore,Vicolo Montanelli,IT
+1064,Roascio,Incrocio Calogero,IT
+1065,Pedica,Contrada Malaparte,IT
+1066,Pau,Incrocio Galasso,IT
+1067,Iesolo,Borgo Ninetta,IT
+1068,Incisa In Val D'Arno,Vicolo Gemma,IT
+1069,Cesi,Piazza Agostino,IT
+1070,Mercatale Di Cortona,Rotonda Sabatino,IT
+1071,Nievole,Piazza Tiepolo,IT
+1072,Le Ferriere,Contrada Pagliaro,IT
+1073,Campo Canavese,Vicolo Ioppi,IT
+1074,Luserna,Via Soranzo,IT
+1075,Ailoche,Via Mimun,IT
+1076,Sarno,Stretto Gullotta,IT
+1077,Trinita',Contrada Alessio,IT
+1078,Cicala,Viale Dallara,IT
+1079,Sarconi,Strada Ernesto,IT
+1080,Salza Di Pinerolo,Strada Gentilini,IT
+1081,Savorgnano Del Torre,Strada Raurica,IT
+1082,Oberrasen,Via Monduzzi,IT
+1083,Marina Di Altidona,Piazza Foa,IT
+1084,Briga Novarese,Vicolo Antonacci,IT
+1085,Codogno,Canale Oliboni,IT
+1086,Scandolara Ravara,Via Natalia,IT
+1087,Merici,Contrada Nico,IT
+1088,Puglietta,Viale Nanni,IT
+1089,Cadelbosco Di Sotto,Piazza Beatrice,IT
+1090,Ascoli Satriano,Via Mirko,IT
+1091,Moos,Contrada Abate,IT
+1092,Casanova Lerrone,Via Vanessa,IT
+1093,Gravellona Toce,Strada Draghi,IT
+1094,Monzoro,Strada Favata,IT
+1095,Forno Allione,Incrocio Ornella,IT
+1096,Cerveno,Canale Nico,IT
+1097,Vignale Riotorto,Incrocio Antonioni,IT
+1098,Breien,Vicolo Giancarlo,IT
+1099,Colognola Ai Colli,Viale Brichese,IT
+1100,Castello Roganzuolo,Canale Ivan,IT
+1101,Genga Stazione,Canale Maggioli,IT
+1102,Piedimonte Matese,Via Pellegrino,IT
+1103,Imponzo,Contrada Palazzo,IT
+1104,Rima San Giuseppe,Canale Gioacchino,IT
+1105,Lutago,Strada Bernini,IT
+1106,Aragona,Piazza Cesare,IT
+1107,Piano Maglio,Incrocio Mattia,IT
+1108,Dunarobba,Viale Comisso,IT
+1109,Saone,Rotonda Barillaro,IT
+1110,Belsito,Rotonda Pina,IT
+1111,Vaccolino,Viale Borromeo,IT
+1112,Cerquotti Madonna Del Piano,Via Agostino,IT
+1113,Stella Di Monsampolo,Canale Finzi,IT
+1114,San Bernardo,Borgo Mercati,IT
+1115,Piedimonte Di Sessa Aurunca,Incrocio Binaghi,IT
+1116,Albavilla,Via Annibale,IT
+1117,Vito D'Asio,Rotonda Adriana,IT
+1118,Salitto,Strada Beffa,IT
+1119,Nave San Felice,Stretto Marangoni,IT
+1120,Bogogno,Vicolo Brenna,IT
+1121,Piedelpoggio,Piazza Adamo,IT
+1122,Santa Maria Della Neve,Contrada Livia,IT
+1123,Anzi,Viale Raffaellino,IT
+1124,Pozzuolo,Borgo Lucrezia,IT
+1125,Procchio,Stretto Pasquale,IT
+1126,Villa Santa Maria,Incrocio Giada,IT
+1127,Zinola,Incrocio Paoletti,IT
+1128,Capolago,Borgo Alphons,IT
+1129,Cuorgne',Canale Bettina,IT
+1130,Civitella In Val Di Chiana,Rotonda Luigi,IT
+1131,Balocco,Contrada Alessandro,IT
+1132,Camerota,Canale Paolo,IT
+1133,Pie' Casavecchia,Stretto Vespa,IT
+1134,Vandoies,Rotonda Ariosto,IT
+1135,Lotta,Piazza Pacelli,IT
+1136,Calavino,Via Mondaini,IT
+1137,Mendatica,Borgo Tarantino,IT
+1138,Perdonig,Vicolo Galasso,IT
+1139,Massa Lubrense,Rotonda Guido,IT
+1140,Cassina Valsassina,Incrocio Torquato,IT
+1141,Noasca,Piazza Pierina,IT
+1142,Saint Vincent,Stretto Ugolino,IT
+1143,Passarella,Stretto Cristina,IT
+1144,Cuzzago,Vicolo Adelmo,IT
+1145,Carde',Strada Beccheria,IT
+1146,San Giovanni Di Zambrone,Incrocio Antonina,IT
+1147,Calimera,Incrocio Borroni,IT
+1148,Picinisco,Vicolo Costanzo,IT
+1149,Lazzaro,Incrocio Elisa,IT
+1150,Torrecuso,Canale Calogero,IT
+1151,Marina Di Guardavalle,Piazza Amico,IT
+1152,Pontecagnano,Via Priscilla,IT
+1153,Bracigliano,Strada Ziani,IT
+1154,Cannole,Borgo Opizzi,IT
+1155,San Casciano,Incrocio Rolando,IT
+1156,St. Gertraud,Contrada Riccardo,IT
+1157,Abbateggio,Stretto Dario,IT
+1158,Villareia,Rotonda Gioele,IT
+1159,Morano Sul Po,Borgo Stefani,IT
+1160,Nesso,Canale Pavone,IT
+1161,Bottanuco,Contrada Desio,IT
+1162,Vidigulfo,Canale Gaetano,IT
+1163,Casanova Di Destra,Contrada Brichese,IT
+1164,Talamona,Borgo Camicione,IT
+1165,Mombaruzzo,Incrocio Alessandro,IT
+1166,Palermo,Viale Annibale,IT
+1167,Stradella,Borgo Legnante,IT
+1168,Trequanda,Piazza Parmitano,IT
+1169,Ogliastro Cilento,Contrada Ermes,IT
+1170,Casore Del Monte,Strada Patrizio,IT
+1171,Baselga Di Pine',Incrocio Marta,IT
+1172,Leporano,Contrada Molesini,IT
+1173,Saint Nicolas,Rotonda Bartoli,IT
+1174,Macherio,Via Costantino,IT
+1175,Pernate,Canale Gianfrancesco,IT
+1176,Follo,Incrocio Luxardo,IT
+1177,Ca' De Caroli,Via Vincenzo,IT
+1178,San Donato Milanese,Via Palladio,IT
+1179,Vasio,Borgo Modigliani,IT
+1180,Pianacce,Rotonda Squarcione,IT
+1181,Martell,Rotonda Pierluigi,IT
+1182,Casalnoceto,Strada Palumbo,IT
+1183,Regina,Canale Agnesi,IT
+1184,Sarnonico,Vicolo Ugo,IT
+1185,Aragno,Via Vento,IT
+1186,Atella,Vicolo Petrassi,IT
+1187,Tempio Pausania,Stretto Riccardi,IT
+1188,Palmori,Viale Maderno,IT
+1189,Calto,Piazza Trentin,IT
+1190,Seneghe,Piazza Sandro,IT
+1191,Dermulo,Piazza Scarfoglio,IT
+1192,Caserta,Strada Virgilio,IT
+1193,Grassano,Contrada Turchi,IT
+1194,Bagno Roselle,Strada Moccia,IT
+1195,Contarina,Viale Galeati,IT
+1196,Cornegliano Laudense,Incrocio Grasso,IT
+1197,Rodio,Rotonda Toni,IT
+1198,Tezze,Rotonda Monicelli,IT
+1199,Montopoli,Strada Giacinto,IT
+1200,Codogne',Canale Letizia,IT
+1201,Massicelle,Viale Alderano,IT
+1202,Capo Di Ponte,Via Zoppetti,IT
+1203,Sormano,Canale Trussardi,IT
+1204,Piuma,Piazza Gianfranco,IT
+1205,Monfumo,Piazza Ubaldo,IT
+1206,Fiumalbo,Via Fabrizio,IT
+1207,Perinaldo,Rotonda Binaghi,IT
+1208,Paterno',Piazza Lina,IT
+1209,San Giacomo Roncole,Strada Mauro,IT
+1210,Santa Maria Della Neve,Rotonda Panfilo,IT
+1211,Rebeccu,Strada Vincenza,IT
+1212,Lucca Sicula,Vicolo Gianluca,IT
+1213,Fonderia Di Lovere,Viale Bixio,IT
+1214,Lido Di Ostia Ponente,Borgo Rosa,IT
+1215,Soprabolzano,Incrocio Petrucci,IT
+1216,Torza,Borgo Gabriele,IT
+1217,Pellegrino,Borgo Donarelli,IT
+1218,Terraglione,Borgo Michele,IT
+1219,Treggiaia,Borgo Daria,IT
+1220,Guidonia Montecelio,Canale Camanni,IT
+1221,Paiane,Incrocio Sandro,IT
+1222,Castrovillari,Strada Alessandra,IT
+1223,Caletta Di Castiglioncello,Canale Aurora,IT
+1224,Cruillas,Via Ortolani,IT
+1225,Cavora',Vicolo Brunelleschi,IT
+1226,Brecciarola,Piazza Desio,IT
+1227,San Vitale Di Baganza,Piazza Clelia,IT
+1228,Pontericcioli,Rotonda Ruggiero,IT
+1229,Caramanico Terme,Borgo Riccardo,IT
+1230,Collelungo,Piazza Bartolomeo,IT
+1231,Aglie',Viale Greca,IT
+1232,Soccorso,Incrocio Acerbi,IT
+1233,Mondolfo,Borgo Modugno,IT
+1234,Redondesco,Via Adriana,IT
+1235,Cogorno,Rotonda Fibonacci,IT
+1236,Breguzzo,Rotonda Sinisi,IT
+1237,Prun,Borgo Alina,IT
+1238,Barbarano,Incrocio Giovine,IT
+1239,Casale Di Pari,Piazza Ubaldo,IT
+1240,Treschietto,Piazza Stefano,IT
+1241,Niederolang,Rotonda Piccinni,IT
+1242,Ripatransone,Strada Emma,IT
+1243,Lovadina,Borgo Bova,IT
+1244,Cupello,Strada Calogero,IT
+1245,Padulle,Strada Fabia,IT
+1246,Serricella,Via Tartaglia,IT
+1247,San Lorenzo Pioppa,Incrocio Marsili,IT
+1248,Cassina Nuova,Contrada Mercedes,IT
+1249,Castino,Contrada Zabarella,IT
+1250,Rosciano,Stretto Pirelli,IT
+1251,Torre Canavese,Strada Agazzi,IT
+1252,Campofilone,Canale Pier,IT
+1253,Curiglia Con Monteviasco,Viale Galiazzo,IT
+1254,Praiano,Canale Versace,IT
+1255,Castellammare Di Stabia,Vicolo Solimena,IT
+1256,Canale D'Agordo,Borgo Valeria,IT
+1257,Morano Sul Po,Piazza Gaggini,IT
+1258,Leva',Piazza Zanichelli,IT
+1259,Fiumicino,Strada Silvio,IT
+1260,Meleto,Strada Casagrande,IT
+1261,Castelspina,Borgo Pellegrini,IT
+1262,Gavazzo Nuova,Stretto Milena,IT
+1263,Abbazia Pisani,Borgo Bompiani,IT
+1264,Giovi D'Arezzo,Piazza Pavone,IT
+1265,Corese Terra,Rotonda Lucia,IT
+1266,Poianella,Borgo Sergius,IT
+1267,Zisa,Canale Calcedonio,IT
+1268,Baveno,Canale Francesco,IT
+1269,Baia,Strada Costantino,IT
+1270,Arpaise,Borgo Bombieri,IT
+1271,San Giuliano,Viale Lussu,IT
+1272,Megliadino San Vitale,Via Milanesi,IT
+1273,Lustra,Rotonda Carlo,IT
+1274,Tottea,Contrada Tiziana,IT
+1275,Feriolo,Viale Pinamonte,IT
+1276,Santo Marino,Piazza Argenti,IT
+1277,Padru,Canale Armellini,IT
+1278,Bagni Di Contursi,Viale Botticelli,IT
+1279,One',Contrada Gozzi,IT
+1280,Villa D'Agri,Canale Morellato,IT
+1281,Pineta Di Arenzano,Piazza Boldù,IT
+1282,Göflan,Stretto Gianinazzi,IT
+1283,Polizzello,Contrada Alessia,IT
+1284,Porcari,Viale Opizzi,IT
+1285,Cuneo,Vicolo Amanda,IT
+1286,Zancona,Strada Eugenia,IT
+1287,Madonna Di Pugliano,Stretto Pirandello,IT
+1288,Pantano,Rotonda Bellini,IT
+1289,Morca,Stretto Morgagni,IT
+1290,Torre Cerchiar,Piazza Trillini,IT
+1291,Borselli,Contrada Castelli,IT
+1292,Riola,Via Collina,IT
+1293,Casino Pica,Canale Galilei,IT
+1294,Ponte Di Savignone,Viale Trezzini,IT
+1295,Albaredo Arnaboldi,Borgo Baccio,IT
+1296,Morsasco,Borgo Ezio,IT
+1297,Zambrone,Via Mozart,IT
+1298,Termine Di Cadore,Contrada Viridiana,IT
+1299,Calimera,Rotonda Luca,IT
+1300,Fiorenzuola Di Focara,Via Gionata,IT
+1301,Canosio,Vicolo Elena,IT
+1302,Temu',Vicolo Elladio,IT
+1303,Vallarga,Borgo Veronica,IT
+1304,Bisuschio,Incrocio Eugenia,IT
+1305,Sant'Agata Irpina,Via Mozart,IT
+1306,Soci,Contrada Olivetti,IT
+1307,Cavargna,Incrocio Baldassare,IT
+1308,Specchio,Contrada Malpighi,IT
+1309,Belveglio,Borgo Antonio,IT
+1310,Parlasco,Viale Ugo,IT
+1311,Carifi,Vicolo Micheletto,IT
+1312,Mira,Strada Bettoni,IT
+1313,Quadroni,Canale Lombroso,IT
+1314,Sant'Arpino,Rotonda Boccioni,IT
+1315,Stella Cilento,Borgo Parri,IT
+1316,Calice Al Cornoviglio,Vicolo Guglielmi,IT
+1317,Villa San Martino,Canale Carmelo,IT
+1318,Caldiero,Piazza Laureano,IT
+1319,Ospizio,Piazza Gaggini,IT
+1320,Villar Sampeyre,Via Puccini,IT
+1321,Ala' Dei Sardi,Borgo Luciana,IT
+1322,Borgaretto,Borgo Ortolani,IT
+1323,Pizzolungo,Rotonda Anita,IT
+1324,Pannarano,Strada Giradello,IT
+1325,Muvruneddi,Incrocio Mauro,IT
+1326,Vicalvi,Via Malipiero,IT
+1327,Livinallongo Del Col Di Lana,Borgo Bonatti,IT
+1328,Palmas Arborea,Canale Saverio,IT
+1329,Orzivecchi,Incrocio Pisani,IT
+1330,Pellio,Piazza Sermonti,IT
+1331,Piaggia,Incrocio Brunelleschi,IT
+1332,Ussita,Contrada Boitani,IT
+1333,Periasc,Piazza Albertini,IT
+1334,Albisola Capo,Strada Delfino,IT
+1335,Morra De Sanctis,Vicolo Nadia,IT
+1336,Kurfar,Rotonda Marenzio,IT
+1337,Isoverde,Contrada Pedrazzini,IT
+1338,Cassola,Rotonda Fabrizia,IT
+1339,Pontinvrea,Vicolo Tropea,IT
+1340,Ceolini,Canale Catenazzi,IT
+1341,Igne,Canale Tencalla,IT
+1342,Spinetta Marengo,Stretto Ludovisi,IT
+1343,Monfumo,Borgo Bassi,IT
+1344,Locri,Incrocio Giulio,IT
+1345,Monterocchetta,Via Marcello,IT
+1346,Marcellano,Incrocio Antonella,IT
+1347,Vintebbio,Strada Filippelli,IT
+1348,Issiglio,Contrada Petrassi,IT
+1349,Montalbano Di Fasano,Incrocio Fedele,IT
+1350,Remedello,Vicolo Martino,IT
+1351,Farnetta,Viale Pigafetta,IT
+1352,Ferrito,Incrocio Malipiero,IT
+1353,Piaggione,Via Gonzaga,IT
+1354,Saline Ioniche,Borgo Livio,IT
+1355,San Casciano In Val Di Pesa,Rotonda Caironi,IT
+1356,Avilla,Viale Sanudo,IT
+1357,Morro D'Alba,Rotonda Simonetta,IT
+1358,Malnisio,Piazza Pizzo,IT
+1359,Fossalta Di Trebaseleghe,Viale Borrani,IT
+1360,Rigolizia,Stretto Caracciolo,IT
+1361,San Vito Lo Capo,Viale Pinamonte,IT
+1362,Unsere Liebe Frau Im Wald,Piazza Amanda,IT
+1363,Balossa Bigli,Borgo Seddio,IT
+1364,Albareto,Incrocio Gioffre,IT
+1365,Materdomini,Strada Scaduto,IT
+1366,Soiano Del Lago,Canale Canali,IT
+1367,Bagnaria,Borgo Tullio,IT
+1368,Poggio Picenze,Canale Canil,IT
+1369,Agrate Brianza,Strada Sagnelli,IT
+1370,Licignano Di Napoli,Rotonda Flora,IT
+1371,Camposano,Stretto Ruggero,IT
+1372,Villanova Di Guidonia,Rotonda Graziella,IT
+1373,San Giustino Valdarno,Contrada Lucrezia,IT
+1374,Predazzo,Viale Camillo,IT
+1375,Joannis,Rotonda Bianca,IT
+1376,Granozzo Con Monticello,Viale Nadia,IT
+1377,Viggiano,Contrada Adelasia,IT
+1378,Montelupone,Via Enzo,IT
+1379,Zangarona,Via Leopoldo,IT
+1380,Cavallina,Canale Dandolo,IT
+1381,Lona,Contrada Onio,IT
+1382,Ornago,Borgo Antonio,IT
+1383,Santa Maria Del Tempio,Contrada Giacomo,IT
+1384,Camerino,Viale Giuseppe,IT
+1385,Castelcivita,Rotonda Tonino,IT
+1386,Castagnole Delle Lanze,Strada Perini,IT
+1387,Porto,Piazza Gino,IT
+1388,Corato,Via Manacorda,IT
+1389,Nocera Inferiore,Via Nolcini,IT
+1390,Calcarelli,Via Gloria,IT
+1391,Valle Benedetta,Via Tiziana,IT
+1392,Longobucco,Rotonda Bruno,IT
+1393,San Rocco In Turrite,Viale Miniati,IT
+1394,Gaudiano,Via Zanazzo,IT
+1395,Campello Sul Clitunno,Piazza Claudio,IT
+1396,San Giorio,Canale Randazzo,IT
+1397,Rio Salso,Vicolo Raffaellino,IT
+1398,Collesecco,Piazza Peranda,IT
+1399,Clauiano,Borgo Curiel,IT
+1400,Cherasco,Via Vincenza,IT
+1401,San Giacomo D'Acri,Canale Eva,IT
+1402,Coreggia,Contrada Gentilini,IT
+1403,Mezzana,Canale Bramante,IT
+1404,San Zenone Degli Ezzelini,Viale Longhena,IT
+1405,Abbadia Alpina,Incrocio Luisa,IT
+1406,Germasino,Canale Gianmarco,IT
+1407,Bando,Contrada Laura,IT
+1408,San Mauro Pascoli,Stretto Luigi,IT
+1409,Olivarella,Stretto Spadafora,IT
+1410,Cizzago,Canale Pasqual,IT
+1411,Tellaro,Via Martino,IT
+1412,Zisa,Borgo Maura,IT
+1413,Robecco Pavese,Viale Adelasia,IT
+1414,Sagron Mis,Contrada Giuseppe,IT
+1415,Castiglion Fosco,Via Maura,IT
+1416,Montepagano,Contrada Scarponi,IT
+1417,Collecalcioni,Incrocio Vito,IT
+1418,San Lazzaro Parmense,Vicolo Alfio,IT
+1419,Mignanego,Vicolo Gemma,IT
+1420,Paludi,Strada Osvaldo,IT
+1421,Precenicco,Viale Lilla,IT
+1422,Castelplanio,Rotonda Amico,IT
+1423,Verza,Stretto Casarin,IT
+1424,Pontestura,Vicolo Adamo,IT
+1425,Ostiano,Vicolo Trapanese,IT
+1426,Cuglieri,Strada Augusto,IT
+1427,Prali,Viale Ludovisi,IT
+1428,Trappeto,Canale Telemaco,IT
+1429,Oppido Lucano,Canale Basso,IT
+1430,Nave San Felice,Stretto Romina,IT
+1431,Cotignola,Rotonda Giradello,IT
+1432,Fabbriche Di Vallico,Canale Bianca,IT
+1433,Torreglia,Incrocio Coppola,IT
+1434,Maenza,Canale Giovanna,IT
+1435,Crotta D'Adda,Vicolo Mennea,IT
+1436,Kolfuschg,Viale Fedele,IT
+1437,Borgo Verde,Borgo Mascheroni,IT
+1438,Donnici Superiore,Stretto Leone,IT
+1439,Sant'Imento,Strada Irma,IT
+1440,Serra Di Pratola Serra,Via Arsenio,IT
+1441,Cadipietra,Stretto Venancio,IT
+1442,Maddaloni,Contrada Piersanti,IT
+1443,Castelnuovo Berardenga,Viale Giuliano,IT
+1444,Campo Di Pietra,Incrocio Maura,IT
+1445,San Vito Al Torre,Contrada Tiziana,IT
+1446,San Giacomo D'Acri,Canale Barbarigo,IT
+1447,Ave Gratia Plena,Strada Simone,IT
+1448,Masiera,Vicolo Gianmarco,IT
+1449,Tavenna,Strada Nicoletta,IT
+1450,Tertenia,Viale Gianfrancesco,IT
+1451,Casto,Via Pomponio,IT
+1452,Molino Del Piano,Incrocio Geronimo,IT
+1453,Lucino,Contrada Nordio,IT
+1454,Anzano Di Puglia,Via Nicoletti,IT
+1455,Carrosio,Via Caffarelli,IT
+1456,Calea,Piazza Maurilio,IT
+1457,Tufo,Viale Ranieri,IT
+1458,Rotabile,Rotonda Zaccagnini,IT
+1459,Muro Leccese,Piazza Mario,IT
+1460,Riva Di Pinerolo,Piazza Pascarella,IT
+1461,Lillianes,Vicolo Traetta,IT
+1462,Bagni Di Comano,Vicolo Nedda,IT
+1463,Montalbano Di Fasano,Incrocio Morricone,IT
+1464,Sala Baganza,Borgo Agostino,IT
+1465,Prata Di Pordenone,Strada Nina,IT
+1466,Ghorio,Canale Battisti,IT
+1467,Loppiano,Rotonda Coriolano,IT
+1468,Sant'Anna Di Seminara,Contrada Pinamonte,IT
+1469,Polia,Incrocio Maria,IT
+1470,Pinasca,Vicolo Antonietta,IT
+1471,Quintano,Viale Martino,IT
+1472,Sprumaro,Rotonda Natalia,IT
+1473,Ferentino,Stretto Giuseppina,IT
+1474,Buccino,Incrocio Varano,IT
+1475,Montesicuro,Viale Mantegna,IT
+1476,Pievebelvicino,Piazza Galasso,IT
+1477,Piubega,Stretto Greco,IT
+1478,Nuoro,Borgo Federica,IT
+1479,Termine,Via Proietti,IT
+1480,San Maderno,Strada Clelia,IT
+1481,Scarlino,Strada Molesini,IT
+1482,Algund,Strada Ruggiero,IT
+1483,Monzoro,Incrocio Tognazzi,IT
+1484,Cesate,Incrocio Foconi,IT
+1485,Malva,Borgo Antonucci,IT
+1486,Moliterno,Viale Cremonesi,IT
+1487,Magherno,Vicolo Ugo,IT
+1488,Pelugo,Rotonda Angelina,IT
+1489,Soleminis,Incrocio Tozzi,IT
+1490,Siderno,Piazza Mercati,IT
+1491,Capraia,Stretto Elena,IT
+1492,Montefalcione,Incrocio Piergiuseppe,IT
+1493,Vergato,Via Marcantonio,IT
+1494,Spinazzola,Stretto Luigina,IT
+1495,Telese Terme,Contrada Pompeo,IT
+1496,Portacomaro Stazione,Via Morrocco,IT
+1497,Vallelunga,Viale Luigina,IT
+1498,Zafferia,Canale Ruggeri,IT
+1499,Ostia Antica,Borgo Tamburello,IT
+1500,Intragna,Vicolo Ettore,IT
+1501,Gagliano Di Mugello,Rotonda Tiepolo,IT
+1502,Quercegrossa,Stretto Donatello,IT
+1503,San Carlo Di Cesena,Vicolo Agnesi,IT
+1504,Pietracamela,Rotonda Morrocco,IT
+1505,Sella Di Corno,Contrada Ernesto,IT
+1506,Aiello Del Sabato,Strada Paride,IT
+1507,Volterra,Vicolo Cendron,IT
+1508,Gaione,Viale Dina,IT
+1509,Castellania,Viale Coluccio,IT
+1510,Sirmione,Rotonda Melania,IT
+1511,Lido Di Camaiore,Vicolo Giradello,IT
+1512,Villaggi,Vicolo Annetta,IT
+1513,Lu Colbu,Vicolo Rocco,IT
+1514,Campogalliano,Incrocio Marenzio,IT
+1515,Monterotondo Marittimo,Canale Bottaro,IT
+1516,Trodica,Contrada Luigina,IT
+1517,Terzolas,Contrada Livio,IT
+1518,San Bernardo Carmagnola,Vicolo Dante,IT
+1519,Romano D'Ezzelino,Contrada Gualtieri,IT
+1520,Serle,Stretto Caironi,IT
+1521,Novaledo,Piazza Stefani,IT
+1522,Zoppe',Borgo Guglielmo,IT
+1523,Zampine,Canale Liberto,IT
+1524,Ripi,Contrada Carlo,IT
+1525,Coldirodi,Borgo Moretti,IT
+1526,Stegen,Viale Melania,IT
+1527,Sant'Orsola,Stretto Matteotti,IT
+1528,Corigliano D'Otranto,Viale Cabibbo,IT
+1529,Santi Cosma E Damiano,Strada Cutuli,IT
+1530,Campagnola Cremasca,Borgo Teresa,IT
+1531,Sieti,Rotonda Calcedonio,IT
+1532,Campi Bisenzio,Viale Giustino,IT
+1533,Ripacorbaria,Via Bixio,IT
+1534,Pieve Di Sinalunga,Via Alessio,IT
+1535,Chiarano,Borgo Cusano,IT
+1536,Mirabello Di Pavia,Vicolo Villadicani,IT
+1537,Seggiano,Incrocio Ornella,IT
+1538,Ilbono,Canale Giacconi,IT
+1539,Melito Di Napoli,Viale Pierina,IT
+1540,Untervintl,Borgo Venancio,IT
+1541,Costa Sant'Abramo,Piazza Tropea,IT
+1542,Chies D'Alpago,Rotonda Opizzi,IT
+1543,Rocca San Zenone,Via Gozzi,IT
+1544,San Rufo,Borgo Valguarnera,IT
+1545,Moranego,Strada Elladio,IT
+1546,Bellinzago Lombardo,Via Giacometti,IT
+1547,Tavon,Rotonda Quasimodo,IT
+1548,Zelo Buon Persico,Via Pietro,IT
+1549,Castelferro,Piazza Rossi,IT
+1550,Torre Faro,Piazza Calogero,IT
+1551,Mezzana Mortigliengo,Contrada Barese,IT
+1552,Cisliano,Vicolo Bosurgi,IT
+1553,San Giuseppe Di Cairo,Viale Gaetano,IT
+1554,Sant'Angelo In Theodice,Via Giulio,IT
+1555,Garzigliana,Incrocio Tomaselli,IT
+1556,Olevano Sul Tusciano,Vicolo Tomasetti,IT
+1557,Vobarno,Contrada Liana,IT
+1558,Valmorea,Stretto Erika,IT
+1559,Casole D'Elsa,Strada Mattarella,IT
+1560,Ca' Vecchia,Vicolo Orsini,IT
+1561,Case Badioli,Via Montanariello,IT
+1562,San Martino Sinistra,Vicolo Costantino,IT
+1563,Cursi,Rotonda Dario,IT
+1564,Maida,Piazza Marissa,IT
+1565,San Nicolo' L'Arena,Strada Lovato,IT
+1566,Altidona,Viale Alderano,IT
+1567,Talatsch,Viale Barracco,IT
+1568,Coazze,Piazza Rubbia,IT
+1569,Merine,Canale Concetta,IT
+1570,Calvagese Della Riviera,Piazza Pastine,IT
+1571,Villastrada,Borgo Canetta,IT
+1572,San Pietro Di Feletto,Contrada Greco,IT
+1573,Piatto,Rotonda Rusticucci,IT
+1574,Lardaro,Stretto Silvestro,IT
+1575,Pflersch,Incrocio Giampaolo,IT
+1576,Reischach,Strada Cirillo,IT
+1577,Ales,Viale Morucci,IT
+1578,Sforzacosta,Rotonda Flora,IT
+1579,Camucia,Strada Telesio,IT
+1580,Scortichino,Piazza Delfino,IT
+1581,Gastei,Piazza Baldassare,IT
+1582,Carfizzi,Via Cilea,IT
+1583,Villadosia,Borgo Dario,IT
+1584,Taufers/Ahrntal,Viale Semitecolo,IT
+1585,Vigo Di Cadore,Canale Amanda,IT
+1586,Belloro,Stretto Lauretta,IT
+1587,Monti,Canale Giancarlo,IT
+1588,Varone,Strada Vincenza,IT
+1589,Consiglio Di Rumo,Viale Renata,IT
+1590,Madonna Dell'Olmo,Canale Nicola,IT
+1591,La Scala,Strada Monaco,IT
+1592,Cirella,Strada Bottigliero,IT
+1593,Laag,Contrada Carla,IT
+1594,Paciug,Via Massimo,IT
+1595,Villanova Di Guidonia,Strada Ansaldo,IT
+1596,Milea,Contrada Matteotti,IT
+1597,Fiammoi,Viale Carlo,IT
+1598,Ferrara,Via Fabrizia,IT
+1599,Prada,Stretto Iannuzzi,IT
+1600,Pietragalla,Rotonda Casarin,IT
+1601,Roccella Guarnaschelli,Canale Galilei,IT
+1602,Cavallino,Incrocio Comolli,IT
+1603,Macognano,Borgo Guidotti,IT
+1604,Marina Velca,Via Ivo,IT
+1605,Roccapipirozzi,Viale Piazzi,IT
+1606,Eggen,Via Morena,IT
+1607,Trieste,Strada Gonzaga,IT
+1608,Villastrada,Stretto Temistocle,IT
+1609,Sirone,Canale Mancini,IT
+1610,Portacomaro Stazione,Rotonda Adamo,IT
+1611,St. Peter in Ahrn,Canale Orlando,IT
+1612,Monteverdi Marittimo,Contrada Guarato,IT
+1613,Villa San Vincenzo,Incrocio Alessia,IT
+1614,Siris,Canale Giampaolo,IT
+1615,Beltiglio,Stretto Gaito,IT
+1616,Suio Terme,Strada Guidotti,IT
+1617,Cisterna D'Asti,Vicolo Leonardo,IT
+1618,Asigliano Veneto,Viale Anita,IT
+1619,Bitonto,Piazza Mario,IT
+1620,Massa Della Lucania,Strada Tacchini,IT
+1621,Sambiase,Stretto Renata,IT
+1622,Agnedo,Piazza Leopoldo,IT
+1623,Zucche,Via Pausini,IT
+1624,Boretto,Stretto Travia,IT
+1625,Castellino,Stretto Marco,IT
+1626,Latina Aeroporto,Incrocio Ivo,IT
+1627,Bresega,Borgo Benigni,IT
+1628,Castelnuovo Di San Pio Delle Camere,Vicolo Sanudo,IT
+1629,Ciserano,Strada Luchino,IT
+1630,San Marzano Oliveto,Viale Oscuro,IT
+1631,Santo Stefano Medio,Canale Murialdo,IT
+1632,Zuri,Incrocio Petrucelli,IT
+1633,Barbata,Rotonda Arnaldo,IT
+1634,Calmasino,Via Victoria,IT
+1635,Sas Murtas,Borgo Sole,IT
+1636,Baggiovara,Piazza Versace,IT
+1637,Bornasco,Contrada Pezzali,IT
+1638,San Giovanni In Persiceto,Contrada Cassandra,IT
+1639,Mogorella,Borgo Zichichi,IT
+1640,Trivento,Canale Michela,IT
+1641,In Via Ammiraglio Cristodulo,Stretto Ruggiero,IT
+1642,Trescore Balneario,Borgo Sansoni,IT
+1643,Novelle,Contrada Ceri,IT
+1644,Spineto Scrivia,Canale Beccheria,IT
+1645,Carre',Viale Mancini,IT
+1646,Coniolo,Via Gonzaga,IT
+1647,Casenuove,Vicolo Ritacca,IT
+1648,San Bellino,Vicolo Sorrentino,IT
+1649,San Mauro La Bruca,Borgo Melissa,IT
+1650,Pretoro,Contrada Amanda,IT
+1651,Castelsaraceno,Incrocio Donà,IT
+1652,Bruino,Canale Tonia,IT
+1653,Crichi,Strada Martino,IT
+1654,Stilfs,Strada Federici,IT
+1655,San Pietro In Calibano,Strada Vincenzo,IT
+1656,Rivalta Di Torino,Viale Raffaellino,IT
+1657,Canistro Inferiore,Strada Grassi,IT
+1658,Casina,Vicolo Gramsci,IT
+1659,Nalles,Via Giulietti,IT
+1660,San Giovanni Di Ceppaloni,Contrada Fittipaldi,IT
+1661,Castell'Alfero,Strada Zamengo,IT
+1662,Villo',Stretto Oreste,IT
+1663,Lonigo,Canale Emanuelli,IT
+1664,Villa Santa Maria,Incrocio Ippazio,IT
+1665,Cellino Attanasio,Piazza Montalcini,IT
+1666,Castelmartini,Canale Cecilia,IT
+1667,Pocenia,Via Morena,IT
+1668,Cave Di San Felice,Incrocio Dossetti,IT
+1669,Piane Crati,Strada Fausto,IT
+1670,Tottubella,Borgo Francesca,IT
+1671,Bottidda,Viale Dante,IT
+1672,Lavariano,Canale Tedesco,IT
+1673,Gracciano,Incrocio Briccialdi,IT
+1674,Cammarata,Piazza Littizzetto,IT
+1675,Cologne,Vicolo Marcantonio,IT
+1676,Caramagna Piemonte,Canale Viridiana,IT
+1677,Fervento,Canale Benito,IT
+1678,Beduzzo,Vicolo Giosuè,IT
+1679,Corvara,Rotonda Raimondo,IT
+1680,Monchiero,Borgo Alessio,IT
+1681,Teti,Viale Valeria,IT
+1682,Cartigliano,Incrocio Balbo,IT
+1683,Anghiari,Viale Cannizzaro,IT
+1684,Fontechiaruccia,Contrada Bramante,IT
+1685,Varapodio,Vicolo Soprano,IT
+1686,Vezzano Ligure,Strada Nicolucci,IT
+1687,Sant'Antonio,Viale Isabella,IT
+1688,Sperone Di Custonaci,Contrada Flora,IT
+1689,Bondo,Stretto Petruzzi,IT
+1690,Ambivere,Strada Chinnici,IT
+1691,Pfulters,Canale Sokolov,IT
+1692,Querceta,Strada Pastine,IT
+1693,Montepetra,Rotonda Coriolano,IT
+1694,Cuorgne',Canale Amadeo,IT
+1695,Trentinara,Vicolo Finetti,IT
+1696,Rocchetta Cairo,Vicolo Fo,IT
+1697,San Rocchetto,Viale Piane,IT
+1698,Torre Angela,Piazza Eraldo,IT
+1699,Villa Serraglio,Strada Daniele,IT
+1700,Pigneto,Contrada Stefania,IT
+1701,Lombriasco,Via Pina,IT
+1702,Castrocaro Terme E Terra Del Sole,Borgo Trupiano,IT
+1703,Sesto Fiorentino,Stretto Armando,IT
+1704,Borgoratto Alessandrino,Incrocio Trezzini,IT
+1705,Savignano Irpino,Via Lombardo,IT
+1706,Cicciano,Rotonda Rosmini,IT
+1707,Castel Di Lama Piattoni,Piazza Fernanda,IT
+1708,Montefiridolfi,Piazza Boccioni,IT
+1709,Cassano Spinola,Canale Maria,IT
+1710,Santa Severina,Vicolo Rolando,IT
+1711,Mirteto,Strada Vianello,IT
+1712,Gorga,Via Muratori,IT
+1713,San Giovanni Al Natisone,Strada Agazzi,IT
+1714,Sumirago,Strada Raffaello,IT
+1715,Civitanova Marche,Stretto Chigi,IT
+1716,Montebamboli,Viale Chittolini,IT
+1717,Vedeseta,Canale Elmo,IT
+1718,In Via Brancaccio,Borgo Zaccagnini,IT
+1719,Biassono,Incrocio Lucia,IT
+1720,San Lorenzo Maggiore,Piazza Gabriele,IT
+1721,Vahrn,Vicolo Lolita,IT
+1722,Luttach,Via Rusticucci,IT
+1723,Villadeati,Vicolo Armando,IT
+1724,Carinola,Contrada Ermanno,IT
+1725,Ville Di Corsano,Vicolo Ezio,IT
+1726,Barazzetto,Stretto Traetta,IT
+1727,Palosco,Piazza Nadia,IT
+1728,Casargo,Stretto Liana,IT
+1729,Caturano,Piazza Alessio,IT
+1730,Lodetto,Vicolo Roman,IT
+1731,Spadafora,Rotonda Licia,IT
+1732,La Grande,Incrocio Antonietta,IT
+1733,Passerano Marmorito,Contrada Tiziano,IT
+1734,Vigolo Vattaro,Strada Turati,IT
+1735,Redipuglia Sacrario,Stretto Mascheroni,IT
+1736,Pascarola,Rotonda Mazzocchi,IT
+1737,Praso,Contrada Scaduto,IT
+1738,Muzza Sant'Angelo,Via Ugo,IT
+1739,Rozzano,Canale Liana,IT
+1740,Piedipaterno Sul Nera,Vicolo Vincenzo,IT
+1741,Trespiano,Piazza Costantino,IT
+1742,San Giovanni La Punta,Stretto Valeria,IT
+1743,Pieve Santo Stefano,Incrocio Raffaellino,IT
+1744,Cinaglio,Via Tosi,IT
+1745,Roncitelli,Piazza Sophia,IT
+1746,Minerbio,Viale Greca,IT
+1747,Inverno,Canale Donini,IT
+1748,Visco,Borgo Riccardo,IT
+1749,Morro,Via Petruzzi,IT
+1750,Sciarborasca,Incrocio Dossi,IT
+1751,Gagliole,Strada Graziella,IT
+1752,Carenno,Rotonda Carlo,IT
+1753,Ponte D'Assi,Canale Forza,IT
+1754,Velina,Stretto Necci,IT
+1755,Marcellise,Piazza Schiavone,IT
+1756,Comuneglia,Piazza Pirandello,IT
+1757,Genoni,Strada Leone,IT
+1758,Cetraro,Stretto Gravina,IT
+1759,Cingia De' Botti,Canale Tartaglia,IT
+1760,Borgio,Incrocio Mercedes,IT
+1761,Andora,Strada Casale,IT
+1762,Fegino,Strada Federico,IT
+1763,Neviglie,Viale Modugno,IT
+1764,Varengo,Contrada Ernesto,IT
+1765,San Gottardo,Incrocio Tuzzolino,IT
+1766,Piandicastello,Piazza Bianca,IT
+1767,Pardesca,Contrada Zichichi,IT
+1768,Corte Franca,Vicolo Majewski,IT
+1769,Orero,Rotonda Tiziano,IT
+1770,Crocino San Giusto,Viale Allegra,IT
+1771,Monforte San Giorgio,Rotonda Cocci,IT
+1772,Perrillo,Contrada Gloria,IT
+1773,Varazze,Via Inzaghi,IT
+1774,Accorneri,Stretto Fiorenzo,IT
+1775,Castrezzato,Strada Iolanda,IT
+1776,Pianello Vallesina,Viale Monte,IT
+1777,Schio,Viale Caterina,IT
+1778,Lido Di Ostia Levante,Via Federica,IT
+1779,Melezzole,Via Cecilia,IT
+1780,Teana,Via Fiamma,IT
+1781,Beroide,Piazza Luciano,IT
+1782,Siris,Viale Pedrazzini,IT
+1783,Pozzale,Canale Cuomo,IT
+1784,Civitella In Val Di Chiana,Contrada Giosuè,IT
+1785,Kolfusch,Incrocio Raurica,IT
+1786,Sceti,Canale Galuppi,IT
+1787,San Desiderio,Via Traversa,IT
+1788,Bosco Chiesanuova,Canale Rossi,IT
+1789,Bema,Vicolo Ravaglioli,IT
+1790,Sant'Angelo A Lecore,Borgo Franscini,IT
+1791,San Paolo Cervo,Vicolo Severino,IT
+1792,Montevettolini,Borgo Rismondo,IT
+1793,Cargeghe,Borgo Serao,IT
+1794,Soresina,Strada Aldo,IT
+1795,Seghe,Via Nicoletti,IT
+1796,Casilli,Via Massimo,IT
+1797,Gallinaro,Via Evangelista,IT
+1798,Minervino Murge,Strada Michelotto,IT
+1799,Agnedo,Strada Angelina,IT
+1800,Pescopennataro,Canale Brancaccio,IT
+1801,Metaponto Lido,Via Uberto,IT
+1802,Tornano,Borgo Lidia,IT
+1803,Cortandone,Rotonda Giancarlo,IT
+1804,L'Aquila,Incrocio Ermanno,IT
+1805,Mels,Rotonda Irma,IT
+1806,Valgioie,Via Dina,IT
+1807,Credera,Rotonda Laureano,IT
+1808,Borgo Loreto,Piazza Ninetta,IT
+1809,Ponzo',Borgo Paganini,IT
+1810,Bozzano,Canale Cristina,IT
+1811,Piane Di Falerone,Stretto Pepe,IT
+1812,Cenadi,Borgo Vercelloni,IT
+1813,Triggiano,Viale Cesaroni,IT
+1814,Caprino,Vicolo Taccola,IT
+1815,San Pietro Belvedere,Piazza Ricciotti,IT
+1816,Supino,Via Bottigliero,IT
+1817,Atena Lucana,Contrada Cociarelli,IT
+1818,Orchi,Incrocio Amalia,IT
+1819,Torcino,Piazza Barcella,IT
+1820,Pioraco,Vicolo Vincenzo,IT
+1821,Velate Milanese,Incrocio Ossola,IT
+1822,Gaby,Stretto Molesini,IT
+1823,Ammonite,Rotonda Gianni,IT
+1824,Campli,Piazza Temistocle,IT
+1825,Castroregio,Borgo Moretti,IT
+1826,Donna,Via Caterina,IT
+1827,Verzuolo,Contrada Lidia,IT
+1828,Lizzano In Belvedere,Borgo Garozzo,IT
+1829,Vignole,Vicolo Dolores,IT
+1830,Esino Lario,Incrocio Flavia,IT
+1831,Vanze,Viale Paoletta,IT
+1832,Bettole Di Buffalora,Incrocio Baccio,IT
+1833,Badia Polesine,Strada Munari,IT
+1834,Notaresco Stazione,Stretto Vittoria,IT
+1835,San Sabino,Borgo Dina,IT
+1836,San Giovanni Lipioni,Vicolo Fiorucci,IT
+1837,Begosso,Borgo Camillo,IT
+1838,Cella Dati,Piazza Paolo,IT
+1839,Cardona,Contrada Binaghi,IT
+1840,Maccastorna,Incrocio Silvio,IT
+1841,Val Della Torre,Rotonda Camiscione,IT
+1842,Telve,Contrada Gaito,IT
+1843,Torre Di Paestum,Borgo Napolitano,IT
+1844,Piedimonte,Strada Barbarigo,IT
+1845,Ponte San Pietro,Piazza Lorenzo,IT
+1846,Villaggio Turistico Di Borca Di Cadore,Canale Gozzi,IT
+1847,Specchio,Rotonda Belletini,IT
+1848,Pole,Incrocio Puccio,IT
+1849,Monleone,Via Armani,IT
+1850,Stern,Strada Licia,IT
+1851,Preselle Sergardi,Viale Torlonia,IT
+1852,Frinco,Via Lucia,IT
+1853,Testana,Via Gianfrancesco,IT
+1854,Guardia Piemontese Terme,Strada Girolamo,IT
+1855,Faida,Canale Porcellato,IT
+1856,Marina Di Cerveteri,Incrocio Giacobbe,IT
+1857,Pascoso,Borgo Gottardi,IT
+1858,Novedrate,Viale Avogadro,IT
+1859,Cive',Canale Prada,IT
+1860,Bistrigna,Incrocio Orlando,IT
+1861,Roncegno,Stretto Amleto,IT
+1862,Uzzano,Vicolo Filogamo,IT
+1863,Selvotta,Incrocio Luciana,IT
+1864,Lasnigo,Rotonda Respighi,IT
+1865,Calavino,Viale Scalfaro,IT
+1866,Collinello,Canale Soprano,IT
+1867,Masano,Incrocio Fulvio,IT
+1868,Sortino,Canale Ermanno,IT
+1869,Baia Sardinia,Piazza Etta,IT
+1870,Dubbione,Vicolo Lando,IT
+1871,Bruscoli,Incrocio Onio,IT
+1872,Taverna,Canale Virgilio,IT
+1873,Calamandrana,Rotonda Tatiana,IT
+1874,Santa Giustina Val Di Lecca,Contrada Marsili,IT
+1875,Vigonza,Viale Aldo,IT
+1876,Montecucco,Viale Castioni,IT
+1877,Paluello,Incrocio Tomasini,IT
+1878,Sopraponte,Canale Bosio,IT
+1879,Torvaianica,Canale Mantegna,IT
+1880,Perano,Vicolo Ludovica,IT
+1881,Barrafranca,Rotonda Salvatore,IT
+1882,Comelico Superiore,Strada Guarana,IT
+1883,Calimera Calabra,Piazza Orlando,IT
+1884,Ogliara,Incrocio Mercedes,IT
+1885,San Giovanni In Marignano,Piazza Osvaldo,IT
+1886,San Mauro Cilento,Contrada Lettiere,IT
+1887,Flero,Incrocio Serraglio,IT
+1888,Carceri,Canale Giradello,IT
+1889,Melia,Canale Schicchi,IT
+1890,Castellare Di Pescia,Stretto Amalia,IT
+1891,Santa Margherita Di Atri,Canale Dallapé,IT
+1892,Santa Brigida,Strada Piermaria,IT
+1893,Sessano Del Molise,Piazza Etta,IT
+1894,Girla,Stretto Giampaolo,IT
+1895,Bovisio,Contrada Broschi,IT
+1896,Vastogirardi,Piazza Dionigi,IT
+1897,Dairago,Rotonda Adele,IT
+1898,Lentella,Stretto Lombardo,IT
+1899,San Germano,Contrada Dallara,IT
+1900,Tigliole,Borgo Cianciolo,IT
+1901,Berlingo,Borgo Canova,IT
+1902,Lodi,Incrocio Udinese,IT
+1903,Thiesi,Vicolo Marcacci,IT
+1904,Guamo,Contrada Calogero,IT
+1905,Torre D'Arese,Contrada Costantino,IT
+1906,Botrugno,Canale Antonucci,IT
+1907,Cavaliere,Contrada Tron,IT
+1908,Terzo La Pieve,Rotonda Gelsomina,IT
+1909,Viotto,Viale Sauli,IT
+1910,Casalecchio Di Reno,Rotonda Pina,IT
+1911,Modugno,Via Nadia,IT
+1912,Roncoleva',Contrada Chindamo,IT
+1913,San Fidenzio,Rotonda Sante,IT
+1914,La Rustica,Incrocio Augusto,IT
+1915,Venezia,Stretto Zarlino,IT
+1916,Carpena,Piazza Iannuzzi,IT
+1917,Tai Di Cadore,Stretto Cerquiglini,IT
+1918,Fluminimaggiore,Vicolo Nino,IT
+1919,Albate,Strada Nicolò,IT
+1920,Montegrosso D'Asti,Contrada Calcedonio,IT
+1921,Serricella,Contrada Sabatino,IT
+1922,Serradifalco,Via Valentino,IT
+1923,Naz Sciaves,Piazza Cundari,IT
+1924,Domicella,Borgo Gioacchino,IT
+1925,Garola,Incrocio Pierangelo,IT
+1926,Cesate,Borgo Ernesto,IT
+1927,San Gennaro,Canale Gentileschi,IT
+1928,Mercatale Val Di Pesa,Rotonda Sanudo,IT
+1929,Mussotto,Piazza Moschino,IT
+1930,Molino Dell'Anzola,Canale Olivetti,IT
+1931,St. Jakob in Ahrn,Rotonda Luria,IT
+1932,Sant'Andrea Di Suasa,Viale Vecoli,IT
+1933,Rezzonico,Incrocio Ansaldo,IT
+1934,Camporeggiano,Incrocio Vincentio,IT
+1935,Pesco Sannita,Canale Romolo,IT
+1936,Fossato Di Vico,Stretto Tonia,IT
+1937,Peghera,Via Vasari,IT
+1938,Mili Marina,Incrocio Gelsomina,IT
+1939,Sant'Elpidio Morico,Via Laura,IT
+1940,Accadia,Borgo Massimo,IT
+1941,Doberdo' Del Lago,Stretto Ferrazzi,IT
+1942,Scheggia,Strada Beppe,IT
+1943,Stribugliano,Piazza Piersanti,IT
+1944,Lengmoos,Via Fattori,IT
+1945,Coniolo,Contrada Sante,IT
+1946,Ponte All'Abate,Via Gionata,IT
+1947,Oggiona,Rotonda Giolitti,IT
+1948,Gairo Sant'Elena,Viale Camilla,IT
+1949,Canneto Sull'Oglio,Strada Ricci,IT
+1950,Tricase Porto,Contrada Amedeo,IT
+1951,Capriana,Borgo Valguarnera,IT
+1952,Barasso,Canale Licia,IT
+1953,Usmate Velate,Vicolo Sonia,IT
+1954,Pioppe Di Salvaro,Strada Liberto,IT
+1955,Arola,Vicolo Balbi,IT
+1956,Corniglia,Borgo Battisti,IT
+1957,Lido Di Mortelle,Borgo Tasca,IT
+1958,Serradifalco,Viale Berenice,IT
+1959,Braulins,Rotonda Coluccio,IT
+1960,Aglietti,Stretto Donatella,IT
+1961,Campotosto,Canale Pigafetta,IT
+1962,Arnad,Piazza Lamberto,IT
+1963,Treviso,Incrocio Rodolfo,IT
+1964,Sant'Angelo Le Fratte,Vicolo Martucci,IT
+1965,Sassofeltrio,Contrada Rosa,IT
+1966,Villaggio Brollo,Borgo Manunta,IT
+1967,Annone Veneto,Borgo Napoleone,IT
+1968,Calitri,Piazza Bonolis,IT
+1969,Bonifati,Via Napoleone,IT
+1970,Reano,Piazza Rosaria,IT
+1971,Galliate,Strada Licia,IT
+1972,Fornace Crocicchio,Via Damiano,IT
+1973,Trezzano Sul Naviglio,Strada Buonauro,IT
+1974,Santa Vittoria,Contrada Carla,IT
+1975,Latzfons,Piazza Carla,IT
+1976,Aci Sant'Antonio,Piazza Romeo,IT
+1977,Crespole,Borgo Chittolini,IT
+1978,Ospedaletto Lodigiano,Rotonda Roero,IT
+1979,Lanzada,Canale Viridiana,IT
+1980,Torlino Vimercati,Canale Tina,IT
+1981,Casamari,Stretto Federico,IT
+1982,Pietraferrazzana,Borgo Vito,IT
+1983,Gressan,Strada Argentero,IT
+1984,Postua,Contrada Uberto,IT
+1985,Colleranesco,Viale Giannone,IT
+1986,San Benedetto Val Di Sambro,Via Gualtieri,IT
+1987,Castagnola Di Fraconalto,Piazza Gritti,IT
+1988,Sant'Urbano,Canale Ammaniti,IT
+1989,Pinasca,Contrada Ubaldi,IT
+1990,Piano Di Setta,Borgo Zabarella,IT
+1991,Capoliveri,Stretto Baresi,IT
+1992,Casale Monferrato,Canale Boccioni,IT
+1993,Podresca,Canale Vittorio,IT
+1994,San Gervasio D'Adda,Canale Condoleo,IT
+1995,Santa Giusta,Via Poerio,IT
+1996,Salvano,Contrada Melania,IT
+1997,Fonti,Canale Iadanza,IT
+1998,Arcevia,Piazza Greco,IT
+1999,Centro,Incrocio Argurio,IT
+2000,Ponte D'Arbia,Vicolo Greco,IT
+2001,Cappelletta,Contrada Parri,IT
+2002,Montevago,Strada Bruno,IT
+2003,Buisson,Vicolo Umberto,IT
+2004,Licusati,Viale Alessio,IT
+2005,Caprarola,Contrada Adamo,IT
+2006,Laiano,Stretto Maria,IT
+2007,Claut,Vicolo Mascheroni,IT
+2008,Bazzano Inferiore,Stretto Vincentio,IT
+2009,Fiacchini,Strada Bergoglio,IT
+2010,Ca' Dolfin,Stretto Ivo,IT
+2011,Macerata Feltria,Stretto Bianca,IT
+2012,Fai Della Paganella,Piazza Telesio,IT
+2013,Ponte Gorzone,Canale Pacillo,IT
+2014,Comezzano Cizzago,Vicolo Ricciotti,IT
+2015,Rovere' Veronese,Viale Enrico,IT
+2016,Bagni Nuovi Di Bormio,Borgo Monte,IT
+2017,Flocco,Incrocio Cesare,IT
+2018,Piantamelon,Rotonda Mantegna,IT
+2019,Le Prese,Strada Morellato,IT
+2020,Ischia Ponte,Strada Lidia,IT
+2021,Vasto Marina,Canale Palladio,IT
+2022,Jerzu,Rotonda Giacomo,IT
+2023,Spelonga,Via Bonatti,IT
+2024,Cremenaga,Viale Caterina,IT
+2025,Stern,Strada Giannone,IT
+2026,Massenzatico,Vicolo Pulci,IT
+2027,Lutrano,Canale Nicolò,IT
+2028,Canneto Di Caronia,Canale Tornatore,IT
+2029,Belmonte Piceno,Strada Gloria,IT
+2030,Azeglio,Rotonda Scarponi,IT
+2031,Caronno Pertusella,Piazza Carolina,IT
+2032,Belforte Monferrato,Canale Ruggiero,IT
+2033,Carraie,Vicolo Pertile,IT
+2034,Vico Equense,Canale Marcello,IT
+2035,Sola,Vicolo Gioacchino,IT
+2036,Casalmorano,Strada Capecchi,IT
+2037,Montignano,Rotonda Sansoni,IT
+2038,Pfatten,Stretto Licia,IT
+2039,Raldon,Strada Odescalchi,IT
+2040,Eggen,Incrocio Marta,IT
+2041,Badia Pavese,Via Annamaria,IT
+2042,Rosali',Piazza Rosaria,IT
+2043,Sitizano,Vicolo Ferrucci,IT
+2044,Santa Maria A Monte,Via Musatti,IT
+2045,Villastellone,Via Vidoni,IT
+2046,Sant'Apollinare,Strada Liana,IT
+2047,Novoli,Rotonda Canetta,IT
+2048,Giuliana,Canale Sergius,IT
+2049,Palestro,Via Staglieno,IT
+2050,Acquaria,Canale Imelda,IT
+2051,Crosa,Via Serafina,IT
+2052,Querceta,Strada Mario,IT
+2053,Pedemonte,Stretto Frescobaldi,IT
+2054,Fregene,Stretto Donà,IT
+2055,Villagrazia Di Carini,Rotonda Pareto,IT
+2056,Bosco Caggione,Contrada Ungaretti,IT
+2057,Congiunti,Viale Badoglio,IT
+2058,Morazzone,Viale Busoni,IT
+2059,Pergusa,Rotonda Azeglio,IT
+2060,Castel San Niccolo',Vicolo Mazzini,IT
+2061,Scerne,Rotonda Duse,IT
+2062,Sant'Apollonio,Via Ovadia,IT
+2063,Rocca Malatina,Canale Amadeo,IT
+2064,Sovico,Contrada Tassoni,IT
+2065,Pettinengo,Viale Zola,IT
+2066,San Lorenzo A Pagnatico,Vicolo Maderna,IT
+2067,Motta De' Conti,Strada Ludovico,IT
+2068,Bes,Incrocio Virgilio,IT
+2069,Cinigiano,Strada Federico,IT
+2070,Burgos,Strada Ottavio,IT
+2071,Cuirone,Borgo Visintini,IT
+2072,Bagnolo Di Lonigo,Incrocio Filippelli,IT
+2073,San Mauro A Mare,Viale Patrizio,IT
+2074,Scandiano,Contrada Rosalia,IT
+2075,Sperlinga,Borgo Liverotti,IT
+2076,Castelmezzano,Strada Loredana,IT
+2077,Collelavena,Contrada Antonino,IT
+2078,Stolvizza,Vicolo Marazzi,IT
+2079,San Mariano,Via Adelmo,IT
+2080,Piano Vetrale,Piazza Marina,IT
+2081,Tobbiana,Stretto Luigi,IT
+2082,Isola Di Fano,Rotonda Dario,IT
+2083,Sassocorvaro,Borgo Marcello,IT
+2084,Ponte Ete,Piazza Geraci,IT
+2085,Deposito Di Luzzi,Viale Fantini,IT
+2086,Durazzano,Strada Donatella,IT
+2087,Scritto,Vicolo Benvenuto,IT
+2088,Beltiglio Di Ceppaloni,Rotonda Tartini,IT
+2089,Cerneglons,Contrada Martino,IT
+2090,Cenadi,Stretto Gabriella,IT
+2091,San Zaccaria,Rotonda Gian,IT
+2092,Ca' Vecchia,Canale Ciro,IT
+2093,Villa Felice,Strada Lucrezia,IT
+2094,Tarnell,Via Rosaria,IT
+2095,Acquaseria,Viale Rolando,IT
+2096,Corniolo,Rotonda Collodi,IT
+2097,Codevigo,Strada Guido,IT
+2098,Casalini,Via Battaglia,IT
+2099,Poggio Di Otricoli,Strada Murri,IT
+2100,Evangelisti,Canale Venancio,IT
+2101,Volpiano,Stretto Boitani,IT
+2102,Oggiona,Stretto Pasolini,IT
+2103,Santa Mama,Incrocio Giuseppina,IT
+2104,Brancaccio Ciaculli,Contrada Fioravanti,IT
+2105,Saguedo,Canale Serena,IT
+2106,Annone Veneto,Rotonda Gaspare,IT
+2107,Muliparte,Strada Versace,IT
+2108,Roccapipirozzi,Incrocio Dolores,IT
+2109,Rocca Massima,Stretto Foletti,IT
+2110,Sant'Arcangelo Trimonte,Piazza Natalia,IT
+2111,Sand in Taufers,Incrocio Grimani,IT
+2112,Villalfonsina,Contrada Ponti,IT
+2113,Monastero Bormida,Piazza Sebastiano,IT
+2114,Castelnuovo Del Garda,Via Valentina,IT
+2115,Tarsch,Incrocio Liana,IT
+2116,San Lorenzo In Correggiano,Vicolo Carlo,IT
+2117,Verano Brianza,Piazza Zaira,IT
+2118,Brandizzo,Viale Giuliano,IT
+2119,Sesto Ulteriano,Piazza Tartaglia,IT
+2120,Thiesi,Contrada Elmo,IT
+2121,Germignaga,Borgo Imelda,IT
+2122,St. Gertraud,Stretto Sante,IT
+2123,Ula' Tirso,Incrocio Teresa,IT
+2124,Veggia,Incrocio Smirnoff,IT
+2125,Trona Di Sopra,Canale Canali,IT
+2126,Francavilla Di Sicilia,Viale Gianpietro,IT
+2127,San Nicola Dell'Alto,Stretto Ottavio,IT
+2128,Vitinia,Stretto Galasso,IT
+2129,Grado,Viale Ferrazzi,IT
+2130,Vigliatore,Borgo Marcello,IT
+2131,Borgo Priolo,Vicolo Canova,IT
+2132,Camerana,Contrada Morucci,IT
+2133,Untervintl,Borgo Tarchetti,IT
+2134,Sangineto Lido,Stretto Ottino,IT
+2135,Fonte Di Brescia,Viale Gianpaolo,IT
+2136,Villa Motta,Contrada Barbara,IT
+2137,Sorbo Di Montella,Via Pellico,IT
+2138,Gello,Strada Oreste,IT
+2139,Porto San Paolo,Viale Liverotti,IT
+2140,Moraduccio Di Valsalva,Piazza Santino,IT
+2141,Crispiero,Vicolo Polesel,IT
+2142,Merine,Stretto Faranda,IT
+2143,Savazza,Incrocio Romana,IT
+2144,Baruchella,Vicolo Gaiatto,IT
+2145,Fonni,Piazza Gualandi,IT
+2146,Alvignano,Rotonda Ugo,IT
+2147,Frusci,Borgo Govoni,IT
+2148,Monteorsello,Via Cecilia,IT
+2149,Poggio Capanne,Canale Etta,IT
+2150,Grancona,Borgo Broschi,IT
+2151,Valcasotto,Piazza Natta,IT
+2152,Pianengo,Piazza Cassandra,IT
+2153,Brizzolara,Vicolo Gianpaolo,IT
+2154,Castelnuovo Parano,Via Argan,IT
+2155,Buonopane,Rotonda Lopresti,IT
+2156,Gorzegno,Incrocio Malipiero,IT
+2157,Castagnole,Strada Depero,IT
+2158,Cerveno,Incrocio Gori,IT
+2159,Overì,Incrocio Casalodi,IT
+2160,Capraia E Limite,Strada Pace,IT
+2161,Foresta Burgos,Rotonda Nicoletta,IT
+2162,Valle Di Saviore,Vicolo Pergolesi,IT
+2163,Petrizia,Via Veltroni,IT
+2164,Pisignano,Strada Argentero,IT
+2165,Assemini,Stretto Acerbi,IT
+2166,Tiolo,Contrada Lina,IT
+2167,San Varano,Stretto Giolitti,IT
+2168,Cisliano,Incrocio Tullio,IT
+2169,Cirella,Incrocio Ottone,IT
+2170,Corpolo',Piazza Vincentio,IT
+2171,Barza,Canale Zabarella,IT
+2172,Sillavengo,Piazza Bernini,IT
+2173,Rosas,Strada Pulci,IT
+2174,Melegnano,Incrocio Giacinto,IT
+2175,Calasetta,Viale Luxardo,IT
+2176,Cima,Vicolo Ornella,IT
+2177,Verezzo,Strada Bernardo,IT
+2178,Battuello,Via Sonia,IT
+2179,Palo Del Colle,Piazza Rossana,IT
+2180,San Pietro Al Tanagro,Piazza Ludovico,IT
+2181,Farfa,Rotonda Fattori,IT
+2182,Lupazzano,Borgo Balla,IT
+2183,Fabrizia,Contrada Caffarelli,IT
+2184,Castellamonte,Stretto Amico,IT
+2185,Ottiglio,Incrocio Nanni,IT
+2186,Cornino,Strada Ovadia,IT
+2187,Polino,Borgo Bonaventura,IT
+2188,Bruere,Stretto Desio,IT
+2189,Solimbergo,Vicolo Silvestro,IT
+2190,Mombretto,Incrocio Eraldo,IT
+2191,Scurelle,Contrada Cocci,IT
+2192,Rescalda,Via Raffaella,IT
+2193,Roccaspromonte,Vicolo Paoletta,IT
+2194,Kastelbell,Borgo Cattaneo,IT
+2195,San Benedetto Belbo,Viale Vercelloni,IT
+2196,Bee,Piazza Parisi,IT
+2197,Savigno,Stretto Giampaolo,IT
+2198,Orero,Borgo Giovanni,IT
+2199,Tizzano Val Parma,Incrocio Bernetti,IT
+2200,Esporlatu,Borgo Monica,IT
+2201,Ceriale,Canale Agostini,IT
+2202,Ferrara Di Monte Baldo,Vicolo Dionigi,IT
+2203,San Pietro In Palazzi,Piazza Tassoni,IT
+2204,Magredis,Viale Luciani,IT
+2205,Garadassi,Incrocio Sagese,IT
+2206,Grottarossa,Stretto Bonolis,IT
+2207,Ponte San Marco,Rotonda Ludovica,IT
+2208,Gallicano,Incrocio Graziano,IT
+2209,Longastrino,Strada Matteo,IT
+2210,Carezza Al Lago,Rotonda Ciro,IT
+2211,Calasca Castiglione,Rotonda Vecoli,IT
+2212,Progresso,Rotonda Raffaellino,IT
+2213,Corriolo,Piazza Marcantonio,IT
+2214,Gifflenga,Incrocio Einaudi,IT
+2215,Varoni,Stretto Gianna,IT
+2216,Nidastore,Via Lando,IT
+2217,Traversetolo,Via Alderano,IT
+2218,Castel Trosino,Piazza Gino,IT
+2219,Mili San Marco,Rotonda Baresi,IT
+2220,Casteggio,Strada Pomponio,IT
+2221,Suviana,Incrocio Segni,IT
+2222,Bruzolo,Contrada Flavio,IT
+2223,La Storta,Incrocio Crisafulli,IT
+2224,Casone,Strada Roberto,IT
+2225,Nicolosi,Incrocio Carocci,IT
+2226,Capitan Loreto,Piazza Boiardo,IT
+2227,Pian Di Borno,Via Pier,IT
+2228,Romana,Borgo Lauretta,IT
+2229,Bonito,Via Azeglio,IT
+2230,Vetrego,Strada Fiorino,IT
+2231,Sule',Stretto Pometta,IT
+2232,Beltiglio,Piazza Barbarigo,IT
+2233,Cessalto,Contrada Palumbo,IT
+2234,Gazzera,Strada Ubaldo,IT
+2235,Ferrazza,Vicolo Mauro,IT
+2236,Campi Bisenzio,Rotonda Alberto,IT
+2237,Tula,Viale Pisani,IT
+2238,Monterosso Calabro,Viale Bajamonti,IT
+2239,Santa Croce,Stretto Donati,IT
+2240,Prarostino,Rotonda Adinolfi,IT
+2241,Cella,Rotonda Nibali,IT
+2242,Fogliano Redipuglia,Via Dolores,IT
+2243,Borgarello,Incrocio Francesco,IT
+2244,Ziracco,Rotonda Impastato,IT
+2245,Leumann,Strada Angelina,IT
+2246,Varena,Vicolo Luxardo,IT
+2247,Bema,Contrada Trupiano,IT
+2248,Marina Di Vasto,Strada Greco,IT
+2249,Santa Brigida,Incrocio Gelsomina,IT
+2250,Locogrande,Contrada Antonella,IT
+2251,Caravate,Via Gilberto,IT
+2252,Arcene,Piazza Gagliardi,IT
+2253,Bellaguarda,Piazza Ferragni,IT
+2254,Castiglione D'Asti,Viale Barzini,IT
+2255,Corleto Monforte,Via Atenulf,IT
+2256,Casalmaggiore,Rotonda Vanessa,IT
+2257,Vallata,Piazza Raffaellino,IT
+2258,Golfo Aranci,Canale Pucci,IT
+2259,Sant'Anna,Viale Marazzi,IT
+2260,Cerro Al Volturno,Vicolo Baldassare,IT
+2261,Parre,Canale Paoletta,IT
+2262,Pezzano,Stretto Abba,IT
+2263,San Teodoro,Incrocio Navarria,IT
+2264,Vampolieri,Rotonda Elmo,IT
+2265,Santa Vittoria D'Alba Cinzano,Incrocio Pascarella,IT
+2266,Casnate,Via Tiziano,IT
+2267,Postua,Canale Guglielmo,IT
+2268,Morbegno,Incrocio Carmelo,IT
+2269,Mogoro,Canale Virginia,IT
+2270,Sala Consilina,Via Valentina,IT
+2271,Ospitale Di Cadore,Borgo Toldo,IT
+2272,Sottocastello,Via Micheletti,IT
+2273,Piedimonte D'Alife,Strada Fulvio,IT
+2274,Moncestino,Viale Sagese,IT
+2275,Beano,Viale Raffaello,IT
+2276,Lagrimone,Viale Roberto,IT
+2277,Ortucchio,Via Pinamonte,IT
+2278,Capannelle,Via Tamborini,IT
+2279,Bramaiano,Via Giovanna,IT
+2280,Gemona Piovega,Piazza Sonia,IT
+2281,Omignano Stazione,Stretto Bernardo,IT
+2282,Inverno,Rotonda Tiepolo,IT
+2283,Sperlonga,Canale Ugo,IT
+2284,Schenna,Stretto Mario,IT
+2285,Portogruaro,Canale Piergiuseppe,IT
+2286,Dorno,Via Alessandro,IT
+2287,Casaletto Vaprio,Via Ezio,IT
+2288,Santa Domenica Vittoria,Viale Santorio,IT
+2289,Montemagno,Contrada Giuliana,IT
+2290,Vizzola Ticino,Incrocio Alderano,IT
+2291,Canicatti',Rotonda Ermes,IT
+2292,Stellata,Incrocio Accardo,IT
+2293,Porossan,Viale Luchino,IT
+2294,Matierno,Via Giuseppina,IT
+2295,Badia A Settimo,Contrada Bianca,IT
+2296,Stazione Di Campiglia Marittima,Viale Antonina,IT
+2297,Cerreto D'Esi,Via Aria,IT
+2298,Porto D'Adda,Via Fiamma,IT
+2299,Feriolo Baveno,Canale Vasari,IT
+2300,Cerrina Monferrato,Borgo Anguissola,IT
+2301,Drezzo,Stretto Maggioli,IT
+2302,Antrosano,Incrocio Gozzi,IT
+2303,Giaiette,Viale Pompeo,IT
+2304,Ontagnano,Via Lazzaro,IT
+2305,Borghetto Lodigiano,Piazza Francesco,IT
+2306,Torretta,Borgo Pratesi,IT
+2307,Stange,Vicolo Treves,IT
+2308,Misilmeri,Contrada Armellini,IT
+2309,Martignano,Incrocio Antonello,IT
+2310,San Terenziano,Rotonda Agnolo,IT
+2311,Vallio Terme,Viale Curatoli,IT
+2312,Montepaone Lido,Stretto Giada,IT
+2313,Chiaramonte Gulfi,Viale Montanari,IT
+2314,Basovizza,Strada Ippazio,IT
+2315,Prata D'Ansidonia,Strada Costanzo,IT
+2316,Gimillian,Rotonda Fabia,IT
+2317,Fondra,Contrada Pignatti,IT
+2318,Trasanni,Canale Piovani,IT
+2319,Borgolavezzaro,Rotonda Greca,IT
+2320,Limone Sul Garda,Canale Ruggiero,IT
+2321,Erve,Canale Fiorucci,IT
+2322,Villazzano,Piazza Arsenio,IT
+2323,Valtournenche,Borgo Lazzaro,IT
+2324,Staro,Contrada Toni,IT
+2325,Nava,Via Raffaella,IT
+2326,Pienza,Rotonda Scamarcio,IT
+2327,Barme,Vicolo Tasca,IT
+2328,Burgstall,Via Ottavio,IT
+2329,Castel Dei Britti,Borgo Vespucci,IT
+2330,Guardiabruna,Via Marzorati,IT
+2331,Ternengo,Contrada Galasso,IT
+2332,Margherita Di Savoia,Piazza Pasquale,IT
+2333,Monterotondo Marittimo,Viale Semitecolo,IT
+2334,Misciano,Borgo Fabrizia,IT
+2335,Schabs,Incrocio Nolcini,IT
+2336,St. Johann in Ahrn,Stretto Gregorio,IT
+2337,Sant'Antioco,Viale Giulietta,IT
+2338,Nogaredo Di Prato,Borgo Garzoni,IT
+2339,Aufkirchen,Rotonda Biagio,IT
+2340,Piagge Di Ascoli Piceno,Via Gianfranco,IT
+2341,Canelli,Piazza Giada,IT
+2342,Collestatte Piano,Strada Ceri,IT
+2343,Bedero Valcuvia,Strada Pepe,IT
+2344,Loreto Stazione,Piazza Ariosto,IT
+2345,Villapaiera,Strada Carmelo,IT
+2346,Cittanova,Viale Boccaccio,IT
+2347,Rocca Canterano,Stretto Rossini,IT
+2348,Postalesio,Borgo Toldo,IT
+2349,Pianoro,Stretto Donatello,IT
+2350,Sant'Antonio,Contrada Fo,IT
+2351,Torchiarolo,Canale Polesel,IT
+2352,Saint Vincent,Strada Carlo,IT
+2353,Pollina,Piazza Trotta,IT
+2354,Falerna,Contrada Giuliano,IT
+2355,Amaseno,Via Filippelli,IT
+2356,Roccatederighi,Via Raurica,IT
+2357,Budditogliu,Viale Lolita,IT
+2358,Piano Di Setta,Vicolo Graziella,IT
+2359,Castellazzo,Rotonda Balbo,IT
+2360,Senale,Contrada Paola,IT
+2361,Passo Del Bidollo,Canale Micca,IT
+2362,Civitella Marittima,Canale Barillaro,IT
+2363,Cavrie,Contrada Bondumier,IT
+2364,Montesilvano Colle,Rotonda Troisi,IT
+2365,Borgo Macchia,Via Tommaseo,IT
+2366,Brozzi,Incrocio Tencalla,IT
+2367,Troina,Via Raffaellino,IT
+2368,San Giacomo Maggiore,Incrocio Santi,IT
+2369,Collalbrigo,Vicolo Basso,IT
+2370,Castel Volturno,Rotonda Costantino,IT
+2371,Palagianello,Canale Danilo,IT
+2372,Vidiciatico,Contrada Pietro,IT
+2373,Solarolo,Rotonda Moneta,IT
+2374,Calatafimi,Strada Giovanni,IT
+2375,Castiglione Torinese,Via Lattuada,IT
+2376,Marzanello,Via Eraldo,IT
+2377,Musicile,Stretto Donna,IT
+2378,Fascia,Stretto Ricciotti,IT
+2379,Prato Sesia,Vicolo Milanesi,IT
+2380,Cantello,Rotonda Giacomo,IT
+2381,Marane,Borgo Marconi,IT
+2382,Brognaturo,Strada Bruno,IT
+2383,San Lorenzo Al Mare,Borgo Pugliese,IT
+2384,Badia Prataglia,Canale Fiorenzo,IT
+2385,Garlasco,Borgo Bandello,IT
+2386,Aiello Del Sabato,Stretto Querini,IT
+2387,Calendasco,Viale Battelli,IT
+2388,Asiago,Rotonda Marisa,IT
+2389,Monterotondo,Borgo Pierluigi,IT
+2390,Casale Di Carinola,Vicolo Ruggeri,IT
+2391,Borzoli,Incrocio Lodovico,IT
+2392,Fulgatore,Strada Baccio,IT
+2393,Cetraro,Vicolo Giosuè,IT
+2394,Creta,Piazza Cammarata,IT
+2395,Madonna Degli Angeli,Canale Ricciotti,IT
+2396,Sant'Ilario Dello Ionio,Vicolo Luca,IT
+2397,Arre,Via Piergiorgio,IT
+2398,Esporlatu,Borgo Flavia,IT
+2399,Magliano Di Tenna,Viale Andreozzi,IT
+2400,Sturla,Vicolo Toso,IT
+2401,Valgera,Borgo Veronica,IT
+2402,Piano D'Arta,Piazza Manzoni,IT
+2403,Salcedo,Borgo Nitti,IT
+2404,Mercatale Vernio,Rotonda Grimani,IT
+2405,Tremezzo,Piazza Bombieri,IT
+2406,Tizzano Val Parma,Piazza Antelami,IT
+2407,Trino,Strada Pierpaolo,IT
+2408,Barbianello,Incrocio Calarco,IT
+2409,Vittuone,Viale Caracciolo,IT
+2410,Cessalto,Incrocio Visintini,IT
+2411,Vazzano,Rotonda Brichese,IT
+2412,Flaas,Via Aporti,IT
+2413,Cellio,Via Caffarelli,IT
+2414,Santa Veneranda,Vicolo Lauretta,IT
+2415,Panni,Stretto Martucci,IT
+2416,Lerino,Rotonda Interiano,IT
+2417,Cava Di Catanzaro,Rotonda Bernardo,IT
+2418,Massa Martana,Piazza Vittoria,IT
+2419,Olda,Rotonda Antonelli,IT
+2420,Pozzol Groppo,Vicolo Balotelli,IT
+2421,Sasso Marconi,Piazza Zamorani,IT
+2422,Orvinio,Viale Silvestro,IT
+2423,Ridotti Di Balsorano,Contrada Sgalambro,IT
+2424,Piumazzo,Via Andreotti,IT
+2425,Azzano San Paolo,Via Chiappetta,IT
+2426,Solza,Piazza Taccola,IT
+2427,Potenzoni,Via Gioffre,IT
+2428,Casatenovo,Piazza Ettore,IT
+2429,Montebello,Viale Casarin,IT
+2430,Galleno,Incrocio Rodolfo,IT
+2431,Castelnovo Di Sotto,Contrada Evangelista,IT
+2432,Unser Fra,Incrocio Gioffre,IT
+2433,Rotella,Stretto Mezzetta,IT
+2434,Bacciolino,Via Duse,IT
+2435,Nugola Nuova,Piazza Vespa,IT
+2436,Cittiglio,Incrocio Gaspare,IT
+2437,Musigliano,Viale Maurilio,IT
+2438,San Martino Alfieri,Rotonda Stefanelli,IT
+2439,Moniego Di Noale,Contrada Piazzi,IT
+2440,Selino Basso,Canale Pomponio,IT
+2441,Pirazzolu,Stretto Giustino,IT
+2442,Riva,Canale Guicciardini,IT
+2443,Sa Pischera,Strada Fiorenzo,IT
+2444,Villaggio Laceno,Strada Emilio,IT
+2445,Gemonio,Rotonda Fagotto,IT
+2446,Mariano Del Friuli,Stretto Cortese,IT
+2447,San Marco Dei Cavoti,Incrocio Camillo,IT
+2448,Pozza Di Fassa,Viale Daniele,IT
+2449,Amendolara,Via Nicoletta,IT
+2450,Basovizza,Piazza Argan,IT
+2451,Caltron,Via Pier,IT
+2452,San Giorgio Monferrato,Stretto Ungaretti,IT
+2453,Musellaro,Viale Magrassi,IT
+2454,Roccaforte Ligure,Viale Amadeo,IT
+2455,Castellammare Di Stabia,Piazza Trentin,IT
+2456,Pantelleria,Piazza Patrizio,IT
+2457,La Muddizza,Stretto Nadi,IT
+2458,Moline Di Banale,Vicolo Veronica,IT
+2459,Bienno,Canale Fiorenzo,IT
+2460,Runco,Canale Fabio,IT
+2461,Bascape',Rotonda Meucci,IT
+2462,Paderno Dugnano,Viale Comboni,IT
+2463,Sarsina,Via Fermi,IT
+2464,Grottaminarda,Canale Laureano,IT
+2465,Collalto,Stretto Alfonsi,IT
+2466,Govone,Rotonda Lorenzo,IT
+2467,Cornate D'Adda,Via Franco,IT
+2468,Coiano,Strada Mennea,IT
+2469,Breolungi,Vicolo Solimena,IT
+2470,Cenate Di Sotto,Via Bacosi,IT
+2471,Acate,Canale Perozzo,IT
+2472,Pizzoni,Borgo Lucciano,IT
+2473,Cannavo',Viale Teresa,IT
+2474,Laigueglia,Canale Franceschi,IT
+2475,Cividino,Borgo Maurizio,IT
+2476,Villa Saletta,Strada Pezzali,IT
+2477,Roncofreddo,Rotonda Ivan,IT
+2478,Ospedaletto Lodigiano,Borgo Marcantonio,IT
+2479,Nidastore,Strada Turchetta,IT
+2480,Pianico,Rotonda Gianfrancesco,IT
+2481,Torre De' Passeri,Contrada Raffaellino,IT
+2482,Fosso Ghiaia,Strada Cossiga,IT
+2483,Anzio,Incrocio Jolanda,IT
+2484,Carlantino,Canale Ottino,IT
+2485,Garbagnate Milanese,Viale Paulina,IT
+2486,Aufkirchen,Incrocio Bassi,IT
+2487,San Massimo,Canale Amedeo,IT
+2488,San Nicola,Borgo Rizzo,IT
+2489,Mola Di Bari,Canale Stefanelli,IT
+2490,Vitigliano,Strada Buonauro,IT
+2491,Belsito,Incrocio Odescalchi,IT
+2492,Villa Elce,Incrocio Travaglio,IT
+2493,Salvitelle,Contrada Donatello,IT
+2494,Niederolang,Contrada Dulbecco,IT
+2495,Canedole,Incrocio Meucci,IT
+2496,Buturo,Canale Michela,IT
+2497,San Donnino,Canale Stefania,IT
+2498,Cadimare,Strada Ranieri,IT
+2499,Aci Platani,Stretto Gabriella,IT

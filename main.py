@@ -15,8 +15,6 @@ def boot():
     load = int(args.load[0])
     refresh = (args.g or args.r) is not False
 
-    print(args.g, args.r)
-
     if args.g is True:
         generator.generate(load)
         pass
@@ -24,7 +22,6 @@ def boot():
     exec(args.ignore or [], load, refresh)
 
 def exec(ignore: tuple, load: int, refresh: bool):
-    print(refresh)
 
     if 'mongo' not in ignore:
         mongomg.exec(load, refresh)
