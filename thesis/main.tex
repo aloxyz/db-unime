@@ -448,29 +448,47 @@ with open(data_path('calls.csv'), "r") as cafile:
     \end{lstlisting}
 
 
-
+\pagebreak
 \section{Risultati degli esperimenti}
+    \subsection{2 WHERE}
+    Viene effettuata una selezione condizionata con due clausole \texttt{WHERE}
 
-    \subsection{3 WHERE}
-    Viene effettuata una selezione condizionata con tre clausole \texttt{WHERE}
+    \begin{lstlisting}[language=Python, caption=Neo4j]
+"MATCH (c:call) WHERE c.start_date >" 
++ str(gt_start) 
++ " AND c.start_date < " 
++ str(lt_start) 
++ " RETURN c"
+    \end{lstlisting}
 
     \begin{lstlisting}[language=Python, caption=MongoDB]
-"$match": {
-    "start_date": {
-        "$gte": gt_start,
-        "$lt": lt_start
-    },
-    "duration": {
-        "$gte": duration
+{
+    "$match": {
+        "start_date": {
+            "$gte": gt_start,
+            "$lt": lt_start
+        }
     }
 }
     \end{lstlisting}
 
 
-    \pagebreak
-    \subsection{3 WHERE 1 JOIN}
+    \subsection{3 WHERE}
     Viene effettuata una selezione condizionata con tre clausole \texttt{WHERE}
     e un \texttt{JOIN}
+
+    \begin{lstlisting}[language=Python, caption=Neo4j]
+"MATCH (c:call) WHERE c.start_date > " 
++ str(gt_start) 
++ " AND c.start_date < " 
++ str(lt_start) 
++ " AND c.duration >= " 
++ str(duration) 
++ " RETURN c"
+
+    \end{lstlisting}
+
+
     \begin{lstlisting}[language=Python, caption=MongoDB]
 {
     "$match": {
@@ -481,23 +499,24 @@ with open(data_path('calls.csv'), "r") as cafile:
         "duration": {
             "$gte": duration
         }
-    }
-},
-{
-    "$lookup": {
-        "from": "people",
-        "localField": "calling_number",
-        "foreignField": "number",
-        "as": "caller"
     }
 }
     \end{lstlisting}
     
-
-    \pagebreak
-    \subsection{3 WHERE 2 JOIN}
+    \subsection{3 WHERE 1 JOIN}
     Viene effettuata una selezione condizionata con tre clausole \texttt{WHERE}
-    e due \texttt{JOIN}
+    e un \texttt{JOIN}
+
+    \begin{lstlisting}[language=Python, caption=Neo4j]
+"MATCH (p:person)-[r:made_call]->(c:call) WHERE c.start_date >" 
++ str(gt_start) 
++ " AND c.start_date < " 
++ str(lt_start) 
++ " AND c.duration >= " 
++ str(duration) 
++ " RETURN c, r, p"
+    \end{lstlisting}
+
 
     \begin{lstlisting}[language=Python, caption=MongoDB]
 {
@@ -518,21 +537,23 @@ with open(data_path('calls.csv'), "r") as cafile:
         "foreignField": "number",
         "as": "caller"
     }
-},
-{
-    "$lookup": {
-        "from": "cells",
-        "localField": "cell_site",
-        "foreignField": "cell_site",
-        "as": "cell"
-    }
 }
     \end{lstlisting}
 
-    \pagebreak
-    \subsection{3 WHERE 3 JOIN}
+    \subsection{3 WHERE 2 JOIN}
     Viene effettuata una selezione condizionata con tre clausole \texttt{WHERE}
-    e tre \texttt{JOIN}
+    e due \texttt{JOIN}
+
+    \begin{lstlisting}[language=Python, caption=Neo4j]
+"MATCH(p:person)-[r1:made_call]->(c:call)-[r2:located_in]->(ce:cell) WHERE c.start_date >" 
++ str(gt_start) 
++ " AND c.start_date < " 
++ str(lt_start) 
++ " AND c.duration >= " 
++ str(duration) 
++ " RETURN c,p,r1,r2,ce"
+    \end{lstlisting}
+
 
     \begin{lstlisting}[language=Python, caption=MongoDB]
 {
@@ -543,7 +564,7 @@ with open(data_path('calls.csv'), "r") as cafile:
         },
         "duration": {
             "$gte": duration
-        },
+        }
     }
 },
 {
@@ -552,14 +573,6 @@ with open(data_path('calls.csv'), "r") as cafile:
         "localField": "calling_number",
         "foreignField": "number",
         "as": "caller"
-    }
-},
-{
-    "$lookup": {
-        "from": "people",
-        "localField": "called_number",
-        "foreignField": "number",
-        "as": "called"
     }
 },
 {
