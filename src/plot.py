@@ -5,7 +5,7 @@ import math
 
 mongo = []
 neo = []
-queryn = 1
+queryn = 4
 
 for i in range(25, 101, 25):
     directory_mongo = 'data/results/mongo/' + str(i)
@@ -43,7 +43,7 @@ rects2 = ax.bar(x + width/2, mongo, width, label='MongoDB')
 # Add some text for labels, title and custom x-axis tick labels, etc.
 
 ax.set_ylabel('Tempo (Millisecondi)')
-ax.set_title('2 WHERE')
+ax.set_title('3 WHERE 2 JOIN')
 ax.set_xticks(x, labels)
 ax.legend()
 
