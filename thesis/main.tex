@@ -239,8 +239,7 @@ e le relazioni \textit{localizzata, Chiamante} e \textit{Chiamato}.
     \subsection{Python}
     Python è un linguaggio di programmazione orientato agli oggetti. Si è scelto di utilizzare questo
     linguaggio per la semplicità di utilizzo e la facile disponibilità dei driver per accedere e manipolare
-    i database MongoDB e Neo4j. Dispone inoltre di \texttt{matplotlib}, una libreria per
-    la generazione di grafici. Si utilizza oltre ciò la libreria \textit{Faker} per generare i dati fittizi.
+    i database MongoDB e Neo4j. In questo caso si utilizza la libreria \textit{Faker} per generare i dati fittizi.
 
 \section{Implementazione}
     Come visto nella sezione 3, abbiamo esumato delle entità e relazioni. Queste sono state implementate
@@ -454,7 +453,9 @@ Le query presentate di seguito sono definite nei file sorgenti \texttt{mongo\_qu
 \texttt{neo\_queries.py}. I valori \texttt{gt\_start} e \texttt{lt\_start} definiscono
 rispettivamente la data massima e la data minima (in formato \textit{epoch}) delle chiamate da prendere
 in considerazione. Il valore \texttt{duration} definisce la durata massima delle chiamate.
-
+\\
+È stato utilizzato LibreOffice Calc per la manipolazione dei dati e
+la generazione dei grafici a seguire.
 
     \subsection{2 WHERE}
     Viene effettuata una selezione condizionata con due clausole \texttt{WHERE}
@@ -478,7 +479,14 @@ in considerazione. Il valore \texttt{duration} definisce la durata massima delle
 }
     \end{lstlisting}
 
-    \includegraphics[width=350px, keepaspectratio]{query1.png}
+    \begin{figure}
+        \includegraphics[width=320px, keepaspectratio, center]{query1.png}
+        \label{fig:results1}
+        \includegraphics[width=350px, keepaspectratio, center]{query1_fr.png}
+        \label{fig:query1_fr}
+        \includegraphics[width=350px, keepaspectratio, center]{query1_avg.png}
+        \label{fig:query1_avg}
+    \end{figure}    
 
 
 \pagebreak
@@ -512,7 +520,14 @@ in considerazione. Il valore \texttt{duration} definisce la durata massima delle
 }
     \end{lstlisting}
     
-    \includegraphics[width=350px, keepaspectratio]{query2.png}
+    \begin{figure}
+        \includegraphics[width=320px, keepaspectratio, center]{query2.png}
+    \label{fig:results2}
+        \includegraphics[width=350px, keepaspectratio, center]{query2_fr.png}
+        \label{fig:query2_fr}
+        \includegraphics[width=350px, keepaspectratio, center]{query2_avg.png}
+        \label{fig:query2_avg}
+    \end{figure}
 
     \pagebreak
     \subsection{3 WHERE 1 JOIN}
@@ -552,7 +567,14 @@ in considerazione. Il valore \texttt{duration} definisce la durata massima delle
 }
     \end{lstlisting}
 
-    \includegraphics[width=350px, keepaspectratio]{query3.png}
+    \begin{figure}
+        \includegraphics[width=320px, keepaspectratio, center]{query3.png}
+        \label{fig:results3}
+        \includegraphics[width=350px, keepaspectratio, center]{query3_fr.png}
+        \label{fig:query3_fr}
+        \includegraphics[width=350px, keepaspectratio, center]{query3_avg.png}
+        \label{fig:query3_avg}
+    \end{figure}
 
     \pagebreak
     \subsection{3 WHERE 2 JOIN}
@@ -599,7 +621,15 @@ in considerazione. Il valore \texttt{duration} definisce la durata massima delle
     }
 }
     \end{lstlisting}
-    \includegraphics[width=350px, keepaspectratio]{query4.png}
+
+    \begin{figure}
+        \includegraphics[width=320px, keepaspectratio, center]{query4.png}
+    \label{fig:results4}
+        \includegraphics[width=350px, keepaspectratio, center]{query4_fr.png}
+        \label{fig:query4_fr}
+        \includegraphics[width=350px, keepaspectratio, center]{query4_avg.png}
+        \label{fig:query4_avg}
+    \end{figure}
 
 
 \section{Conclusioni}
