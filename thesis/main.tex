@@ -142,7 +142,17 @@ prof. Massimo \textsc{Villari} \\
 \pagebreak
 
 \section{Abstract}
-\pagebreak
+Questa tesi presenta un'analisi delle performance dei DBMS NoSQL MongoDB e neo4j 
+in relazione a quattro query scelte con complessità computazionale incrementale. 
+Il caso di studio preso in considerazione è quello di utilizzare la tecnologia a 
+grafo per identificare attività criminali attraverso l'analisi delle chiamate telefoniche. 
+I test sono stati eseguiti su una macchina virtuale con specifiche hardware e 
+utilizzando il linguaggio Python. I risultati dimostrano che MongoDB 
+ha tempi di esecuzione più brevi rispetto a neo4j per tutte le query, 
+con tempi di esecuzione più stabili e prevedibili. Inoltre, MongoDB mostra 
+una maggiore efficienza nella gestione dei carichi più leggeri rispetto a neo4j. 
+Questi risultati indicano che MongoDB è più efficiente per le 
+query considerate rispetto a neo4j.
 
 \section{Introduzione}
 In questa trattazione scientifica si descrivono le differenze del rendimento 
@@ -171,7 +181,7 @@ technology to identify criminal activities in call records?}\cite{linkurious} pr
 I test sono stati eseguiti su una macchina virtuale \textit{Debian Bullseye 11.5.0 }con 6GB di memoria RAM
 e 4 core di un \textit{AMD Ryzen 7 3700X} dedicati. 
 Viene utilizzato il linguaggio \textit{Python} per la generazione del dataset fittizio
-e il plotting delle misurazioni tramite la libreria \texttt{matplotlib}.
+e il plotting delle misurazioni tramite fogli di calcolo (LibreOffice Calc).
 
 \pagebreak
 \section{Caso di studio}
@@ -331,13 +341,13 @@ e le relazioni \textit{localizzata, Chiamante} e \textit{Chiamato}.
     Il file \texttt{config.ini} contiene i parametri fissi che indicano il numero di record da generare.
     Al momento dell'avvio dello script viene passato un parametro $L$ che indica la percentuale
     del carico in base a questi valori. 
-    Come valori predefiniti si è scelto 50000 persone, 10000 celle e 200000 chiamate.
+    Come valori predefiniti si è scelto 75000 persone, 25000 celle e 1000000 chiamate.
     
     \begin{lstlisting}[caption=config.ini]
-[load]
-MAX_PEOPLE=50000
-MAX_CELLS=10000
-MAX_CALLS=200000
+        [load]
+        MAX_PEOPLE=75000
+        MAX_CELLS=25000
+        MAX_CALLS=1000000
     \end{lstlisting}
 
     \pagebreak
@@ -633,7 +643,23 @@ la generazione dei grafici a seguire.
 
 
 \section{Conclusioni}
-Si osserva che MongoDB è in vantaggio consistente per dataset di medie dimensioni e che 
+I risultati dimostrano che MongoDB presenta tempi di esecuzione più brevi rispetto a 
+neo4j per tutte e quattro le query. Man mano che la complessità 
+computazionale delle query aumenta, i tempi di esecuzione di neo4j aumentano in modo 
+significativo, a differenza dei tempi di MongoDB che rimangono relativamente costanti. I 
+dati mostrano che, aumentando il carico, i tempi di esecuzione di entrambi i DBMS 
+aumentano, ma in misura maggiore per neo4j. Pertanto, MongoDB sembra essere più 
+efficiente per queste query rispetto a neo4j. Inoltre possiamo esumere dai risultati che la 
+deviazione standard per i tempi di esecuzione di MongoDB è generalmente più bassa rispetto 
+a quella di neo4j, indicando che i tempi di esecuzione di MongoDB sono più 
+prevedibili e stabili. La differenza tra i tempi di esecuzione della 
+prima esecuzione e la media è più piccola per MongoDB rispetto a neo4j, 
+il che indica che MongoDB è più rapido nel raggiungere una performance stabile rispetto a neo4j.
+Oltre ciò, si può dedurre in base ai dati che MongoDB ha una maggiore efficienza nella 
+gestione dei carichi più leggeri rispetto a neo4j.
+In conclusione, questi risultati indicano che MongoDB è più efficiente per le 
+query considerate rispetto a neo4j, sia in termini di tempi 
+di esecuzione sia di stabilità e prevedibilità dei tempi di esecuzione.
 
 
 \begin{thebibliography}{1}

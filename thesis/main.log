@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.22)  13 JAN 2023 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.7.22)  15 JAN 2023 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -511,122 +511,122 @@ Package pdftex.def Info: unime.png  used on input line 133.
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 165--175
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 175--185
 
  []
 
-[3]
-<er.png, id=30, 603.25375pt x 412.54124pt>
+[2] [3]
+<er.png, id=29, 603.25375pt x 412.54124pt>
 File: er.png Graphic file (type png)
 <use er.png>
-Package pdftex.def Info: er.png  used on input line 193.
+Package pdftex.def Info: er.png  used on input line 203.
 (pdftex.def)             Requested size: 351.31378pt x 240.24979pt.
 
-Overfull \hbox (8.31378pt too wide) in paragraph at lines 193--194
+Overfull \hbox (8.31378pt too wide) in paragraph at lines 203--204
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
 [4 <./er.png>] [5] [6] [7] [8] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 421--426
+Underfull \hbox (badness 10000) in paragraph at lines 431--436
 
  []
 
 [11]
-Overfull \hbox (7.03969pt too wide) in paragraph at lines 452--459
+Overfull \hbox (7.03969pt too wide) in paragraph at lines 462--469
 \OT1/cmr/m/n/10.95 Le query pre-sen-tate di se-gui-to sono def-i-nite nei file sor-gen-ti \OT1/cmtt/m/n/10.95 mongo[]queries.py
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 473.
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 483.
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 <query1.png, id=61, 839.135pt x 122.4575pt>
 File: query1.png Graphic file (type png)
 <use query1.png>
-Package pdftex.def Info: query1.png  used on input line 483.
+Package pdftex.def Info: query1.png  used on input line 493.
 (pdftex.def)             Requested size: 321.20117pt x 46.87253pt.
 <query1_fr.png, id=62, 904.37875pt x 507.8975pt>
 File: query1_fr.png Graphic file (type png)
 <use query1_fr.png>
-Package pdftex.def Info: query1_fr.png  used on input line 485.
+Package pdftex.def Info: query1_fr.png  used on input line 495.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
 <query1_avg.png, id=63, 904.37875pt x 507.8975pt>
 File: query1_avg.png Graphic file (type png)
 <use query1_avg.png>
-Package pdftex.def Info: query1_avg.png  used on input line 487.
+Package pdftex.def Info: query1_avg.png  used on input line 497.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
  [12] [13 <./query1.png> <./query1_fr.png> <./query1_avg.png>]
 <query2.png, id=75, 839.135pt x 122.4575pt>
 File: query2.png Graphic file (type png)
 <use query2.png>
-Package pdftex.def Info: query2.png  used on input line 524.
+Package pdftex.def Info: query2.png  used on input line 534.
 (pdftex.def)             Requested size: 321.20117pt x 46.87253pt.
 <query2_fr.png, id=76, 904.37875pt x 507.8975pt>
 File: query2_fr.png Graphic file (type png)
 <use query2_fr.png>
-Package pdftex.def Info: query2_fr.png  used on input line 526.
+Package pdftex.def Info: query2_fr.png  used on input line 536.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
 <query2_avg.png, id=77, 904.37875pt x 507.8975pt>
 File: query2_avg.png Graphic file (type png)
 <use query2_avg.png>
-Package pdftex.def Info: query2_avg.png  used on input line 528.
+Package pdftex.def Info: query2_avg.png  used on input line 538.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
  [14] [15 <./query2.png> <./query2_fr.png> <./query2_avg.png>]
 <query3.png, id=87, 839.135pt x 122.4575pt>
 File: query3.png Graphic file (type png)
 <use query3.png>
-Package pdftex.def Info: query3.png  used on input line 571.
+Package pdftex.def Info: query3.png  used on input line 581.
 (pdftex.def)             Requested size: 321.20117pt x 46.87253pt.
 <query3_fr.png, id=88, 904.37875pt x 507.8975pt>
 File: query3_fr.png Graphic file (type png)
 <use query3_fr.png>
-Package pdftex.def Info: query3_fr.png  used on input line 573.
+Package pdftex.def Info: query3_fr.png  used on input line 583.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
 <query3_avg.png, id=89, 904.37875pt x 507.8975pt>
 File: query3_avg.png Graphic file (type png)
 <use query3_avg.png>
-Package pdftex.def Info: query3_avg.png  used on input line 575.
+Package pdftex.def Info: query3_avg.png  used on input line 585.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
  [16] [17 <./query3.png> <./query3_fr.png> <./query3_avg.png>]
 <query4.png, id=99, 839.135pt x 122.4575pt>
 File: query4.png Graphic file (type png)
 <use query4.png>
-Package pdftex.def Info: query4.png  used on input line 626.
+Package pdftex.def Info: query4.png  used on input line 636.
 (pdftex.def)             Requested size: 321.20117pt x 46.87253pt.
 <query4_fr.png, id=100, 904.37875pt x 507.8975pt>
 File: query4_fr.png Graphic file (type png)
 <use query4_fr.png>
-Package pdftex.def Info: query4_fr.png  used on input line 628.
+Package pdftex.def Info: query4_fr.png  used on input line 638.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
 <query4_avg.png, id=101, 904.37875pt x 507.8975pt>
 File: query4_avg.png Graphic file (type png)
 <use query4_avg.png>
-Package pdftex.def Info: query4_avg.png  used on input line 630.
+Package pdftex.def Info: query4_avg.png  used on input line 640.
 (pdftex.def)             Requested size: 351.31378pt x 197.2965pt.
  [18] [19 <./query4.png> <./query4_fr.png> <./query4_avg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 640--641
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
 []\OT1/cmr/m/n/10.95 https://linkurious.com/blog/how-to-use-phone-calls-and-network-
  []
 
 [20] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 18198 strings out of 480852
- 335120 string characters out of 5906873
+ 18199 strings out of 480852
+ 335128 string characters out of 5906873
  1077839 words of memory out of 6000000
- 35192 multiletter control sequences out of 15000+600000
+ 35193 multiletter control sequences out of 15000+600000
  412136 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,8n,97p,465b,1464s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on main.pdf (21 pages, 1875741 bytes).
+Output written on main.pdf (21 pages, 1877752 bytes).
 PDF statistics:
  161 PDF objects out of 1000 (max. 8388607)
  95 compressed objects within 1 object stream
